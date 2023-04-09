@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Bloom?>
+<?import javafx.scene.effect.DropShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="620.0" prefWidth="1000.0" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.offlinedictionary.Controller">
+   <children>
+      <HBox alignment="TOP_RIGHT" opacity="0.4" prefHeight="107.0" prefWidth="1000.0" style="-fx-background-color: black;">
+         <children>
+            <Pane prefHeight="107.0" prefWidth="254.0">
+               <children>
+                  <Label alignment="TOP_LEFT" layoutX="1.0" layoutY="-3.0" prefHeight="107.0" prefWidth="187.0" text="Offline&#10;Dictionary" textFill="WHITE" textOverrun="WORD_ELLIPSIS" wrapText="true">
+                     <font>
+                        <Font name="SansSerif Regular" size="36.0" />
+                     </font>
+                     <padding>
+                        <Insets left="10.0" top="10.0" />
+                     </padding>
+                     <effect>
+                        <Bloom threshold="0.95" />
+                     </effect>
+                  </Label>
+               </children>
+               <effect>
+                  <DropShadow />
+               </effect>
+            </Pane>
+            <Button fx:id="infoButton" mnemonicParsing="false" onAction="#infoSection" prefHeight="107.0" prefWidth="218.0" stylesheets="@Style.css" text="INFO" textFill="WHITE" wrapText="true">
+               <font>
+                  <Font name="Microsoft JhengHei" size="20.0" />
+               </font>
+               <effect>
+                  <Bloom />
+               </effect>
+            </Button>
+            <Button id="developersBtn" fx:id="developersBtn" alignment="CENTER" layoutX="470.0" layoutY="10.0" mnemonicParsing="false" onAction="#showDevs" prefHeight="107.0" prefWidth="264.0" stylesheets="@Style.css" text="DEVELOPERS" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+               <font>
+                  <Font name="Microsoft JhengHei" size="20.0" />
+               </font>
+               <effect>
+                  <Bloom threshold="0.0" />
+               </effect>
+            </Button>
+            <Button id="editBtn" fx:id="editBtn" alignment="CENTER" mnemonicParsing="false" prefHeight="107.0" prefWidth="228.0" stylesheets="@Style.css" text="EDIT" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+               <font>
+                  <Font name="Microsoft JhengHei" size="20.0" />
+               </font>
+               <effect>
+                  <Bloom threshold="0.0" />
+               </effect>
+            </Button>
+            <Button id="helpBtn" fx:id="helpBtn" alignment="CENTER" layoutX="10.0" layoutY="10.0" mnemonicParsing="false" onAction="#showHelpMenu" prefHeight="107.0" prefWidth="221.0" stylesheets="@Style.css" text="HELP" textAlignment="CENTER" textFill="WHITE" textOverrun="CENTER_ELLIPSIS">
+               <font>
+                  <Font name="Microsoft JhengHei" size="18.0" />
+               </font>
+               <effect>
+                  <Bloom threshold="0.0" />
+               </effect>
+            </Button>
+            <Button id="exitBtn" fx:id="exitBtn" alignment="CENTER" layoutX="201.0" layoutY="10.0" mnemonicParsing="false" onAction="#closeApp" prefHeight="110.0" prefWidth="260.0" stylesheets="@Style.css" text="EXIT" textAlignment="CENTER" textFill="WHITE">
+               <font>
+                  <Font name="Microsoft JhengHei" size="18.0" />
+               </font>
+               <effect>
+                  <Bloom threshold="0.0" />
+               </effect>
+            </Button>
+         </children>
+      </HBox>
+      <Label fx:id="helpMenu" alignment="TOP_LEFT" layoutX="775.0" layoutY="174.0" prefHeight="240.0" prefWidth="210.0" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Label fx:id="devsMenu" alignment="TOP_LEFT" layoutX="775.0" layoutY="426.0" prefHeight="180.0" prefWidth="210.0" textFill="WHITE">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <Pane layoutX="305.0" layoutY="116.0" prefHeight="32.0" prefWidth="75.0">
+         <children>
+            <Button id="trasnlateBtn" fx:id="translateBtn" layoutY="2.0" mnemonicParsing="false" onAction="#translate" prefHeight="32.0" prefWidth="75.0" style="-fx-background-radius: 20;" stylesheets="@Style.css" text="Translate" textFill="WHITE" textOverrun="CLIP">
+               <font>
+                  <Font name="Microsoft New Tai Lue" size="14.0" />
+               </font>
+               <effect>
+                  <Bloom />
+               </effect>
+            </Button>
+         </children>
+      </Pane>
+      <TextField fx:id="searchText" layoutX="33.0" layoutY="116.0" prefHeight="32.0" prefWidth="253.0" promptText="Enter Text" />
+      <TextArea fx:id="translateArea" editable="false" layoutX="21.0" layoutY="161.0" prefHeight="442.0" prefWidth="750.0">
+         <font>
+            <Font size="21.0" />
+         </font></TextArea>
+   </children>
+</AnchorPane>
