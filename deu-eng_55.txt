@@ -495,7 +495,7 @@ Neutrum>neuter
 Blumenkelle>flower trowel,hand trowel
 Erfolgskonten>profit and loss accounts
 Vereinigungsmenge>union of sets,set union
-„Stört es Sie, wenn ich rauche?“ „Also mir wär's eigentlich lieber, wenn Sie's nicht tun.“>'Do you mind if I smoke?' – 'Well, actually I'd rather you didn't.'
+�?Stört es Sie, wenn ich rauche?“ �?Also mir wär's eigentlich lieber, wenn Sie's nicht tun.“>'Do you mind if I smoke?' – 'Well, actually I'd rather you didn't.'
 eingeschleppte Infektionskrankheit>ecdemic infection,introduced infection
 Kreuzlespiel>Dots and Boxes,Dots and Lines
 Leere>pirn,tapered spool
@@ -1267,7 +1267,7 @@ Beskidengebirge>Beskid Mountains,Beskids
 Kaltstauchstahl>cold-upsetting steel,cold-heading steel
 Arbeiterwohnheim>workers' hostel
 über drübergeschrieben>overwritten,written on top
-Die Vereinbarung „historisch“ zu nennen, wäre verfehlt.>To call the agreement 'historical' would be a misnomer.
+Die Vereinbarung �?historisch“ zu nennen, wäre verfehlt.>To call the agreement 'historical' would be a misnomer.
 Kursbindung>pegging of exchange rates
 Epidemiespezialistin>epidemiologist
 Unsere Gene machen uns für bestimmte Krankheiten anfällig.>Our genes dispose us towards particular diseases.
@@ -1408,7 +1408,7 @@ unheimlich gewesen>given the creeps,given the willies
 dem Vordermann an der Stoßstange kleben>tailgate the motorist in front
 echtes Gold>real gold
 Schneckenkante>anti-slug edge
-„Wer holt die Brötchen vom Bäcker?“ „Werfen wir eine Münze.“>'Who's going to get the bread at the bakery?' 'Let's toss for it.'
+�?Wer holt die Brötchen vom Bäcker?“ �?Werfen wir eine Münze.“>'Who's going to get the bread at the bakery?' 'Let's toss for it.'
 Leidenschaftlichkeit>zest,zestfulness
 veranschlagte>assessed,estimated
 Sinai-Halbinsel>Sinai Peninsula
@@ -5788,7 +5788,7 @@ scharfe Dissektion>sharp dissection
 natürliche Zahl>natural,natural number
 Zugriffskontrollisten>access control lists
 spannt an>braces
-„Geben und Nehmen“ lautet die Devise.>'Give and take' is the name of the game.
+�?Geben und Nehmen“ lautet die Devise.>'Give and take' is the name of the game.
 Vorfeldrechner>front-end computer,front-end computers
 Musikbesessenen>melomaniacs
 trüb>bleak,mit etw. sieht es trübe aus
@@ -8477,7 +8477,7 @@ etw. entäußern>dispose of sth.
 mit unterschiedlicher Priorität versehend>prioritizing,prioritising
 Revue passieren lassen>pass in review,Revue passieren lassend
 der amerikanische Traum>the American dream
-und tatsächlich>sure enough,„Halt“
+und tatsächlich>sure enough,�?Halt“
 Gründerjahre>years of rapid industrial expansion in Germany
 Abströmlochblech>perforated sheet metal plate for air discharge
 Durchfall>diarrhoea,diarrhea
@@ -15034,7 +15034,7 @@ vor Freude überschäumen>bubble over with joy
 Unmarkierung>unmark
 Mantelblech>jacket sheet
 Näherungsformeln>approximate formulas,approximation formulas
-„Wird sie gewinnen?“, „Sieht nicht so aus.“>'Will she win?', 'Not likely.'
+�?Wird sie gewinnen?“, �?Sieht nicht so aus.“>'Will she win?', 'Not likely.'
 Bequemschuh>comfortable shoe
 Bürgerbewegungen>citizens' movements
 Die Männer sind alle gleich.>Men are all the same.
@@ -16306,7 +16306,7 @@ Telefonvermittlerin>operator
 Kartoffelsäcke>potato sacks
 durchfluchten>align sth.,line up sth.
 kribbelnd>itching,creepy-crawly
-„Was hast du getan?“, schrie Elli voller Schrecken.>'What have you done?' Ellie cried in alarm.
+�?Was hast du getan?“, schrie Elli voller Schrecken.>'What have you done?' Ellie cried in alarm.
 Ausschlagbecken>slurry pond,tailings pond
 Administratorenrechte>administrator privileges,sich mit Administratorenrechten anmelden
 Gesamtmarkt>total market
@@ -17621,7 +17621,7 @@ elf Tage dauernd>eleven-day,eleven-day-long
 verunklären>obscure sth.,obfuscate sth.
 empfindbar>sensible
 Hahnenkämpfe>cockfights
-„Kann ich Sie als Spender vormerken?“, „Ja, Sie können mich mit 30 EUR eintragen.“>Can I put you down for a donation?', ' Yes
+�?Kann ich Sie als Spender vormerken?“, �?Ja, Sie können mich mit 30 EUR eintragen.“>Can I put you down for a donation?', ' Yes
 Zossen>nag,hack
 neu untersuchend>reinvestigating,restudying
 Programmsteuerung>program control
@@ -19143,7 +19143,7 @@ mitkommen müssen>have to come with sb.,have to go with sb.
 zu Land>onshore,ashore
 sich abwendend>disowning,turning away
 Wertpapierdepots>securities deposit accounts,securities portfolios
-„Darüber gibt's keine Diskussion.“ „Dann eben nicht – Ausbaden musst du dann die Sache.“>'I won't discuss it.' 'Don't then – it's your funeral.'
+�?Darüber gibt's keine Diskussion.“ �?Dann eben nicht – Ausbaden musst du dann die Sache.“>'I won't discuss it.' 'Don't then – it's your funeral.'
 Zierbäume>ornamental trees
 fünfzigstens>fiftieth
 in doppelter Ausfertigung>in duplicate
@@ -19925,7 +19925,7 @@ erinnerte>reminded,commemorated
 Diazoduplikat>diazo duplicate
 Atomunfalle>nuclear accidents
 Senkkasten>caisson,cofferdam
-„Ich bin spätestens um Mitternacht wieder da.“ „Versprochen?“ „Ja.“>'I'll be back by midnight.' 'Promise?' 'Yes'.
+�?Ich bin spätestens um Mitternacht wieder da.“ �?Versprochen?“ �?Ja.“>'I'll be back by midnight.' 'Promise?' 'Yes'.
 innerhalb der Hirnhäute>intrameningeal
 peroral>peroral
 Freudenhaus>brothel,bordello
@@ -21625,7 +21625,7 @@ vesikulär>vesicular
 Situationsangemessenheit>felicitousness
 bog ab>turned
 Lichtmaschinensatz>lighting set
-Es gibt immer einige, ich betone „einige“, nicht alle.>There are always some, and note I say "some"
+Es gibt immer einige, ich betone �?einige“, nicht alle.>There are always some, and note I say "some"
 verschwimmen>blur,Die Grenzen (zwischen etw.) verschwimmen.
 Golf spielen>golf
 Er hatte die Schnauze gestrichen voll vom Gefängnisalltag.>He was weary of prison life.
@@ -21911,7 +21911,7 @@ Mach dir keine Sorgen.>Don't sweat it.
 Vorband>supporting band,support
 überdimensional>inordinate,oversized
 übernehmend>accepting,picking up
-Bremsartstellung „Ebene/Gefälle“>"plain/mountain" braking system
+Bremsartstellung �?Ebene/Gefälle“>"plain/mountain" braking system
 Fototherapie>light therapy,phototherapy
 Wiedereinbringung>recovery of debts
 Wachstumsvorgang>growth process
@@ -22032,7 +22032,7 @@ Blockgussteil>en bloc casting
 Fahrwerksgondel>landing gear pod
 Wolkenschnitt>partition line nebuly
 Rindslende>loin of beef
-Île-de-France>Île-de-France
+�?le-de-France>�?le-de-France
 Ablaufrinne>drain channel,discharge channel
 gewöhnlicher Rippenfarn>deer fern,hard fern
 Plasmaersatzmittel zur Auffüllung des Blutkreislaufs>plasma expander
@@ -22332,7 +22332,7 @@ Riff>reef,an Riffen leben
 Ausbildungsstelle>training company,training shop
 fröhlich singend>caroling
 königliches Vorrecht>royal prerogative
-„Das war das Beste, was ich je gegessen habe“, rief er begeistert.>'That was the best meal I've ever had!' he exulted.
+�?Das war das Beste, was ich je gegessen habe“, rief er begeistert.>'That was the best meal I've ever had!' he exulted.
 Ganzmetallflugzeug>all-metal aircraft
 herborgen>lend out sth.
 gespartes Geld>savings,money put aside
@@ -23696,7 +23696,7 @@ den Schaden rückgängig machen>reverse the damage done
 Strafstoßtor>penalty-kick goal,penalty goal
 tweedhaft>tweedy
 Bläserverfahreinrichtung>sootblower retract mechanism
-„Süßes oder Saures!“>"Trick or treat!"
+�?Süßes oder Saures!“>"Trick or treat!"
 Schriftgrafik>typographical design
 phrasal>phrasal
 Genickstück>headpiece,headstall
@@ -23933,7 +23933,7 @@ Abschmatzen>giving/getting big smacking kisses
 Pekinesen>Pekingeses,Pekineses
 Halali>mort,das Halali blasen
 etw. locker machen>loosen sth.
-„Wer ist da?“ „Ich“>'Who's there?' 'I am.' / 'It's me.'
+�?Wer ist da?“ �?Ich“>'Who's there?' 'I am.' / 'It's me.'
 Rechtsanwaltsgehilfinnen>legal assistents,legal secretaries
 effektiver Wert>cash value,money value
 Ventileinsatzführungsstangenköpfe>core pin heads
@@ -24083,7 +24083,7 @@ Stickmustertuch>sampler
 Anschluss…>terminal
 Testmethode>test specification,test procedure
 sich dargeboten>presented
-gleichfalls>likewise,„Noch einen schönen Tag.“ „Danke
+gleichfalls>likewise,�?Noch einen schönen Tag.“ �?Danke
 Ansagegerät>public address unit
 Prüfgerät für Rückwandplatinen>backplane test instrument,backplane tester
 Deckstein>capstone,endstone
@@ -25150,7 +25150,7 @@ Apsidendrehung>apsidal precession
 etw. beklagen>lament sth.,wail sth.
 zaudern>hesitate,tarry
 trotz Schwierigkeiten weitermachen>struggle along/on
-„Dixi-Klo“>portable toilet,Portaloo
+�?Dixi-Klo“>portable toilet,Portaloo
 Greifereinrichtung>grab equipment
 steuerbefreiter Umsatz>tax-exempt turnover
 Produktionsstätten>production plants,production areas
@@ -27887,7 +27887,7 @@ per Anschlag ankündigend>announcing by poster
 Akustikdecke>acoustic ceiling
 Dachhülsen>roof sleeves
 darin>therein,in it
-„Ich kann nicht“, sagte sie mit versagender Stimme>'I can't,' she faltered.
+�?Ich kann nicht“, sagte sie mit versagender Stimme>'I can't,' she faltered.
 murengefährdetes Gebiet>mudflow-prone area,debris flow-threatened area
 O-Ton>money quote,original sound
 Seine Frau ist sein schärfster Kritiker.>His wife is his fiercest critic.
@@ -28147,7 +28147,7 @@ Gemeine Hasel>common hazel,hazel bush
 Zwerchfell…>phrenic
 Schluchtenlaubsänger>large-billed willow warbler
 Kragteil>cantilever element
-„Halte durch!“>'Hang (on) in there!',Don't quit!'
+�?Halte durch!“>'Hang (on) in there!',Don't quit!'
 spinnenhaft>spidery
 durch Gletschertätigkeit/Glazialerosion geformt/geprägt (worden) sein>be affected by glacial action,be glaciated
 Vereinsmagazine>association magazines,organization's periodicals
@@ -32038,7 +32038,7 @@ Abendverkauf>late opening
 neu gewogen>reweighed
 Dichtbeilage>gasket
 Elterntyp>parental type
-„Geh auf dein Zimmer!“, „Ich geh ja schon.“>'Go to your room', 'All right
+�?Geh auf dein Zimmer!“, �?Ich geh ja schon.“>'Go to your room', 'All right
 Herrschergeschlecht>reigning dynasty
 sorgloser>more thoughtless
 Sie harmonieren überhaupt nicht.>There is no sympathy between them.
@@ -33104,7 +33104,7 @@ Gebirgsgrünland>montane grasslands
 niedergefallen>fallen down
 hob empor>upheaved
 Chemiepumpen>chemical pumps,centrifugal volute pumps
-Schauen Sie nächste Woche wieder rein, wenn es heißt „Happy Hour“.>Tune in next week for another episode of 'Happy Hour'.
+Schauen Sie nächste Woche wieder rein, wenn es heißt �?Happy Hour“.>Tune in next week for another episode of 'Happy Hour'.
 Geldtransfer>transfer of funds
 Lenkerband>bar tape,handlebar tape
 Neutronensprengkopf>neutron warhead
@@ -33216,7 +33216,7 @@ eingekürzt>spared back
 Aktionsräder>impulse wheels
 Stempelbeton>stamped concrete
 Möbeldesignerin>furniture designer
-„Darf ich dich was fragen?“ „Schieß los!“>'Do you mind if I ask you something?' 'Fire away.'
+�?Darf ich dich was fragen?“ �?Schieß los!“>'Do you mind if I ask you something?' 'Fire away.'
 Dosiereinheit>dosing unit
 Decken>blankets,marking
 Deckel>book case,case
@@ -34839,7 +34839,7 @@ berufsrechtswidriges Verhalten>professional misconduct
 ungelernte Mitarbeiter>unskilled labour,unskilled labor
 Ackerflächen rund um den Bauernhof>inflields
 Lispeln>lisping
-„Thomas!“ „Ja, Viviana?“>"Thomas!' 'Yes, Vivian?'
+�?Thomas!“ �?Ja, Viviana?“>"Thomas!' 'Yes, Vivian?'
 Druckbeaufschlagung>pressurization,pressurisation
 Geldmittel für den Katastrophenfall>disaster funds
 Insellage>insularity
@@ -35268,7 +35268,7 @@ Tenorit>tenorite,melaconite
 3-Nitrobenzamid>3-nitrobenzamide
 Grabenverbau>pit lining,trench lining
 Werkstattprozess>workshop process
-„Was ziehst du an, wenn du ausgehst?“ „Na ja, das ist verschieden.“>'What do you wear when you go out?' 'Well, it varies.'
+�?Was ziehst du an, wenn du ausgehst?“ �?Na ja, das ist verschieden.“>'What do you wear when you go out?' 'Well, it varies.'
 Absetzzone>drop zone
 Kontenspalte>account column
 mamillar>mamillary
@@ -35778,10 +35778,10 @@ Restglied>remainder
 eine Bezugsquelle für etw. ausfindig machen>source sth.,source a supply of sth.
 unverständliches Nebensprechen>unintelligible cross-talk,inverted crosstalk
 Aist>Aist
-Ich werde den ersten Teil mit „Alpha“ bezeichnen.>I'll designate the first part "alpha".
+Ich werde den ersten Teil mit �?Alpha“ bezeichnen.>I'll designate the first part "alpha".
 solvent>solvent,able to pay
 I-Halbleiter>intrinsic semiconductor,i-type semiconductor
-Angebot „zwei zum Preis von einem“>twofer
+Angebot �?zwei zum Preis von einem“>twofer
 an einen Ort gestolpert>blundered into/onto a place
 Neutralleiter>neutral wire,neutral conductor
 Panzerbordkanonen>tank guns
@@ -37299,7 +37299,7 @@ Exanthem>cutaneous eruption,eruption exanthema
 Ich habe heute einen ganzen Haufen Sachen zu tun.>I have umpteen things to do today.
 Dämpfung>decay,ramp-down
 Schwingungsaufnehmer>vibration pickup,vibration pickups
-„Ich bin Vegetarier.“ „Seit wann denn das?“>'I'm a vegetarian.' 'Since when?'
+�?Ich bin Vegetarier.“ �?Seit wann denn das?“>'I'm a vegetarian.' 'Since when?'
 jdm. etw. entreißen>snatch (away) sth. from sb.,wrest sth. from sb.
 neu verputzt>replastered
 Als seine Entscheidung bekannt wurde, war in der gesamten Fußballwelt die Hölle los.>When his decision became public, bedlam broke out across the soccer world.
@@ -38830,7 +38830,7 @@ Meereswellenenergie>wave energy,wave power
 Teilprojektleiterin>subproject manager
 Treibbeet>hotbed
 'Hasenherz'>'Rabbit, Run'
-„Wo gehst du hin?“ – „Weg!“>'Where are you going?' – 'Out!'
+�?Wo gehst du hin?“ – �?Weg!“>'Where are you going?' – 'Out!'
 Konzeptkünstlerinnen>conceptual artists,concept artists
 Karmeliterschwester>Carmelite nun,Carmelite sister
 Anch>ankh,key of life
@@ -46897,7 +46897,7 @@ ohne Kaufzwang>with no obligation to buy
 irgendwo>somewhere,somewhere or other
 stoffgeleimt>stock-sized
 eine Waffe auf jdn. richten>train a gun at sb.
-Bremsartstellung „leer/beladen“>"empty/loaded" braking system
+Bremsartstellung �?leer/beladen“>"empty/loaded" braking system
 Dachdecker>roofer,roofer
 Geschoßzapfen>stud of the projectile,detonator seat
 Vorwahlwert>preset value
@@ -47398,7 +47398,7 @@ im Rotlichtmilieu>in the sex trade
 etw. spielend gewinnen>romp home
 TOYM>Turn on your mind!
 Küstenwüstenleguan>coastal desert iguana
-„Drei auf einen Streich“>trifecta
+�?Drei auf einen Streich“>trifecta
 gepflastert>stone setted,setted
 raumgreifend>space-filling,space-consuming
 Lufttransport>air transport,air transportation
@@ -47979,7 +47979,7 @@ Tropfsaft>drip fluid
 Bewegungsuntersuchung>motion study
 Führhunde>guide dogs,seeing eye dogs
 Geräusche>noises,sounds
-„Das glaubst du doch nicht wirklich?“ „Eigentlich schon.“>'You don't really believe that, do you?' – 'As a matter of fact/actually I do.'
+�?Das glaubst du doch nicht wirklich?“ �?Eigentlich schon.“>'You don't really believe that, do you?' – 'As a matter of fact/actually I do.'
 Traubenzucker>glucose,dextrose
 geraten>advisable,recommended
 Immobilienkönige>property kings
@@ -48074,7 +48074,7 @@ Hauptverbindung>main route,main track
 Hohes Christophskraut>black bugbane,black cohosh
 Hoffnungslosigkeit>desperateness,hopelessness
 Sansa>sansa
-„Bist du nicht einverstanden?“, „Doch, vollkommen!“>'Don't you agree?', 'Yes
+�?Bist du nicht einverstanden?“, �?Doch, vollkommen!“>'Don't you agree?', 'Yes
 Schwarzkehltrogon>black-throated trogon
 Obhut>care,charge
 Dienstwege>official channels,chains of command
@@ -48204,7 +48204,7 @@ Sitzbein>ischium
 Stickstoffversorgung>nitrogen status,nitrogen supply
 Finanzabteilung>finance department,accounts department
 Selchfleisch>smoked meat
-„Immer noch nicht aus dem Bett heraußen?“, sagte sie naserümpfend.>'Still not out of bed?' she tutted.
+�?Immer noch nicht aus dem Bett heraußen?“, sagte sie naserümpfend.>'Still not out of bed?' she tutted.
 Macherinnen>doers
 die Scheidung einreichen>sue for divorce,sue for a divorce
 auswerfend>expectorating,ejecting
@@ -51723,7 +51723,7 @@ amalgamieren>amalgamate
 selbstantwortend>autoanswering
 überliefert werden>be handed down,be passed on
 Vorderkopf>melon,forehead
-„Waidmannsheil!“ „Waidmannsdank!“>'Good hunting!' 'Good hunting!'
+�?Waidmannsheil!“ �?Waidmannsdank!“>'Good hunting!' 'Good hunting!'
 gesund sein>be in good health,do good
 Spannwerk einer Drahtleitung>turnbuckle of a wire transmission
 Stau>tailback,traffic backup
@@ -52321,7 +52321,7 @@ räumliche Zuordenbarkeit>locatability
 Nachtschrank>nightstand,night table
 Revitalisierung>revitalization,revitalisation
 absehen von etw.>put aside sth.
-Das Arbeitsblatt „Überblick“ füllt sich automatisch mit den Daten aus dem Arbeitsblatt „Fortschritt“.>The 'summary' worksheet populates automatically from the 'progress' worksheet.
+Das Arbeitsblatt �?Überblick“ füllt sich automatisch mit den Daten aus dem Arbeitsblatt �?Fortschritt“.>The 'summary' worksheet populates automatically from the 'progress' worksheet.
 …prozentig>per-cent
 Immunkörperstrukturen>antibody structures,immune body structures
 Erbfeind>hereditary enemy
@@ -52559,7 +52559,7 @@ rein am Nutzwert orientiert>utilitarian
 Radzierblenden>wheel hub caps,wheel caps
 Populationswachtstum>population growth
 privater Bereich>private sector
-„Hausieren verboten!“>"No hawkers!"
+�?Hausieren verboten!“>"No hawkers!"
 herzergreifend>deeply moving,soul-stirring
 stichprobenweise Kontrollen>spot checks
 Kletterschalung>climbing formwork
@@ -55709,7 +55709,7 @@ Amtsführung>performance of duties,conduct of business
 Zipferl>willy,willie
 nierenschädigende Wirkung>kidney-damaging effect,nephrotoxcity
 bürstet aus>brushes
-„Entsagst du dem Teufel und allen seinen Werken?“ – „Ich entsage.“>'Do you renounce the devil, and all his works?' – 'I renounce them'
+�?Entsagst du dem Teufel und allen seinen Werken?“ – �?Ich entsage.“>'Do you renounce the devil, and all his works?' – 'I renounce them'
 Küstenbohrturm>offshore drill rig tower
 reif(er) werden>mature,reif(er) werdend
 mit Fluorid behandelnd>fluoridating
@@ -56941,7 +56941,7 @@ Förderwinden>hauling winches,hauling whims
 Sonnenblenden>sun visors,lens hoods
 Preiskalkulation>price estimation,price calculation
 Priesterloch>priest hole
-„Gibt nicht auf!“>'Hang (on) in there!',Don't quit!'
+�?Gibt nicht auf!“>'Hang (on) in there!',Don't quit!'
 Kettenradgarnitur>crankset
 Schneekopf-Fruchttaube>white-headed fruit dove
 Der Hügel war in helles Sonnenlicht getaucht.>The hill was bathed in brilliant sunshine.
@@ -57838,7 +57838,7 @@ Verdehnung>strain
 Geschiebeentnahme>excavation of bed-load,bed-load excavation
 Mikrointervall>micro-interval
 Deckungsumsatz>breakeven sales
-„Er dürfte ziemlich clever sein.“ „Na und ob der clever ist. Ein bisschen zu clever, wenn du mich fragst.“>'He seems pretty clever to me.' 'Oh, he's clever all right. A little too clever
+�?Er dürfte ziemlich clever sein.“ �?Na und ob der clever ist. Ein bisschen zu clever, wenn du mich fragst.“>'He seems pretty clever to me.' 'Oh, he's clever all right. A little too clever
 eidetisch>eidetic
 etw. wattieren>wad sth.,pad sth.
 auf jdn. den Eindruck machen>strike sb. as (being) sb./sth.
@@ -60767,7 +60767,7 @@ Altvorderen>ancestors
 Hosenbandorden>Order of the Garter,The Most Noble Order of the Garter
 Chefkoch>chef,head chef
 Ziegenböcke>billy goats,he goats
-„Der ist längst weg.“, warf sie ein.>'He left hours ago' she chipped in.
+�?Der ist längst weg.“, warf sie ein.>'He left hours ago' she chipped in.
 Es macht mir nichts (aus)!>I don't mind!
 vogelkundlich>ornithological,ornithologic
 Augenklappen>eye patches
@@ -61888,7 +61888,7 @@ Präastronautiker>ancient astronauts proponent,ancient astronauts proponents
 gepolt>polarized,polarised
 Kragen-Samtkaiserfisch>conspicuous angelfish
 Zunahmen>augmentations,increments
-Schlagtaste „Not-Aus“>emergency pushbutton,panic pushbutton
+Schlagtaste �?Not-Aus“>emergency pushbutton,panic pushbutton
 V-förmig angeordnete Flügel>dihedral wings
 Fehlerschutzgerät>error correction device
 Schweinehälfte>side of pork,Schweinehälfte ohne Kopf
@@ -63960,7 +63960,7 @@ Dichtebild>density image
 hohe Niederlage>hammering
 metastasierend>metastasizing,metastasising
 Reihenhaussiedlung>estate of terraced houses
-„Sie kann jederzeit kommen und sich aussprechen.“ „Gut. Ich sag's ihr.“>'She can come any time to talk it out.' 'Okay. I'll tell her.'
+�?Sie kann jederzeit kommen und sich aussprechen.“ �?Gut. Ich sag's ihr.“>'She can come any time to talk it out.' 'Okay. I'll tell her.'
 Gedächtnisverlust>memory loss,amnesia
 CTVS>canine transmissible venereal tumor,transmissible venereal tumor
 Assistent des Produzenten>assistant to producer
@@ -64188,7 +64188,7 @@ zählte auf>listed,enumerated
 Sie ist nie zufrieden.>There's no pleasing her.
 Friedensbedingungen>conditions of peace,peace terms
 sich verwundern>be surprised,be astonished
-„Halt du dich da 'raus!“, knurrte er.>'Keep out of this', he growled/snarled.
+�?Halt du dich da 'raus!“, knurrte er.>'Keep out of this', he growled/snarled.
 die verschiedensten Sorten>many different kinds,all sorts
 Einzellöschzeichen>character erase
 Geländeknick>break of slope,break in slope
@@ -70141,7 +70141,7 @@ Globetrotten>globe-trotting
 Globalstrahlung>global irradiance,solar radiation
 kräftiger Schluck>swig
 Förderbandende>end of belt
-wuff>woof,„wuff“ machen
+wuff>woof,�?wuff“ machen
 Barex>barex
 Gewitter>thunderstorm,storm
 Kofferraumleuchten>boot lamps,trunk lamps
@@ -71309,7 +71309,7 @@ Ausfräsungen>milled-out portions,milled edges
 Luftfahrtunternehmen>aeronautical company,airline
 Buderl>jigger,pony
 Zahlungsaufforderungen>requests for payment,demands for payment
-„Erheben Sie sich bitte!“, sagte der Saaldiener gravitätisch.>'All rise,' intoned the usher.
+�?Erheben Sie sich bitte!“, sagte der Saaldiener gravitätisch.>'All rise,' intoned the usher.
 gehakelt>finger-wrestled
 ein Messgerät justieren>adjust a measuring device
 selbst>personally,in person

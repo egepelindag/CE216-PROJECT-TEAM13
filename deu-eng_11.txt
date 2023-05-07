@@ -1005,7 +1005,7 @@ Klopfbrett>knocking board
 Das ist mir neu.>That's news to me.
 Tiergeister>spirit animals
 Schlangenrohrvorwärmer>bare-tube economizer
-falsch gelesen>misread,Einige haben „fünfzigste“ falsch gelesen als „fünfte“.
+falsch gelesen>misread,Einige haben �?fünfzigste“ falsch gelesen als �?fünfte“.
 Beerdigungsfeiern>burial services,burial ceremonies
 Kolanüsse>kola nuts
 Montagerichtungen>mounting directions
@@ -3072,7 +3072,7 @@ einen Wahlkampfauftritt/Wahlkampfauftritte absolvieren>canvass
 Periphyton>periphyton,aufwuchs
 sich zu weit hinausgelehnt>overreached
 ich/er/sie trat heraus>I/he/she came out,I/he/she stepped out
-Dublin>Dublin,Baile Átha Cliath
+Dublin>Dublin,Baile �?tha Cliath
 Hauptfeder>mainsprings
 Unvoreingenommenheit>impartiality
 Hippe>billhook,scythe
@@ -6872,7 +6872,7 @@ Steuererleichterungen>tax reliefs,tax concessions
 langer Aufbau>long superstructure
 Inspirationsquellen>sources of inspiration
 Engstirnigkeit>insularity,parochialism
-„Was war das für ein Geräusch?“ „Ich gehe nachsehen.“>'What was that noise?' 'I'll go and investigate.'
+�?Was war das für ein Geräusch?“ �?Ich gehe nachsehen.“>'What was that noise?' 'I'll go and investigate.'
 Filterwatte>filter cotton,floss cotton
 unverbastelt>free from defects
 Tischgespräch>table conversation,table talk
@@ -14290,7 +14290,7 @@ neu sägen>resaw
 Störgeräusch>background noise,babble
 von einem Mann flachgelegt werden>get nailed
 Transposition>transposition,transposition
-„Hast du dir weh getan?“ „Nein, mir geht's gut.“>'Did you hurt yourself?' 'No, I'm fine.'
+�?Hast du dir weh getan?“ �?Nein, mir geht's gut.“>'Did you hurt yourself?' 'No, I'm fine.'
 jdn. entehren>dishonour sb.,dishonor sb.
 Suche>search,hunt
 aufgeblendet>turned up the headlights
@@ -16269,7 +16269,7 @@ sich (an einem Ort) frei bewegen können>be able to move about feely
 Mediendesign>media design
 Karrierechancen>job opportunities,career opportunities
 Nach all den Lügen sollte man ihr jetzt nichts mehr so ohne weiteres glauben.>After all her lying, nothing she says now should be taken at face value.
-Auf seiner Brust prangte der Schriftzug „Die Liebe siegt“.>He had the letters 'Love wins' blazoned across his chest.
+Auf seiner Brust prangte der Schriftzug �?Die Liebe siegt“.>He had the letters 'Love wins' blazoned across his chest.
 Das war zum Schreien.>That was a scream.,That was too funny for words.
 magerer>more meagre,more meager
 nachgerade>well-nigh,Das ist nicht nur möglich
@@ -17299,7 +17299,7 @@ Systemsprachen>system languages
 Erfolgsrechnung>income and loss statement,statement of earnings
 ganze Serie>battery of sb./sth.,eine ganze Serie von Tests
 Funkkontakt>radio contact
-Postvermerk>postal note,Das Päckchen kam mit dem Postvermerk „nicht abgeholt“ zurück.
+Postvermerk>postal note,Das Päckchen kam mit dem Postvermerk �?nicht abgeholt“ zurück.
 serumähnlich>serous
 Planfräsmaschine>planomilling machine
 überbelegen>overstaff
@@ -20054,7 +20054,7 @@ Gefahr kumulativer Wirkungen.>Danger of cumulative effects.
 schmeckte>tasted,smacked
 männl. Student in den USA im 1./2. Jahr am College/an der Highschool oder der Universität>underclassman
 Invalidenrente>disability pension,disablement pension
-Es heißt: „Das oder gar nichts.“>It's a case of Hobson's choice.,It's Hobson's choice.
+Es heißt: �?Das oder gar nichts.“>It's a case of Hobson's choice.,It's Hobson's choice.
 lausbubenhaft>mischievous,impish
 Riesenbläßhuhn>giant coot
 Energiesparbirnen>energy efficient bulbs
@@ -20548,7 +20548,7 @@ sich festgefressen>seized up,got stuck
 ausgeschleckt>licked off,licked clean
 wehender Schnee>drifting snow,blowing snow
 Transportdokumente>documents of transport
-Ich würde das nicht unbedingt „Management“ nennen.>I'd hesitate to call it "management".
+Ich würde das nicht unbedingt �?Management“ nennen.>I'd hesitate to call it "management".
 aufhellend>brightening
 Bei diesem Bericht ist eine sorgfältige Prüfung angezeigt.>This report warrants careful study.
 Tatortreinigung>crime-scene cleanup
@@ -24906,7 +24906,7 @@ Bibliomaninnen>bibliomaniacs
 Anlaufringe>thrust rings
 schriftliche Auftragserteilung>written notification/notice of contract award,written award statement
 auf jdn. entfallen>be sb.'s share
-„Ihr Zugbegleiter“>"Your train schedule"
+�?Ihr Zugbegleiter“>"Your train schedule"
 Umfakturierungsgesellschaften>netting companies,netting vehicles
 Haltungen>attitudes,deportments
 gerade noch rechtzeitig>in the nick of time,not a moment too soon
@@ -25831,7 +25831,7 @@ schütteln>convulse sth.,rattle
 ich zweifle>I doubt
 Taktpressen>presses for intermittent processing
 'Der Ring und das Buch'>'Ring and Book'
-Hast du nach „Zoe“ oder nach „Zoë“ gesucht?>Did you search on 'Zoe' or on 'Zoë'?
+Hast du nach �?Zoe“ oder nach �?Zoë“ gesucht?>Did you search on 'Zoe' or on 'Zoë'?
 Schläfenbeinpyramide>petrous part of the temporal bone
 jdm. schmeicheln>blandish,flatter sb.
 bildete>formed,framed
@@ -27929,7 +27929,7 @@ Businesssoftware>business software
 besetzt>occupied,engaged
 unterirdische Gewässerkanäle>culverts,underground conduits
 Schadstoffeintrag>pollutant input,contaminant input
-auf die Schaltfläche „Absenden“ tippen>tap the 'send' button
+auf die Schaltfläche �?Absenden“ tippen>tap the 'send' button
 stimmte versöhnlich>propitiated
 wiederholt angewendet>reapplied
 Tastentelefon>push-button telephone
@@ -28175,7 +28175,7 @@ sich verkrauchen>hole up
 Kapuzendrossel>black-hooded thrush
 gemeine/gewöhnliche Schneebeere>common snowberry
 cerebrale Dysfunktion>cerebral dysfunction
-Anzeige „Gleisbelegung“>"train on line" indication
+Anzeige �?Gleisbelegung“>"train on line" indication
 Feststoffgehalt>solids content
 Mürbteig>short pastry,shortcrust
 Tafelwasser>bottled drinking water
@@ -28709,7 +28709,7 @@ willkürlicher Parameter>arbitrary parameter
 Räumschilde>rake blades,clearing blades
 Windspitze>wind peak value,gust
 schwarze Haare>black hair
-„Wollen Sie Silvia zu Ihrer rechtmäßig angetrauten Frau nehmen?“ „Ja.“>'Do you take Sylvia to be your lawfully wedded wife?' 'I do.'
+�?Wollen Sie Silvia zu Ihrer rechtmäßig angetrauten Frau nehmen?“ �?Ja.“>'Do you take Sylvia to be your lawfully wedded wife?' 'I do.'
 sturmgebeutelt>storm-battered
 abnormes Verhalten>deviancy
 Kontaktformulare>contact forms
@@ -33227,7 +33227,7 @@ Tenocyclidin>tenocyclidine
 Grundstücksmakler>land agent,land agents
 Gerechtigkeitsideal>ideal of justice
 Bohrlochabstand>spacing of holes
-„Ich habe das Ladegerät immer noch nicht gefunden.“ „Dann such weiter.“>'I still haven't found the charger.' 'Well, keep looking.'
+�?Ich habe das Ladegerät immer noch nicht gefunden.“ �?Dann such weiter.“>'I still haven't found the charger.' 'Well, keep looking.'
 Feuerloch>firemouth,firehole
 ordinales Merkmal>ordinal characteristic
 Kinderbuchautorin>children's book author,children's author
@@ -36192,7 +36192,7 @@ Verstecken spielen>play hide-and-seek,hide and seek
 Sicherheitsdefizite>security deficits,lacks of security
 aufrecht stehen und dem eisigen Sturm trotzen>stand upright in the teeth of an icy gale
 nässte>oozed
-hochgestuft>upgraded,Die Aktien wurden auf „Halten“ hochgestuft.
+hochgestuft>upgraded,Die Aktien wurden auf �?Halten“ hochgestuft.
 Sorghumhirsen>sorghums
 Grundstück>property,gewerblich genutztes Grundstück
 zugesagt>appealed,committed
@@ -41288,7 +41288,7 @@ sich kumulierend>accumulating
 Systemberatung>system advice
 Streifenprüfmaschinen>abrasion test machines
 Lieblingsstadt>favourite town/city,favorite town/city
-Untertreibung>understatement,„Ich habe vielleicht etwas überreagiert.“ „Das ist wohl die Untertreibung des Jahres!“
+Untertreibung>understatement,�?Ich habe vielleicht etwas überreagiert.“ �?Das ist wohl die Untertreibung des Jahres!“
 etw. falsch tun>misdo sth.
 Tonraum>tonal pitch space,compass
 Abfahrtszeit>time of departure,departure time
@@ -43622,7 +43622,7 @@ Datenschutzbehörden>data protection authorities
 den Prozess machend>trying
 beschichtend>coating
 zirkulares Gewindefräsen>circular thread milling
-„Ich habe Hunger.“ „Ich auch.“>'I'm hungry.' 'Me too.'
+�?Ich habe Hunger.“ �?Ich auch.“>'I'm hungry.' 'Me too.'
 ich/er/sie schwor>I/he/she swore
 Wohnungsmangel>housing shortage
 angehoben>uplifted,raised
@@ -44825,7 +44825,7 @@ bumsvoll>jam-packed,chock-a-block
 Tiara>tiara,tiara
 Freudenfeste>whoopees
 Die Idee entwickelte sich weiter / wurde weitergesponnen und führte zur Gartenstadtbewegung.>The idea took wing (from there) and developed into the garden city movement.
-„Entschuldigung.“ „Nichts passiert.“>'I'm sorry' 'No harm done.'
+�?Entschuldigung.“ �?Nichts passiert.“>'I'm sorry' 'No harm done.'
 bei etw. zu Werke gehen>go about sth.
 Ausbildungsabschluss>graduation,completion of training
 Physiotherapeutin>remedial gymnast,medical gymnast
@@ -46807,7 +46807,7 @@ Salzgletscher>salt glacier,salt glaciers
 Passteile>matched parts,adapters
 Welwitschie>tree tumbo,welwitschia
 Fischmesser>fish knife,fish knives
-die Schaltfläche „Absenden“ antippen>tap the 'send' button
+die Schaltfläche �?Absenden“ antippen>tap the 'send' button
 Pfennigfuchserei>miserliness,niggardliness
 jdm. etw. gewähren>grant sb. sth.,accord sb. sth.
 A/C>air-conditioning system,air conditioning
@@ -46816,7 +46816,7 @@ brutig>broody,ready to brood
 Krankheitsausbruch>epidemic outbreak,outbreak
 Rotes Kreuz>Red Cross,Internationales Rotes Kreuz
 Füllstandsregelung>level control
-„f Strich“>f',"f-prime"
+�?f Strich“>f',"f-prime"
 Harnverhalt>urinary retention,retention
 Gerechtigkeiten>equitableness
 A/S>anti-submarine,anti-submarine
@@ -48768,7 +48768,7 @@ aufrechte Sitzhaltung>upright sitting posture
 Aknegen>acnegen
 vierzig>forty
 nackter Karst>naked karst
-„Was sagt er?“ „Das frage ich mich auch.“>'What's he saying?' 'Beats me.'/'It's beyond me.'
+�?Was sagt er?“ �?Das frage ich mich auch.“>'What's he saying?' 'Beats me.'/'It's beyond me.'
 Fußstück>lower joint
 Langkornreis>long grain rice
 Wir möchten der Universität für ihre Unterstützung danken.>We wish to acknowledge the support of the university.
@@ -51284,7 +51284,7 @@ Du hast drei Tage hintereinander den Unterricht versäumt.>You missed school for
 Schwarzfaseriger Ritterling>charbonnier,sooty head
 Schmiedeessen>smith's hearths,hearths
 Verhätscheln>coddling,cosseting
-„Es könnte auch schiefgehen.“ „Ich weiß, aber ich riskiere es trotzdem.“>'You might not succeed.' 'I know, but I'll take my chances anyway.'
+�?Es könnte auch schiefgehen.“ �?Ich weiß, aber ich riskiere es trotzdem.“>'You might not succeed.' 'I know, but I'll take my chances anyway.'
 Er ist felsenfest davon überzeugt, dass …>He devoutly believes that …
 Klopse>meatballs
 ganzheitliche Medizin>holistic medicine,holistic medicine
@@ -51396,7 +51396,7 @@ FDJ>Free German Youth
 FDM>finite difference method,frequency division multiplexing
 Steinschütten>stone chutes
 kleinreden>play down sth.,downplay
-„Dort drüben, siehst du's nicht?“ „Doch, ich seh's!“>'It's there, can't you see it?' 'Oh yes!' / 'Yes
+�?Dort drüben, siehst du's nicht?“ �?Doch, ich seh's!“>'It's there, can't you see it?' 'Oh yes!' / 'Yes
 Fettzellen>fat cells
 FDP>Liberal Democratic Party
 mit sich zurate gegangen>deliberated over/on/about,mulled over/on/about
@@ -51459,7 +51459,7 @@ griff unter die Arme>assisted,aided
 Feststofftrieb>unit sediment transport,unit sediment discharge
 weilend>staying,sojourning
 Mittelstücke>centerpieces,middle joints
-die berühmte Ringparabel in „Nathan der Weise“ von Lessing>the famous Ring Parable in 'Nathan the Wise' by Lessing
+die berühmte Ringparabel in �?Nathan der Weise“ von Lessing>the famous Ring Parable in 'Nathan the Wise' by Lessing
 übergenau>overscrupulous,sophistic
 Gesichtsform>shape of a face,facial structure
 Comebackversuch>comeback attempt
@@ -52599,7 +52599,7 @@ Intubationstubus>intubation tube
 Klitorisblutung>haemorrhage from the clitoris,clitorrhagia
 sich verpflichtet fühlen>feel duty-bound,consider it your duty
 Reversnadeln>lapel pins
-„null Komma vier zwei“>0.42,"zero point four two"
+�?null Komma vier zwei“>0.42,"zero point four two"
 Garderobenspiegel>hall mirror
 Amidogruppe>amido group
 Entführerinnen>kidnappers,hijackers
@@ -52948,7 +52948,7 @@ Gesichtsschutzvisiere>protective face shields,face shields
 HGF>head gasket failure
 gelblich>yellowy,yellowish
 einpackend>wrapping,wrapping up
-„Ich werde dir nicht helfen.“ „Mach was du willst.“>'I'm not going to help you.' 'Suit yourself.'
+�?Ich werde dir nicht helfen.“ �?Mach was du willst.“>'I'm not going to help you.' 'Suit yourself.'
 sich verbreiten>propagate,spread oneself
 Absetzmulden>waste skips,skips
 Brennstoffasche>fuel ash
@@ -57071,7 +57071,7 @@ Weisser gespritzt>white wine spritzer
 launenhaft>crankily,erratic
 Bodenangriff>ground attack,ground assault
 ein Lügengewebe>a tangle of lies
-„Ganz meine Meinung“, sagte er zustimmend / stimmte er zu.>'My opinion exactly', he concurred.
+�?Ganz meine Meinung“, sagte er zustimmend / stimmte er zu.>'My opinion exactly', he concurred.
 Berganfahren>hill start
 demobilisierte>demobilized,demobilised
 schlagfest>impact-resistant,impact-resisting
@@ -57854,7 +57854,7 @@ Vieleckbein>trapezoid
 Autolackierarbeiten>car body paint work,car paint work
 Schuppenkehlmoho>kauai o-o
 Ablehnungsgrenze>rejection limit,significance point
-„Komm zurück!“, zischte sie.>'Get back!' she hissed.
+�?Komm zurück!“, zischte sie.>'Get back!' she hissed.
 Anthropochoren>anthropochores
 Medienberichte>media reports
 NVA>National People's Army
@@ -62178,7 +62178,7 @@ Norfolkbrillenvogel>white-chested white-eye
 Rahmenprogramm>supporting program,supporting programme
 prägendes Erlebnis>formative experience
 Geistesverwirrung>mental confusion
-„Ich bin befördert worden!“ „Gratuliere!“>'I got promoted!' 'Congrats!'
+�?Ich bin befördert worden!“ �?Gratuliere!“>'I got promoted!' 'Congrats!'
 das schmutzige Geschirr>the dirty dishes
 vorneanstellend>prepending
 Marktleute>marketeers
@@ -69928,7 +69928,7 @@ Heizflächenabschnitte>heating surface sections
 Gelenkkinematik>joint kinematics
 nicht versklavt>unenslaved
 gediegenes Blei>native lead
-Vergewaltigung>rape,Vergewaltigung zur „Bekehrung“ lesbischer Frauen (Hasskriminalität)
+Vergewaltigung>rape,Vergewaltigung zur �?Bekehrung“ lesbischer Frauen (Hasskriminalität)
 abstillend>weaning
 Tafelsilber>silverware,household silver
 jdm. ins Auge sehen>face sb.
@@ -70112,7 +70112,7 @@ Pfeffernuss>gingerbread biscuit
 Nesseltiere>cnidarians
 mörsernd>pestling,crushing bray in a mortar
 sich zerteilend>dissipating
-„Freut mich, Sie kennenzulernen.“ „Ganz meinerseits!“>'Pleased to meet you.' 'Likewise!'
+�?Freut mich, Sie kennenzulernen.“ �?Ganz meinerseits!“>'Pleased to meet you.' 'Likewise!'
 Raumfähren>space shuttles
 Schwenkrinne>swivel launder
 Kurgast>spa guest
@@ -70719,7 +70719,7 @@ Kernstützen>chaplets
 Geschossspitzen>projectile points
 Milchzähler>milk meter,milk meters
 Die ganze Welt steht dir offen.>The whole world is yours for the taking.
-„Wissen Sie etwas darüber?“ „Ich sage nichts.“>'Do you know something about it?' 'I'm saying nothing.'
+�?Wissen Sie etwas darüber?“ �?Ich sage nichts.“>'Do you know something about it?' 'I'm saying nothing.'
 Es wartet ein wahrer Leckerbissen auf dich.>There's a real treat in store for you.
 Heinrich der Seefahrer>Henry the Navigator
 Tweedalekauz>Tweedale's hawk owl
@@ -71362,7 +71362,7 @@ Reaktivpanzerung>reactive armour
 Rollladen>shutter,roller shutter
 Maronenstirnsittich>maroon-fronted parrot
 verklingen>fade away,fade
-Im Wort „kindlich“ schwingt Unschuld mit.>The word 'childlike' connotes innocence.
+Im Wort �?kindlich“ schwingt Unschuld mit.>The word 'childlike' connotes innocence.
 Kollusion>collusion,price-fixing agreement
 Hawaii-Pelzgroppe>Hawaiian orbicular velvetfish
 häufig besuchen>frequent a place
@@ -72364,7 +72364,7 @@ Landestheater>state theatre,state theater
 Vibrationswendelförderer>vibratory bowl feeder,vibratory bowl feeders
 marod gewesen>ailed
 Vielfachheit>multiplicity
-„Das grüne ist hübscher, nicht?“ „Ja, kann man sagen.“.>'The green one is prettier, isn't it?' 'I suppose.'
+�?Das grüne ist hübscher, nicht?“ �?Ja, kann man sagen.“.>'The green one is prettier, isn't it?' 'I suppose.'
 Kompottschalen>compotes,fruit bowls
 Entfernung zum Ziel>shooting distance
 Fußballplätze>football grounds,football pitches
@@ -74736,7 +74736,7 @@ jdm./etw. etw. zuschreiben>attribute sth. to sb./sth.,ascribe sth. to sb./sth.
 jdm. auf dem Laufenden halten>keep sb. clued up
 Schiffskoffer>steamer trunk
 Vorräume>entrance halls,front halls
-„Ist das das, was du wolltest?“ „Ja, genau das ist es.“>'Is this the one you wanted?' 'Yes, that's it all right.'
+�?Ist das das, was du wolltest?“ �?Ja, genau das ist es.“>'Is this the one you wanted?' 'Yes, that's it all right.'
 Gitterpflanze>Madagascar lace plant
 Lehenswesen>feudal system
 Stromkästen>branch boxes,junction boxes

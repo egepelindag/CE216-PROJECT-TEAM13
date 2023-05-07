@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Bloom?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="root4" prefHeight="480.0" prefWidth="800.0" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.offlinedictionary.Controller">
+   <children>
+      <VBox prefHeight="480.0" prefWidth="800.0">
+         <children>
+            <HBox alignment="CENTER_RIGHT" opacity="0.4" prefHeight="100.0" prefWidth="200.0" style="-fx-background-color: black;">
+               <children>
+                  <Label prefHeight="100.0" prefWidth="200.0" text="Offline&#10;Dictionary" textFill="WHITE">
+                     <font>
+                        <Font name="SansSerif Regular" size="32.0" />
+                     </font>
+                     <effect>
+                        <Bloom />
+                     </effect>
+                     <padding>
+                        <Insets left="10.0" />
+                     </padding>
+                  </Label>
+                  <Pane prefHeight="100.0" prefWidth="302.0" />
+                  <Button mnemonicParsing="false" onAction="#addInfo" prefHeight="100.0" prefWidth="200.0" stylesheets="@Style.css" text="INFO" textFill="WHITE">
+                     <font>
+                        <Font name="Microsoft JhengHei" size="18.0" />
+                     </font>
+                     <effect>
+                        <Bloom />
+                     </effect>
+                  </Button>
+                  <Button layoutX="610.0" layoutY="10.0" mnemonicParsing="false" onAction="#addClose" prefHeight="100.0" prefWidth="200.0" stylesheets="@Style.css" text="BACK" textFill="WHITE">
+                     <font>
+                        <Font name="Microsoft JhengHei" size="18.0" />
+                     </font>
+                     <effect>
+                        <Bloom />
+                     </effect>
+                  </Button>
+               </children>
+            </HBox>
+            <VBox prefHeight="329.0" prefWidth="800.0">
+               <children>
+                  <ChoiceBox fx:id="addSecChoiceBox" blendMode="MULTIPLY" prefHeight="25.0" prefWidth="180.0">
+                     <VBox.margin>
+                        <Insets left="268.0" top="10.0" />
+                     </VBox.margin>
+                  </ChoiceBox>
+                  <HBox prefHeight="97.0" prefWidth="800.0">
+                     <children>
+                        <Label prefHeight="91.0" prefWidth="268.0" text="Enter the word here !!!            --&gt;&#10;&#10;Word&gt;meaning1,meaning2,meaning3" textFill="WHITE">
+                           <font>
+                              <Font name="Microsoft JhengHei" size="13.0" />
+                           </font>
+                           <HBox.margin>
+                              <Insets />
+                           </HBox.margin>
+                           <padding>
+                              <Insets left="10.0" />
+                           </padding>
+                        </Label>
+                        <TextField fx:id="addSecTextField" prefHeight="30.0" prefWidth="420.0" promptText="Word&gt;meaning1,meaning2,meaning3">
+                           <HBox.margin>
+                              <Insets top="15.0" />
+                           </HBox.margin>
+                        </TextField>
+                     </children>
+                  </HBox>
+                  <Pane fx:id="addSecButton" opacity="0.4" prefHeight="57.0" prefWidth="182.0" style="-fx-background-color: black;">
+                     <VBox.margin>
+                        <Insets left="268.0" right="350.0" />
+                     </VBox.margin>
+                     <children>
+                        <Button fx:id="addSecButton" mnemonicParsing="false" onAction="#addNewWord" prefHeight="57.0" prefWidth="182.0" stylesheets="@Style.css" text="ADD NEW WORD" textFill="WHITE">
+                           <font>
+                              <Font name="Microsoft JhengHei" size="16.0" />
+                           </font>
+                           <effect>
+                              <Bloom />
+                           </effect>
+                        </Button>
+                     </children>
+                  </Pane>
+               </children>
+            </VBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
