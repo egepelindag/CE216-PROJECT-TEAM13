@@ -179,6 +179,7 @@ public class Controller implements Initializable {
         primaryStage.show();
     }
 
+
     @FXML
     public void InfoClose(ActionEvent actionEvent) throws IOException {
         Node backToMainNode = (Node) actionEvent.getSource();
