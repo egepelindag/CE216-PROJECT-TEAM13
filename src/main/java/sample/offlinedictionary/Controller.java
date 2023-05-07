@@ -139,7 +139,7 @@ public class Controller implements Initializable {
         Scene editScene = new Scene(editRoot);
 
         Stage primaryStage = new Stage();
-        primaryStage.setTitle("Edit");
+        primaryStage.setTitle("Settings");
         primaryStage.setResizable(false);
         primaryStage.setScene(editScene);
 
@@ -158,7 +158,7 @@ public class Controller implements Initializable {
         Scene addScene = new Scene(addRoot);
 
         Stage primaryStage = new Stage();
-        primaryStage.setTitle("Edit");
+        primaryStage.setTitle("Add");
         primaryStage.setResizable(false);
         primaryStage.setScene(addScene);
 
@@ -234,7 +234,7 @@ public class Controller implements Initializable {
         Scene deleteScene = new Scene(deleteRoot);
 
         Stage primaryStage = new Stage();
-        primaryStage.setTitle("Edit");
+        primaryStage.setTitle("Delete");
         primaryStage.setResizable(false);
         primaryStage.setScene(deleteScene);
 
@@ -277,7 +277,7 @@ public class Controller implements Initializable {
         Parent addRoot = FXMLLoader.load(getClass().getResource("addSuccess.fxml"));
         Scene addScene = new Scene(addRoot);
         Stage primaryStage = new Stage();
-        primaryStage.setTitle("Edit");
+        primaryStage.setTitle("Warning!");
         primaryStage.setResizable(false);
         primaryStage.setScene(addScene);
         primaryStage.show();
@@ -287,7 +287,7 @@ public class Controller implements Initializable {
         Parent addRoot = FXMLLoader.load(getClass().getResource("addError.fxml"));
         Scene addScene = new Scene(addRoot);
         Stage primaryStage = new Stage();
-        primaryStage.setTitle("Edit");
+        primaryStage.setTitle("Warning!");
         primaryStage.setResizable(false);
         primaryStage.setScene(addScene);
         primaryStage.show();
@@ -610,7 +610,7 @@ public class Controller implements Initializable {
         Parent deleteRoot = FXMLLoader.load(getClass().getResource("deleteSuccess.fxml"));
         Scene deleteScene = new Scene(deleteRoot);
         Stage primaryStage = new Stage();
-        primaryStage.setTitle("Edit");
+        primaryStage.setTitle("Warning!");
         primaryStage.setResizable(false);
         primaryStage.setScene(deleteScene);
         primaryStage.show();
@@ -622,7 +622,7 @@ public class Controller implements Initializable {
         Parent addRoot = FXMLLoader.load(getClass().getResource("deleteError.fxml"));
         Scene addScene = new Scene(addRoot);
         Stage primaryStage = new Stage();
-        primaryStage.setTitle("Edit");
+        primaryStage.setTitle("Warning!");
         primaryStage.setResizable(false);
         primaryStage.setScene(addScene);
         primaryStage.show();
@@ -770,7 +770,7 @@ public class Controller implements Initializable {
         Parent editRoot = FXMLLoader.load(getClass().getResource("editError.fxml"));
         Scene editScene = new Scene(editRoot);
         Stage primaryStage = new Stage();
-        primaryStage.setTitle("Edit Error");
+        primaryStage.setTitle("Warning!");
         primaryStage.setResizable(false);
         primaryStage.setScene(editScene);
         primaryStage.show();
@@ -781,7 +781,7 @@ public class Controller implements Initializable {
         Parent editRoot = FXMLLoader.load(getClass().getResource("editSuccess.fxml"));
         Scene editScene = new Scene(editRoot);
         Stage primaryStage = new Stage();
-        primaryStage.setTitle("Edit Error");
+        primaryStage.setTitle("Warning!");
         primaryStage.setResizable(false);
         primaryStage.setScene(editScene);
         primaryStage.show();
