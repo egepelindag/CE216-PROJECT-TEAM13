@@ -14,7 +14,6 @@
 ιακός>ac
 ικός>ic
 ισμός>ism
-κλής>cles
 κράτης>crat
 κρατία>cracy
 λάτρης>later,phile
@@ -35305,4 +35304,4 @@ click away>call and collect,click and collect,curbside pickup
 ώσμωση>osmosis
 ώσπου>until
 ώστε>so that,so
-ώχρα>ochre
+ύψιστ>asdasfafa

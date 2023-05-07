@@ -8,7 +8,6 @@ public class Words {
         this.wordName = wordName;
         this.meaning = meaning;
     }
-
     public Words() {
 
     }

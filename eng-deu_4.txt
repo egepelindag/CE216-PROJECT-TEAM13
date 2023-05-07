@@ -1187,11 +1187,11 @@ twist bread>Stockbrot,Indianerbrot,Schlangenbrot
 campfire bread>Stockbrot,Indianerbrot,Schlangenbrot
 swordcane>Stockdegen
 stock dividend>Stockdividende
-falter>ins Stocken kommen,immer wieder stocken,stockend sprechen,He falters when (he is) asked (questions) about issues outside his portfolio.,Er kommt ins Stocken, wenn er nach Dingen außerhalb seines Arbeitsbereichs gefragt wird.,'I can't,'she faltered.,„Ich kann nicht“, sagte sie mit versagender Stimme
+falter>ins Stocken kommen,immer wieder stocken,stockend sprechen,He falters when (he is) asked (questions) about issues outside his portfolio.,Er kommt ins Stocken, wenn er nach Dingen außerhalb seines Arbeitsbereichs gefragt wird.,'I can't,'she faltered.,�?Ich kann nicht“, sagte sie mit versagender Stimme
 speak haltingly>ins Stocken kommen,immer wieder stocken,stockend sprechen
 faltering>ins Stocken kommend,immer wieder stockend,stockend sprechend
 speaking haltingly>ins Stocken kommend,immer wieder stockend,stockend sprechend
-faltered>ins Stocken gekommen,immer wieder gestockt,stockend gesprochen,'I can't,'she faltered.,„Ich kann nicht“, sagte sie mit versagender Stimme
+faltered>ins Stocken gekommen,immer wieder gestockt,stockend gesprochen,'I can't,'she faltered.,�?Ich kann nicht“, sagte sie mit versagender Stimme
 spoken haltingly>ins Stocken gekommen,immer wieder gestockt,stockend gesprochen
 dried cod>Stockfisch
 stockfish>Stockfisch
@@ -2156,7 +2156,7 @@ inchoate crime>strafbare Vorbereitungshandlung
 statutory definition of the (criminal) offence>Straftatbestand,strafbarer Tatbestand,Tatbestand,Tatbild
 criminal offence>Straftatbestand,strafbarer Tatbestand,Tatbestand,Tatbild,constitute a criminal offence,ein strafbarer Tatbestand sein,als Straftatbestand gelten,constitute the criminal offence of fraud,den Tatbestand des Betrugs erfüllen
 criminal offense>Straftatbestand,strafbarer Tatbestand,Tatbestand,Tatbild
-create a new offence of >einen neuen Straftatbestand „Suizidbeihilfe“ schaffen
+create a new offence of >einen neuen Straftatbestand �?Suizidbeihilfe“ schaffen
 be included in the statutory definition of the offence>Teil des Tatbestands sein
 The statutory definition the offense captures a wide spectrum of criminal conduct.>In diesem Tatbestand ist ein breites Spektrum kriminellen Verhaltens zusammengefasst.
 criminal act>Straftat,strafbare Handlung
@@ -2902,7 +2902,7 @@ road finishers>Straßenfertiger
 road seam>Straßenfuge
 road seams>Straßenfugen
 clear ice>Straßenglätte,Winterglätte,Eisglätte,Glatteis
-black ice>Straßenglätte,Winterglätte,Eisglätte,Glatteis,"Danger, black ice!",„Vorsicht Glatteis!“
+black ice>Straßenglätte,Winterglätte,Eisglätte,Glatteis,"Danger, black ice!",�?Vorsicht Glatteis!“
 skate on thin ice>aufs Glatteis geraten,sich auf Glatteis begeben
 trip up sb.>jdn. aufs Glatteis führen,jdm. ein Bein stellen,jdm. ein Haxl stellen
 It>Es sind die kleinen Details, über die man dann stolpert.
@@ -4201,7 +4201,7 @@ I didn>Ich glaubte nicht, dass es klappen würde, aber in dieser Situation klamm
 heap of straw>Strohhaufen
 straw hat>Strohhut
 straw hats>Strohhüte
-boater>steifer Strohhut,„Kreissäge“
+boater>steifer Strohhut,�?Kreissäge“
 bed of straw>Strohlager
 beds of straw>Strohlager
 cob>Strohlehm,Weller
@@ -6280,7 +6280,7 @@ claim to superiority>Superioritätsanspruch
 supercontinent>Superkontinent
 super power>Superkraft
 superlative form>Superlativ,zweite Steigerungsstufe
-superlative>Superlativ,zweite Steigerungsstufe,'Simplest'is the superlative of'simple.',„Am einfachsten“ ist der Superlativ von „einfach“.
+superlative>Superlativ,zweite Steigerungsstufe,'Simplest'is the superlative of'simple.',�?Am einfachsten“ ist der Superlativ von �?einfach“.
 superlative forms>Superlative,zweite Steigerungsstufen
 superlatives>Superlative,zweite Steigerungsstufen
 worst-case accident>Super-GAU,in a worst-case accident,bei einem Super-GAU,the Fukushima worst-case accident,der Super-GAU von Fukushima
@@ -10449,7 +10449,7 @@ terrorism suspect>Terrorverdächtige,Terrorverdächtiger
 suspected terrorists>Terrorverdächtigen,Terrorverdächtige
 terror suspects>Terrorverdächtigen,Terrorverdächtige
 terrorism suspects>Terrorverdächtigen,Terrorverdächtige
-terror threat level>Terrorwarnstufe,terror threat levels,Terrorwarnstufen,raise/lower the terror threat level to"high",die Terrorwarnstufe auf „hoch“ erhöhen/senken
+terror threat level>Terrorwarnstufe,terror threat levels,Terrorwarnstufen,raise/lower the terror threat level to"high",die Terrorwarnstufe auf �?hoch“ erhöhen/senken
 Tertiary>Tertiär,Braunkohlenzeit
 third>Terz
 minor third>kleine Terz
@@ -12441,7 +12441,7 @@ maternal death>Tod im Kindbett,Tod der Mutter bei der Geburt
 accidental death>Unfalltod,Tod durch Unfall
 immediate death>sofortiger Eintritt des Todes
 at death>bei Eintritt des Todes,at death's door,an der Schwelle des Todes
-">„Tod den Spaniern! Es lebe die Unabhängigkeit!“
+">�?Tod den Spaniern! Es lebe die Unabhängigkeit!“
 euthanasia>sanfter, leichter Tod
 beyond the veil>nach dem Tode
 capital>Todes…
@@ -12631,10 +12631,10 @@ toilet brushes>Toilettenbürsten,WC-Bürsten,Klobürsten
 toilet set>Toilettengarnitur
 toilet sets>Toilettengarnituren
 toilet-requisites>Toilettengerät
-portable toilet>mobile Toilettenkabine,Toilettenhäuschen,„Dixi-Klo“
-Portaloo>mobile Toilettenkabine,Toilettenhäuschen,„Dixi-Klo“
-Porta Potty>mobile Toilettenkabine,Toilettenhäuschen,„Dixi-Klo“
-Portajohn>mobile Toilettenkabine,Toilettenhäuschen,„Dixi-Klo“
+portable toilet>mobile Toilettenkabine,Toilettenhäuschen,�?Dixi-Klo“
+Portaloo>mobile Toilettenkabine,Toilettenhäuschen,�?Dixi-Klo“
+Porta Potty>mobile Toilettenkabine,Toilettenhäuschen,�?Dixi-Klo“
+Portajohn>mobile Toilettenkabine,Toilettenhäuschen,�?Dixi-Klo“
 toilet paper>Toilettenpapier,Hygienepapier,Klopapier
 toilet tissue>Toilettenpapier,Hygienepapier,Klopapier
 lavatory paper>Toilettenpapier,Hygienepapier,Klopapier
@@ -17794,8 +17794,8 @@ ban on overtaking>Überholverbot
 restriction on overtaking>Überholverbot
 ban on passing>Überholverbot
 restriction on passing>Überholverbot
-">„Überholverbot“
-">„Überholverbot“
+">�?Überholverbot“
+">�?Überholverbot“
 overtake / pass within a overtaking / passing limit>im Überholverbot überholen
 superego>Überich
 overinvestment>Überinvestition
@@ -21680,7 +21680,7 @@ underpinning>Unterbauverstärkung,Untermauerung
 consolidation>Unterbauverstärkung,Untermauerung
 specific term>Unterbegriff,untergeordneter Begriff,Hyponym
 narrower term>Unterbegriff,untergeordneter Begriff,Hyponym
-hyponym>Unterbegriff,untergeordneter Begriff,Hyponym,'Argot'is a hyponym of'secret language'.,„Argot“ ist ein Unterbegriff zu „Geheimsprache“.
+hyponym>Unterbegriff,untergeordneter Begriff,Hyponym,'Argot'is a hyponym of'secret language'.,�?Argot“ ist ein Unterbegriff zu �?Geheimsprache“.
 specific terms>Unterbegriffe,untergeordneter Begriffe,Hyponyme
 narrower terms>Unterbegriffe,untergeordneter Begriffe,Hyponyme
 hyponyms>Unterbegriffe,untergeordneter Begriffe,Hyponyme
@@ -22371,7 +22371,7 @@ murder board>Unterrichtsprobe
 syllabus of instruction>Unterrichtsprogramm
 syllabuses of instruction>Unterrichtsprogramme
 teaching period>Unterrichtsstunde,Stunde
-period>Unterrichtsstunde,Stunde,two periods of physics per week,zwei Wochenstunden Physik,zwei Stunden Physik pro Woche,'What do you have next period?''French',„Was hast du in der nächsten Stunde?“ „Französisch“,We have maths class during third period.,In der dritten Stunde haben wir Mathe.
+period>Unterrichtsstunde,Stunde,two periods of physics per week,zwei Wochenstunden Physik,zwei Stunden Physik pro Woche,'What do you have next period?''French',�?Was hast du in der nächsten Stunde?“ �?Französisch“,We have maths class during third period.,In der dritten Stunde haben wir Mathe.
 class hour>Unterrichtsstunde,Stunde
 class>Unterrichtsstunde,Stunde,We have maths class during third period.,In der dritten Stunde haben wir Mathe.,No eating in class!,Während der Stunde wird nicht gegessen!
 lesson>Unterrichtsstunde,Stunde
@@ -22775,7 +22775,7 @@ have a particular connotation>einen bestimmten Unterton haben,in bestimmter Weis
 This adjective has a positive/negative undertone/connotation.>Dieses Adjektiv hat einen positiven/negativen Unterton.,Dieses Adjektiv ist positiv/negativ konnotiert.
 subcarrier>Unterträger,Zwischenträger
 subcarriers>Unterträger,Zwischenträger
-understatement>Untertreibung,Tiefstapelei,Understatement,'I may have overreacted a little.''That's the understatement of the year!',„Ich habe vielleicht etwas überreagiert.“ „Das ist wohl die Untertreibung des Jahres!“
+understatement>Untertreibung,Tiefstapelei,Understatement,'I may have overreacted a little.''That's the understatement of the year!',�?Ich habe vielleicht etwas überreagiert.“ �?Das ist wohl die Untertreibung des Jahres!“
 lower run/belt/side>Untertrum,Unterband,Untergurt
 bottom run/belt/side>Untertrum,Unterband,Untergurt
 return run/belt/side>Untertrum,Unterband,Untergurt
@@ -26064,7 +26064,7 @@ rapist>Vergewaltiger,Frauenschänder
 raper>Vergewaltiger,Frauenschänder
 rapists>Vergewaltiger,Frauenschänder
 rapers>Vergewaltiger,Frauenschänder
-rape>Vergewaltigung,Schändung,Notzucht,"corrective"rape of lesbian women (hate crime),Vergewaltigung zur „Bekehrung“ lesbischer Frauen (Hasskriminalität),the experience of being raped,die Erfahrung einer Vergewaltigung
+rape>Vergewaltigung,Schändung,Notzucht,"corrective"rape of lesbian women (hate crime),Vergewaltigung zur �?Bekehrung“ lesbischer Frauen (Hasskriminalität),the experience of being raped,die Erfahrung einer Vergewaltigung
 rapes>Vergewaltigungen
 mass rape>Massenvergewaltigung
 date rape drug>Vergewaltigungsdroge,K.-o.-Tropfen
@@ -33189,8 +33189,8 @@ priority to right>Rechtsvorfahrt,Rechtsvorrang,Rechtsvortritt
 yield>die Vorfahrt beachten
 give way>Vorfahrt/Vorrang/Vortritt geben
 yield>Vorfahrt/Vorrang/Vortritt geben
-give way>„Vorfahrt beachten“
-yield>„Vorfahrt beachten“
+give way>�?Vorfahrt beachten“
+yield>�?Vorfahrt beachten“
 priority road>Vorfahrtstraße,Vorfahrtsstraße,Vorrangstraße
 through street>Vorfahrtstraße,Vorfahrtsstraße,Vorrangstraße
 road with right of way>Vorfahrtstraße,Vorfahrtsstraße,Vorrangstraße
@@ -34435,7 +34435,7 @@ spatial sense>räumliches Vorstellungsvermögen
 boggle the mind>jedes Vorstellungsvermögen übersteigen,jenseits aller Vorstellung sein,unvorstellbar sein
 boggle the imagination>jedes Vorstellungsvermögen übersteigen,jenseits aller Vorstellung sein,unvorstellbar sein
 The vastness of space really boggles the mind/imagination.>Die Ausdehnung des Weltalls übersteigt jedes Vorstellungsvermögen.
-'>„Sie sagt, sie ist mit ihren Katzen verheiratet.“ „Das ist ja haarsträubend!“
+'>�?Sie sagt, sie ist mit ihren Katzen verheiratet.“ �?Das ist ja haarsträubend!“
 Their accomplishments boggle my mind.>Man kann sich kaum vorstellen, was sie alles geleistet haben. Es ist unvorstellbar, was sie alles geleistet haben.
 The mind boggles at what they have accomplished.>Man kann sich kaum vorstellen, was sie alles geleistet haben. Es ist unvorstellbar, was sie alles geleistet haben.
 When I think of what they have accomplished, my mind boggles.>Man kann sich kaum vorstellen, was sie alles geleistet haben. Es ist unvorstellbar, was sie alles geleistet haben.
@@ -36437,8 +36437,8 @@ choices>Wahlmöglichkeiten,Auswahlmöglichkeiten,Möglichkeiten,Optionen,As I se
 elections>Wahlmöglichkeiten,Auswahlmöglichkeiten,Möglichkeiten,Optionen
 lunch option>Möglichkeit zum Mittagessen
 a Hobson>eine Wahlmöglichkeit, die keine ist,eine Wahl, die keine ist,ein Friss-oder-stirb-Angebot,face a Hobson's choice,eigentlich gar keine (andere) Wahl haben
-It>Es heißt: „Vogel friss oder stirb!“,Es heißt: „Das oder gar nichts.“
-It>Es heißt: „Vogel friss oder stirb!“,Es heißt: „Das oder gar nichts.“
+It>Es heißt: �?Vogel friss oder stirb!“,Es heißt: �?Das oder gar nichts.“
+It>Es heißt: �?Vogel friss oder stirb!“,Es heißt: �?Das oder gar nichts.“
 voter fatigue>Wahlmüdigkeit
 switch network>Wählnetz
 election defeat>Wahlniederlage
@@ -40329,7 +40329,7 @@ grazing traces>Weidespuren
 grazing traces>Weidespuren,Pascichnia
 pascichnia>Weidespuren,Pascichnia
 range animals>Weidetiere,Weidevieh,Freilandtiere
-'>„Weidmannsheil!“ „Weidmannsdank!“,„Waidmannsheil!“ „Waidmannsdank!“
+'>�?Weidmannsheil!“ �?Weidmannsdank!“,�?Waidmannsheil!“ �?Waidmannsdank!“
 pasture farming>Weidewirtschaft,distant-pasture farming,Fernweidewirtschaft
 pasture fence>Weidezaun,electric pasture fence,elektrischer Weidezaun
 pasture fences>Weidezäune
@@ -41752,7 +41752,6 @@ auxiliary advertising>unterstützende Werbung
 native advertising>Werbung, die unauffällig in die gewohnten Abläufe von Internetplattformen und -diensten integriert wird
 advertisement>Werbung
 advert>Werbung
-ad>Werbung
 advertisements>Werbungen
 adverts>Werbungen
 ads>Werbungen
@@ -43902,10 +43901,10 @@ wind eggs>Windeier
 tap wrench>Windeisen,Wendeeisen
 tap wrenches>Windeisen,Wendeeisen
 nappy>Windel
-diaper>Windel,change nappies/diapers,Windeln wechseln,„trockenlegen“
+diaper>Windel,change nappies/diapers,Windeln wechseln,�?trockenlegen“
 didy>Windel
-nappies>Windeln,change nappies/diapers,Windeln wechseln,„trockenlegen“
-diapers>Windeln,change nappies/diapers,Windeln wechseln,„trockenlegen“
+nappies>Windeln,change nappies/diapers,Windeln wechseln,�?trockenlegen“
+diapers>Windeln,change nappies/diapers,Windeln wechseln,�?trockenlegen“
 adult nappy>Erwachsenenwindel
 adult diaper>Erwachsenenwindel
 diaper pail>Windeleimer
@@ -46311,7 +46310,7 @@ punned>machte ein Wortspiel
 wordplay>Wortspielerei,Wortwitz
 punster>Wortspielmacher
 word stem>Wortstamm,Stamm
-stem>Wortstamm,Stamm,stem of verb,Verbstamm,'Writ'is the stem of the forms'writes'and'writing'.,„Schreib“ ist der Wortstamm der Formen „schreibt“ und „schreibend“.
+stem>Wortstamm,Stamm,stem of verb,Verbstamm,'Writ'is the stem of the forms'writes'and'writing'.,�?Schreib“ ist der Wortstamm der Formen �?schreibt“ und �?schreibend“.
 word stems>Wortstämme,Stämme
 stems>Wortstämme,Stämme
 verb stem>Verbstamm
@@ -47586,7 +47585,7 @@ deferred-payment option>Vorkaufsrecht, bei dem der Barausgleich erst nach Inansp
 deferred-payout option>Vorkaufsrecht, bei dem der Barausgleich erst nach Inanspruchnahme erfolgt
 exaction>erzwungene Zahlung,Betreibung,Eintreibung
 trade in sth.>etw. in Zahlung geben,etw. eintauschen
-on a delivery-versus-payment basis>nach dem Grundsatz „Zahlung Zug um Zug gegen Lieferung“
+on a delivery-versus-payment basis>nach dem Grundsatz �?Zahlung Zug um Zug gegen Lieferung“
 payments agreement>Zahlungsabkommen
 payments agreements>Zahlungsabkommen
 payment request>Zahlungsantrag
@@ -52649,7 +52648,7 @@ traction>Zugförderung,Zugsförderung,Zugbespannung,Traktion,Triebfahrzeugbetrie
 electric traction>elektrische Zugförderung,Elektrotraktion
 locomotive traction>Lokomotivförderung,Lokomotivbespannung,Lokomotivbetrieb
 train timetable>Zugfahrplan,Bahnfahrplan,Bahnplan
-train schedule>Zugfahrplan,Bahnfahrplan,Bahnplan,"Your train schedule",„Ihr Zugbegleiter“ (Faltblatt in Zügen der DB)
+train schedule>Zugfahrplan,Bahnfahrplan,Bahnplan,"Your train schedule",�?Ihr Zugbegleiter“ (Faltblatt in Zügen der DB)
 rail schedule>Zugfahrplan,Bahnfahrplan,Bahnplan
 train timetables>Zugfahrpläne,Bahnfahrpläne,Bahnpläne
 train schedules>Zugfahrpläne,Bahnfahrpläne,Bahnpläne
@@ -58108,7 +58107,7 @@ logged-off>abgeschaltet
 extinguish>abschalten,löschen
 extinguishing>abschaltend,löschend
 extinguished>abgeschaltet,gelöscht
-switch off>abschalten,When I hear the word"stock exchange"I switch off.,Wenn ich das Wort „Börse“ höre, schalte ich ab.,Holidays are the only time I can really switch off/tune out.,Die Ferien sind die einzige Zeit, wo ich wirklich abschalten kann.
+switch off>abschalten,When I hear the word"stock exchange"I switch off.,Wenn ich das Wort �?Börse“ höre, schalte ich ab.,Holidays are the only time I can really switch off/tune out.,Die Ferien sind die einzige Zeit, wo ich wirklich abschalten kann.
 tune out>abschalten,Holidays are the only time I can really switch off/tune out.,Die Ferien sind die einzige Zeit, wo ich wirklich abschalten kann.
 switching off>abschaltend
 tuning out>abschaltend
@@ -58984,7 +58983,7 @@ jumping off>abspringend
 jumped off>abgesprungen
 jumps off>springt ab
 jumped off>sprang ab
-bail out>abspringen,sich mit dem Schleudersitz retten,einen Notabsprung machen,bei Luftnotlage „aussteigen“
+bail out>abspringen,sich mit dem Schleudersitz retten,einen Notabsprung machen,bei Luftnotlage �?aussteigen“
 bailing out>abspringend
 bailed out>abgesprungen
 Bail out! Bail out!>Flugzeug sofort per Schleudersitz verlassen!
@@ -59977,11 +59976,11 @@ weigh out>abwiegen
 weighing out>abwiegend
 weighed out>abgewogen
 decline>abwinken,abblocken,ablehnen,A committee member requested a break, but the chairman declined / demurred.,Ein Ausschussmitglied ersuchte um eine Pause, aber der Vorsitzende lehnte ab.
-demur>abwinken,abblocken,ablehnen,At first he demurred, but then finally agreed.,Zunächst winkte er ab, aber dann stimmte er doch zu.,A committee member requested a break, but the chairman declined / demurred.,Ein Ausschussmitglied ersuchte um eine Pause, aber der Vorsitzende lehnte ab.,'I'm not sure if that's advisable at this point.'he demurred.,„Ich weiß nicht, ob das zum jetzigen Zeitpunkt ratsam ist“, blockte er ab.
+demur>abwinken,abblocken,ablehnen,At first he demurred, but then finally agreed.,Zunächst winkte er ab, aber dann stimmte er doch zu.,A committee member requested a break, but the chairman declined / demurred.,Ein Ausschussmitglied ersuchte um eine Pause, aber der Vorsitzende lehnte ab.,'I'm not sure if that's advisable at this point.'he demurred.,�?Ich weiß nicht, ob das zum jetzigen Zeitpunkt ratsam ist“, blockte er ab.
 declining>abwinkend,abblockend,ablehnend
 demurring>abwinkend,abblockend,ablehnend
 declined>abgewinkt,abgeblockt,abgelehnt,A committee member requested a break, but the chairman declined / demurred.,Ein Ausschussmitglied ersuchte um eine Pause, aber der Vorsitzende lehnte ab.
-demurred>abgewinkt,abgeblockt,abgelehnt,At first he demurred, but then finally agreed.,Zunächst winkte er ab, aber dann stimmte er doch zu.,A committee member requested a break, but the chairman declined / demurred.,Ein Ausschussmitglied ersuchte um eine Pause, aber der Vorsitzende lehnte ab.,'I'm not sure if that's advisable at this point.'he demurred.,„Ich weiß nicht, ob das zum jetzigen Zeitpunkt ratsam ist“, blockte er ab.
+demurred>abgewinkt,abgeblockt,abgelehnt,At first he demurred, but then finally agreed.,Zunächst winkte er ab, aber dann stimmte er doch zu.,A committee member requested a break, but the chairman declined / demurred.,Ein Ausschussmitglied ersuchte um eine Pause, aber der Vorsitzende lehnte ab.,'I'm not sure if that's advisable at this point.'he demurred.,�?Ich weiß nicht, ob das zum jetzigen Zeitpunkt ratsam ist“, blockte er ab.
 ruin>abwirtschaften,zerstören
 ruining>abwirtschaftend,zerstörend
 ruined>abgewirtschaftet,zerstört
@@ -61492,7 +61491,7 @@ decrepitly>altersschwach
 presyopic>alterssichtig,presbyop
 age-specific>altersspezifisch
 irrespective of age>altersunabhängig
-archaic>altertümelnd,altertümlich,The term has a rather archaic ring to it.,Der Ausdruck klingt etwas altertümlich.,'Methinks'is an archaic form of'I think'.,„Mich dünkt“ ist eine altertümliche Form von „Ich glaube“.
+archaic>altertümelnd,altertümlich,The term has a rather archaic ring to it.,Der Ausdruck klingt etwas altertümlich.,'Methinks'is an archaic form of'I think'.,�?Mich dünkt“ ist eine altertümliche Form von �?Ich glaube“.
 archaizing>altertümelnd,archaisierend
 archaizing style>altertümelnder Stil
 resistant to ageing/aging>alterungsbeständig
@@ -62130,7 +62129,7 @@ cannot help yourself>nicht anders können,nicht anders gehen
 cannot help it>nicht anders können,nicht anders gehen
 I know I shouldn>Ich weiß, ich sollte mich nicht ärgern, aber ich kann nicht anders.
 I>Es tut mir leid, dass ich Ihnen Umstände machen muss, aber es geht nicht anders.
-'>„Hör auf zu lachen!“ „Ich kann nicht!“
+'>�?Hör auf zu lachen!“ �?Ich kann nicht!“
 I couldn>Was soll ich denn tun, wenn sich der Bus verspätet?
 She realized she sounded like her mother, but she couldn>Sie merkte, dass sie sich wie ihr eigene Mutter anhörte, aber sie konnte nicht anders.
 heterologous>andersartig,artfremd,abweichend,heterolog
@@ -63677,7 +63676,7 @@ create sth.>etw. anlegen,erstellen
 take aim at sb./sth.>auf jdn./etw. anlegen,zielen,jdn./etw. anvisieren
 aim at sb./sth.>auf jdn./etw. anlegen,zielen,jdn./etw. anvisieren
 sight sb./sth.>auf jdn./etw. anlegen,zielen,jdn./etw. anvisieren
-">„Legt an – Feuer!“
+">�?Legt an – Feuer!“
 be designed to>darauf angelegt sein
 lean>anlehnen
 leaning>anlehnend
@@ -63839,7 +63838,7 @@ noting>anmerkend,bemerkend,vermerkend,(However,) it is worth noting that …,Man
 noted>angemerkt,bemerkt,vermerkt,unless noted otherwise,wenn/falls nicht anders angegeben,As noted above/earlier/previously, most people survive the disease.,Wie schon zuvor angemerkt, überleben die meisten die Krankheit.
 notes>merkt an,bemerkt,vermerkt
 noted>merkte an,bemerkte,vermerkte,unless noted otherwise,wenn/falls nicht anders angegeben,As noted above/earlier/previously, most people survive the disease.,Wie schon zuvor angemerkt, überleben die meisten die Krankheit.
-There are always some, and note I say >Es gibt immer einige, ich betone „einige“, nicht alle.
+There are always some, and note I say >Es gibt immer einige, ich betone �?einige“, nicht alle.
 annotate>anmerken
 annotating>anmerkend
 annotated>angemerkt
@@ -64193,8 +64192,8 @@ give credit for time spent in custody awaiting trial on the sentence>die Untersu
 allow US taxes as a credit against Italian taxes>in den USA gezahlte Steuern auf italienische Steuern in Anrechnung bringen
 address sb.>jdn. anreden,ansprechen,anschreiben
 addressing>anredend,ansprechend,anschreibend
-addressed>angeredet,angesprochen,angeschrieben,In the German army, superior officers used to be addressed in the third person, for instance, as'Herr Major is absolutely right.',In der deutschen Armee wurden vorgesetzte Offiziere früher in der dritten Person angesprochen, z. B. mit „Herr Major hat absolut recht“.,I was standing next to him and he addressed me in the third person as if I wasn't even there.,Ich stand neben ihm und er sprach mich in der dritten Person an, so als wäre ich gar nicht da.,In e-mail marketing, the recipient should be addressed as an individual with his own name.,Beim E-Mail-Marketing sollte der Empfänger als Person mit Namen angeschrieben werden.
-Although he told them his first name, they continued to address him as >Obwohl er ihnen seinen Vornamen nannte, redeten sie ihn weiterhin mit „Herr Doktor“ an.
+addressed>angeredet,angesprochen,angeschrieben,In the German army, superior officers used to be addressed in the third person, for instance, as'Herr Major is absolutely right.',In der deutschen Armee wurden vorgesetzte Offiziere früher in der dritten Person angesprochen, z. B. mit �?Herr Major hat absolut recht“.,I was standing next to him and he addressed me in the third person as if I wasn't even there.,Ich stand neben ihm und er sprach mich in der dritten Person an, so als wäre ich gar nicht da.,In e-mail marketing, the recipient should be addressed as an individual with his own name.,Beim E-Mail-Marketing sollte der Empfänger als Person mit Namen angeschrieben werden.
+Although he told them his first name, they continued to address him as >Obwohl er ihnen seinen Vornamen nannte, redeten sie ihn weiterhin mit �?Herr Doktor“ an.
 animate>anregen
 animating>anregend
 animated>angeregt
@@ -65236,7 +65235,7 @@ tap sb.>jdm. auf die Schulter tippen
 tap sb. on the shoulder>jdm. auf die Schulter tippen
 tap your fingers on the tabletop impatiently>mit den Fingern ungeduldig auf den Tisch klopfen
 tap your feet in time to the music>mit den Füßen im Takt tippen
-tap the >die Schaltfläche „Absenden“ antippen,auf die Schaltfläche „Absenden“ tippen
+tap the >die Schaltfläche �?Absenden“ antippen,auf die Schaltfläche �?Absenden“ tippen
 tap the ash from your cigarette>die Asche von seiner Zigarette abklopfen/klopfen/schnippen
 antiproliferative>antiproliferativ,die Gewebevermehrung hemmend
 antipruritic>antipruriginös,juckreizhemmend,juckreizstillend
@@ -65350,7 +65349,7 @@ set sb. against sb.>jdn. gegen jdn. antreten lassen,jdn. gegen jdn. ins Rennen s
 put sb. in competition with sb.>jdn. gegen jdn. antreten lassen,jdn. gegen jdn. ins Rennen schicken
 pit oneself against sb./sth.>jdm./einer Sache Paroli bieten,sich mit jdm./etw. messen
 fall in>antreten
-„Fall in!“>„Antreten!“
+�?Fall in!“>�?Antreten!“
 take office>sein/das/ein Amt antreten,seine Amtszeit antreten
 taking office>sein/das/ein Amt antretend,seine Amtszeit antretend
 taken office>sein/das/ein Amt angetreten,seine Amtszeit angetreten
@@ -65745,7 +65744,7 @@ aphoristically>aphoristisch
 aphotic>aphotisch
 apical>apikal,spitzenwärts
 dogmatic>apodiktisch,absolutistisch,dogmatisch,a dogmatic assertion,eine apodiktische Behauptung
-dogmatically>apodiktisch,absolutistisch,dogmatisch,adhere dogmatically to a principle,dogmatisch an einem Grundsatz festhalten,'I don't have to change anything', he said dogmatically.,„Ich brauche nichts zu ändern.“, sagte er apodiktisch.
+dogmatically>apodiktisch,absolutistisch,dogmatisch,adhere dogmatically to a principle,dogmatisch an einem Grundsatz festhalten,'I don't have to change anything', he said dogmatically.,�?Ich brauche nichts zu ändern.“, sagte er apodiktisch.
 apodictic>apodiktisch,unumstößlich,unmittelbar evident,eindeutig feststehend
 apodeictic>apodiktisch,unumstößlich,unmittelbar evident,eindeutig feststehend
 beyond dispute>apodiktisch,unumstößlich,unmittelbar evident,eindeutig feststehend
@@ -66741,7 +66740,7 @@ turn on sth.>etw. aufdrehen,anstellen,anmachen,andrehen
 turning on>aufdrehend,anstellend,anmachend,andrehend
 turned on>aufgedreht,angestellt,angemacht,angedreht
 tune in>den Fernseher/das Radio aufdrehen,einschalten,reinschauen,I'll tune in to hear the results of the election.,Ich dreh'den Fernseher/das Radio auf, damit ich die Wahlergebnisse höre.
-Tune in next week for another episode of >Schauen Sie nächste Woche wieder rein, wenn es heißt „Happy Hour“.
+Tune in next week for another episode of >Schauen Sie nächste Woche wieder rein, wenn es heißt �?Happy Hour“.
 Tune in tomorrow when we>Schalten Sie morgen wieder ein, wenn wir uns ansehen, worauf man bei einem Fahrradcomputer achten muss.
 brassy>aufdringlich,a brassy blonde,eine aufdringliche Blondine,a brassy salesman,ein aufdringlicher Vertreter,a brassy reporter,ein aufdringlicher Reporter
 brassy music>aufdringliche Musik
@@ -69215,7 +69214,7 @@ treading>auftretend
 trodden>aufgetreten
 trod>aufgetreten
 put one>energisch auftreten
-appear>auftreten,sich zeigen,mitwirken,appear in public,sich in der Öffentlichkeit zeigen,appear on television,im Fernsehen auftreten,appear as a witness,als Zeuge auftreten,make one's first (stage) appearance,zum ersten Mal auftreten/auf der Bühne stehen,The governor put in an appearance at the festival.,Der Gouverneur zeigte sich auf dem Fest.,He has already appeared in a number of films.,Er hat schon in mehreren Filmen mitgespielt/mitgewirkt.,He has been appearing as a guest conductor with different orchestras since 2010.,Er tritt seit 2010 als Gastdirigent mit verschiedenen Orchestern auf.,She appears briefly in the new James Bond film.,Sie hat einen kurzen Auftritt im neuen James-Bond-Film.,He is currently appearing as Petruchio in'The Taming of the Shrew'.,Er steht derzeit als Petruchio in „Der Widerspenstigen Zähmung“ auf der Bühne/vor der Kamera.,Tomorrow, he will make his last appearance for the club.,Morgen wird er zum letzten Mal für den Club spielen.,The two fraudsters appear as a couple in public.,Die beiden Betrüger treten (in der Öffentlichkeit) als Ehepaar auf.
+appear>auftreten,sich zeigen,mitwirken,appear in public,sich in der Öffentlichkeit zeigen,appear on television,im Fernsehen auftreten,appear as a witness,als Zeuge auftreten,make one's first (stage) appearance,zum ersten Mal auftreten/auf der Bühne stehen,The governor put in an appearance at the festival.,Der Gouverneur zeigte sich auf dem Fest.,He has already appeared in a number of films.,Er hat schon in mehreren Filmen mitgespielt/mitgewirkt.,He has been appearing as a guest conductor with different orchestras since 2010.,Er tritt seit 2010 als Gastdirigent mit verschiedenen Orchestern auf.,She appears briefly in the new James Bond film.,Sie hat einen kurzen Auftritt im neuen James-Bond-Film.,He is currently appearing as Petruchio in'The Taming of the Shrew'.,Er steht derzeit als Petruchio in �?Der Widerspenstigen Zähmung“ auf der Bühne/vor der Kamera.,Tomorrow, he will make his last appearance for the club.,Morgen wird er zum letzten Mal für den Club spielen.,The two fraudsters appear as a couple in public.,Die beiden Betrüger treten (in der Öffentlichkeit) als Ehepaar auf.
 make an appearance>auftreten,sich zeigen,mitwirken
 put in an appearance>auftreten,sich zeigen,mitwirken,The governor put in an appearance at the festival.,Der Gouverneur zeigte sich auf dem Fest.
 crop up>auftreten,sich zeigen
@@ -74674,7 +74673,7 @@ unscrupulously>bedenkenlos
 questionable>bedenklich,fraglich,fragwürdig,zweifelhaft,strittig,It appears questionable whether he will manage to do that.,Es erscheint fraglich, ob er das schafft.
 alarming>bedenklich
 scrupulously>bedenklich
-meant>bedeuten,heißen,it has/had meant,es hat/hatte bedeutet,es hat/hatte geheißen,in English it means …,auf Englisch heißt das,What does that mean?,Was heißt das?,Was bedeutet das?,What does this word mean?,Was bedeutet dieses Wort?,What's the meaning of this word?,Was bedeutet dieses Wort?,What does that mean (for domestic policy)?,Was bedeutet das jetzt (für die Innenpolitik)?,What's the meaning of this?,Was soll das heißen?,mean everything to sb.,jdm. alles bedeuten,mean little to sb.,jdm. wenig bedeuten,It means a lot to me.,Es bedeutet mir viel.,As used in this Contract, the term'investor'shall mean a natural person. (contractual phrase),Im Sinne dieses Vertrags bedeutet „Anleger“ eine natürliche Person. (Vertragsformel)
+meant>bedeuten,heißen,it has/had meant,es hat/hatte bedeutet,es hat/hatte geheißen,in English it means …,auf Englisch heißt das,What does that mean?,Was heißt das?,Was bedeutet das?,What does this word mean?,Was bedeutet dieses Wort?,What's the meaning of this word?,Was bedeutet dieses Wort?,What does that mean (for domestic policy)?,Was bedeutet das jetzt (für die Innenpolitik)?,What's the meaning of this?,Was soll das heißen?,mean everything to sb.,jdm. alles bedeuten,mean little to sb.,jdm. wenig bedeuten,It means a lot to me.,Es bedeutet mir viel.,As used in this Contract, the term'investor'shall mean a natural person. (contractual phrase),Im Sinne dieses Vertrags bedeutet �?Anleger“ eine natürliche Person. (Vertragsformel)
 meaning>bedeutend,heißend,What's the meaning of this word?,Was bedeutet dieses Wort?,What's the meaning of this?,Was soll das heißen?
 meant>bedeutet,geheißen,it has/had meant,es hat/hatte bedeutet,es hat/hatte geheißen
 it means>es bedeutet,es heißt,in English it means …,auf Englisch heißt das
@@ -75694,11 +75693,11 @@ enthusiastically>begeistert,enthusiastisch,mit Begeisterung
 enthuse>begeistert sein,sich begeistern,schwärmen
 enthusing>begeistert seiend,sich begeisternd,schwärmend
 enthused>begeistert gewesen,sich begeistert,geschwärmt
-exult>ganz begeistert sein,jubeln,jubilieren,frohlocken,She exulted over her students'test scores.,Sie war von den Testergebnissen ihrer Schüler ganz begeistert.,He seems to exult in his power.,Er scheint an der Macht Gefallen zu finden.,'That was the best meal I've ever had!'he exulted.,„Das war das Beste, was ich je gegessen habe“, rief er begeistert.
+exult>ganz begeistert sein,jubeln,jubilieren,frohlocken,She exulted over her students'test scores.,Sie war von den Testergebnissen ihrer Schüler ganz begeistert.,He seems to exult in his power.,Er scheint an der Macht Gefallen zu finden.,'That was the best meal I've ever had!'he exulted.,�?Das war das Beste, was ich je gegessen habe“, rief er begeistert.
 rejoice>ganz begeistert sein,jubeln,jubilieren,frohlocken,The fans rejoiced in their team's victory.,Die Fans jubelten über den Sieg ihrer Mannschaft.
 exulting>ganz begeistert seiend,jubelnd,jubilierend,frohlockend
 rejoicing>ganz begeistert seiend,jubelnd,jubilierend,frohlockend,We spent the evening rejoicing at our victory.,Wir feierten den ganzen Abend unseren Sieg.
-exulted>ganz begeistert gewesen,gejubelt,jubiliert,frohlockt,She exulted over her students'test scores.,Sie war von den Testergebnissen ihrer Schüler ganz begeistert.,'That was the best meal I've ever had!'he exulted.,„Das war das Beste, was ich je gegessen habe“, rief er begeistert.
+exulted>ganz begeistert gewesen,gejubelt,jubiliert,frohlockt,She exulted over her students'test scores.,Sie war von den Testergebnissen ihrer Schüler ganz begeistert.,'That was the best meal I've ever had!'he exulted.,�?Das war das Beste, was ich je gegessen habe“, rief er begeistert.
 rejoiced>ganz begeistert gewesen,gejubelt,jubiliert,frohlockt,The fans rejoiced in their team's victory.,Die Fans jubelten über den Sieg ihrer Mannschaft.
 keen>begeistert,leidenschaftlich,eifrig,be keen on doing sth.,etw. gern tun,not to be keen on it,wenig Lust dazu haben,not to be keen on sth.,nicht gerade begeistert von etw. sein,She's really keen to win.,Sie will unbedingt gewinnen.,He was not particularly keen to see the play.,Er war nicht besonders scharf darauf, das Stück zu sehen.,My parents are very keen on my going to college.,Meine Eltern wollen unbedingt, dass ich aufs College gehe.
 zesty>begeistert
@@ -76717,4 +76716,4 @@ avows>bekennt
 avowed>bekannte
 avow oneself to sth.>sich zu etw. bekennen
 avow that …>eingestehen, dass …
-profess sth.>sich zu etw. bekennen
+profess sth.>sich zu etw. bekennen

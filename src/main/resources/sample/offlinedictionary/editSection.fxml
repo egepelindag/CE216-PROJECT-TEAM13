@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Bloom?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="root3" prefHeight="480.0" prefWidth="800.0" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.offlinedictionary.Controller">
+   <children>
+      <HBox opacity="0.4" prefHeight="100.0" prefWidth="800.0" style="-fx-background-color: black;">
+         <children>
+            <Pane prefHeight="100.0" prefWidth="200.0">
+               <children>
+                  <Label prefHeight="100.0" prefWidth="200.0" text="Offline&#10;Dictionary" textFill="WHITE">
+                     <font>
+                        <Font name="SansSerif Regular" size="32.0" />
+                     </font>
+                     <effect>
+                        <Bloom />
+                     </effect>
+                     <padding>
+                        <Insets left="10.0" />
+                     </padding>
+                  </Label>
+               </children>
+            </Pane>
+            <Button mnemonicParsing="false" onAction="#addButton" prefHeight="100.0" prefWidth="140.0" stylesheets="@Style.css" text="ADD" textFill="WHITE">
+               <font>
+                  <Font name="Microsoft JhengHei" size="18.0" />
+               </font>
+               <effect>
+                  <Bloom />
+               </effect>
+            </Button>
+            <Button layoutX="210.0" layoutY="10.0" mnemonicParsing="false" onAction="#editButton" prefHeight="100.0" prefWidth="140.0" stylesheets="@Style.css" text="EDIT" textFill="WHITE">
+               <font>
+                  <Font name="Microsoft JhengHei" size="18.0" />
+               </font>
+               <effect>
+                  <Bloom />
+               </effect>
+            </Button>
+            <Button layoutX="360.0" layoutY="10.0" mnemonicParsing="false" onAction="#deleteButton" prefHeight="100.0" prefWidth="140.0" stylesheets="@Style.css" text="DELETE" textFill="WHITE">
+               <font>
+                  <Font name="Microsoft JhengHei" size="18.0" />
+               </font>
+               <effect>
+                  <Bloom />
+               </effect>
+            </Button>
+            <Button layoutX="511.0" layoutY="10.0" mnemonicParsing="false" onAction="#editToMain" prefHeight="100.0" prefWidth="180.0" stylesheets="@Style.css" text="BACK TO MAIN" textFill="WHITE">
+               <font>
+                  <Font name="Microsoft JhengHei" size="18.0" />
+               </font>
+               <effect>
+                  <Bloom />
+               </effect>
+            </Button>
+         </children>
+      </HBox>
+      <Label alignment="TOP_LEFT" layoutX="26.0" layoutY="171.0" prefHeight="251.0" prefWidth="747.0" text="ADD SECTION &#10;&#9;You can add new words to Offline Dictionary, if the word you are looking for is not exists &#10;&#10;EDIT SECTION&#10;&#9;With the edit section you change the meaning of the words, if you think there is a mistake&#10;&#10;DELETE SECTION &#10;&#9;If there is a wrong translation in the Offline Dictionary you can always delete them" textAlignment="JUSTIFY" textFill="WHITE" AnchorPane.rightAnchor="27.0">
+         <font>
+            <Font name="Microsoft JhengHei" size="17.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

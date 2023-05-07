@@ -1277,9 +1277,9 @@ chain store company>Filialunternehmen
 lacy>Filigran…
 twisting of silk>Filiieren von Seide
 roll of film>Film,an undeveloped roll of film,ein unentwickelter Film,I've shot a whole roll of film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.
-roll>Film,rolls of film,Filme,several rolls of film,mehrere Filme,an undeveloped roll of film,ein unentwickelter Film,How many rolls should I take along?,Wie viele Filme soll ich denn mitnehmen?,'Do you need to change film yet?''No, I've still got eight shots on this roll.',„Musst du schon (den) Film wechseln?“ „Nein, ich habe noch acht Aufnahmen auf dem Film.“,I need to put a new roll in.,Ich muss einen neuen Film einlegen.,I've shot a whole roll of film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.
-film>Film,rolls of film,Filme,several rolls of film,mehrere Filme,an undeveloped roll of film,ein unentwickelter Film,'Do you need to change film yet?''No, I've still got eight shots on this roll.',„Musst du schon (den) Film wechseln?“ „Nein, ich habe noch acht Aufnahmen auf dem Film.“,I need to put a new film in.,Ich muss einen neuen Film einlegen.,I've used up a whole film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.,I've shot a whole roll of film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.
-film>Filme,several rolls of film,mehrere Filme,an undeveloped roll of film,ein unentwickelter Film,'Do you need to change film yet?''No, I've still got eight shots on this roll.',„Musst du schon (den) Film wechseln?“ „Nein, ich habe noch acht Aufnahmen auf dem Film.“,I need to put a new film in.,Ich muss einen neuen Film einlegen.,I've used up a whole film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.,I've shot a whole roll of film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.
+roll>Film,rolls of film,Filme,several rolls of film,mehrere Filme,an undeveloped roll of film,ein unentwickelter Film,How many rolls should I take along?,Wie viele Filme soll ich denn mitnehmen?,'Do you need to change film yet?''No, I've still got eight shots on this roll.',�?Musst du schon (den) Film wechseln?“ �?Nein, ich habe noch acht Aufnahmen auf dem Film.“,I need to put a new roll in.,Ich muss einen neuen Film einlegen.,I've shot a whole roll of film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.
+film>Film,rolls of film,Filme,several rolls of film,mehrere Filme,an undeveloped roll of film,ein unentwickelter Film,'Do you need to change film yet?''No, I've still got eight shots on this roll.',�?Musst du schon (den) Film wechseln?“ �?Nein, ich habe noch acht Aufnahmen auf dem Film.“,I need to put a new film in.,Ich muss einen neuen Film einlegen.,I've used up a whole film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.,I've shot a whole roll of film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.
+film>Filme,several rolls of film,mehrere Filme,an undeveloped roll of film,ein unentwickelter Film,'Do you need to change film yet?''No, I've still got eight shots on this roll.',�?Musst du schon (den) Film wechseln?“ �?Nein, ich habe noch acht Aufnahmen auf dem Film.“,I need to put a new film in.,Ich muss einen neuen Film einlegen.,I've used up a whole film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.,I've shot a whole roll of film today.,Ich habe heute einen ganzen Film ausgeknipst / verknipst / verschossen.
 film>Film,Schicht,Belag
 coat>Film,Schicht,Belag
 films>Filme,Schichten,Beläge
@@ -1288,7 +1288,7 @@ the screen>der Film,die Leinwand
 on screen>im Film,auf der Leinwand
 prequel>Film/Buch über die Vorgeschichte eines erfolgreichen Films/Buches
 film noir>Film noir
-noirish>in der Art des „Film noir“
+noirish>in der Art des �?Film noir“
 film wiper>Filmabstreifer
 film squeegee>Filmabstreifer
 film wipers>Filmabstreifer
@@ -3763,8 +3763,8 @@ Fosbury Flop>Flop
 turkey>Flop
 be a flopperoo>sich als totaler Flop erweisen,ein totaler Flop sein
 gauze>Flor
-shag>Flor,shag-pile carpet,langfloriger Teppich,„zotteliger“ Teppich
-shag>langfloriger Teppich,„zotteliger“ Teppich
+shag>Flor,shag-pile carpet,langfloriger Teppich,�?zotteliger“ Teppich
+shag>langfloriger Teppich,�?zotteliger“ Teppich
 bloom>Flor
 pile>Flor,Pol,weiches Haar,crop/nap the pile,den Flor ausscheren
 flora>Flora,Pflanzenwelt
@@ -13489,8 +13489,8 @@ by contrast>im Gegensatz zu,by contrast with,im Vergleich zu
 contrary to>im Gegensatz zu
 as opposed to>im Gegensatz zu
 contrast>im Gegensatz stehen,im Kontrast stehen,in marked contrast (to),in scharfem Gegensatz (zu),by contrast with,im Vergleich zu,What a contrast!,Welch ein Gegensatz!
-opposite>Gegensatz,The terms"black"and"white"are opposites.,Die Ausdrücke „schwarz“ und „weiß“ sind Gegensätze.,My two brothers are polar/exact/complete opposites.,Meine zwei Brüder sind völlig gegensätzlich.,Meine zwei Brüder könnten gegensätzlicher nicht sein.,We are opposites in temperament.,Wir haben ein gegensätzliches Temperament.
-opposites>Gegensätze,The terms"black"and"white"are opposites.,Die Ausdrücke „schwarz“ und „weiß“ sind Gegensätze.,My two brothers are polar/exact/complete opposites.,Meine zwei Brüder sind völlig gegensätzlich.,Meine zwei Brüder könnten gegensätzlicher nicht sein.,We are opposites in temperament.,Wir haben ein gegensätzliches Temperament.
+opposite>Gegensatz,The terms"black"and"white"are opposites.,Die Ausdrücke �?schwarz“ und �?weiß“ sind Gegensätze.,My two brothers are polar/exact/complete opposites.,Meine zwei Brüder sind völlig gegensätzlich.,Meine zwei Brüder könnten gegensätzlicher nicht sein.,We are opposites in temperament.,Wir haben ein gegensätzliches Temperament.
+opposites>Gegensätze,The terms"black"and"white"are opposites.,Die Ausdrücke �?schwarz“ und �?weiß“ sind Gegensätze.,My two brothers are polar/exact/complete opposites.,Meine zwei Brüder sind völlig gegensätzlich.,Meine zwei Brüder könnten gegensätzlicher nicht sein.,We are opposites in temperament.,Wir haben ein gegensätzliches Temperament.
 Opposites attract.>Gegensätze ziehen sich an.
 antagonism>Gegensatz,Antagonismus
 antagonisms>Gegensätze,Antagonismen
@@ -13594,11 +13594,11 @@ push-pull action>Gegentaktbetrieb,Zweirichtungsbetrieb
 push-pull amplifier>Gegentaktendstufe,push-pull amplifiers,Gegentaktendstufen
 countershading>Gegentönung,Tarntönung
 push-pull communication>Gegentaktverkehr
-opposite>Gegenteil,the very/exact opposite (of sth.),das genaue Gegenteil (von etw.),be just/exactly the opposite of sth.,das genaue Gegenteil von etw. sein,but really the opposite is true,aber das Gegenteil ist der Fall,turn sth. into its opposite,etw. in sein Gegenteil verkehren,'Fast'is the opposite of'slow'.,„Schnell“ ist das Gegenteil von „langsam“.,Das Gegenteil von „schnell“ ist „langsam“.,The opposite of'fast'is'slow'.,„Schnell“ ist das Gegenteil von „langsam“.,Das Gegenteil von „schnell“ ist „langsam“.
+opposite>Gegenteil,the very/exact opposite (of sth.),das genaue Gegenteil (von etw.),be just/exactly the opposite of sth.,das genaue Gegenteil von etw. sein,but really the opposite is true,aber das Gegenteil ist der Fall,turn sth. into its opposite,etw. in sein Gegenteil verkehren,'Fast'is the opposite of'slow'.,�?Schnell“ ist das Gegenteil von �?langsam“.,Das Gegenteil von �?schnell“ ist �?langsam“.,The opposite of'fast'is'slow'.,�?Schnell“ ist das Gegenteil von �?langsam“.,Das Gegenteil von �?schnell“ ist �?langsam“.
 opposites>Gegenteile
 reverse>Gegenteil
 converse>Gegenteil,Umkehrung,argue the converse,das Gegenteil behaupten
-the contrary>das Gegenteil,do completely the contrary,das genaue Gegenteil tun,Recent data is evidence/proof to the contrary.,Die jüngsten Daten beweisen das Gegenteil.,'Didn't you find the film exciting?''On the contrary, I nearly fell asleep half way through it!',„Hast du den Film spannend gefunden?“ „(Ganz) im Gegenteil, ich bin zwischendurch fast eingeschlafen.“,I don't feel sleepy. Quite the contrary. / Quite the opposite.,Ich fühle mich nicht schläfrig. Ganz im Gegenteil.
+the contrary>das Gegenteil,do completely the contrary,das genaue Gegenteil tun,Recent data is evidence/proof to the contrary.,Die jüngsten Daten beweisen das Gegenteil.,'Didn't you find the film exciting?''On the contrary, I nearly fell asleep half way through it!',�?Hast du den Film spannend gefunden?“ �?(Ganz) im Gegenteil, ich bin zwischendurch fast eingeschlafen.“,I don't feel sleepy. Quite the contrary. / Quite the opposite.,Ich fühle mich nicht schläfrig. Ganz im Gegenteil.
 contraries>Gegenteile
 goal against>Gegentor
 vis-à-vis>Gegenüber,Visavis,She looked steadfastly across the table at her vis-à-vis.,Sie blickte unverwandt über den Tisch auf ihr Gegenüber.
@@ -15020,7 +15020,7 @@ possible opportunities>in Frage kommende Möglichkeiten
 jump at the chance>die Gelegenheit ergreifen
 wait for the right moment>auf eine günstige Gelegenheit warten
 miss the boat>eine Gelegenheit verpassen,eine Gelegenheit versäumen
-chance>Gelegenheit,Möglichkeit,Chance,better chances at/for/of employment,bessere Chancen auf eine Anstellung,not a chance,keine Chance,a snowball's chance,überhaupt keine Chance,not have a dog's chance,gar keine Chance haben,not to have/stand the ghost of a chance / not to have a dog's chance/a snowball's chance/Buckley's chance / not to have a prayer of achieving sth.,nicht die geringste Chance / nicht den Hauch/den Funken/die Spur einer Chance haben, etw. zu erreichen,I've had the chance to talk to her twice.,Ich hatte Gelegenheit, zweimal mit ihr zu sprechen.,Any chance of a coffee?,Krieg ich einen Kaffee?,They never miss a chance to make an exhibition of themselves.,Sie lassen keine Gelegenheit aus, sich zu produzieren.,'She says that she'll get here on time.'–'Fat chance of that happening!'/'Fat chance!'/'Not a chance!',„Sie sagt, sie ist rechtzeitig da.“ „Nie im Leben!“ / „Denkste!“ / „Keine Chance!“,They never contacted us nor gave us a chance to comment.,Sie haben mit uns nie Verbindung aufgenommen und uns auch keine Gelegenheit zu einer Stellungnahme gegeben.,There's still a slight/slim/outside chance that we can win.,Es gibt immer noch eine kleine Chance, dass wir gewinnen.,He doesn't stand a chance against such strong competitors.,Gegen so starke Konkurrenten hat er keine Chance.
+chance>Gelegenheit,Möglichkeit,Chance,better chances at/for/of employment,bessere Chancen auf eine Anstellung,not a chance,keine Chance,a snowball's chance,überhaupt keine Chance,not have a dog's chance,gar keine Chance haben,not to have/stand the ghost of a chance / not to have a dog's chance/a snowball's chance/Buckley's chance / not to have a prayer of achieving sth.,nicht die geringste Chance / nicht den Hauch/den Funken/die Spur einer Chance haben, etw. zu erreichen,I've had the chance to talk to her twice.,Ich hatte Gelegenheit, zweimal mit ihr zu sprechen.,Any chance of a coffee?,Krieg ich einen Kaffee?,They never miss a chance to make an exhibition of themselves.,Sie lassen keine Gelegenheit aus, sich zu produzieren.,'She says that she'll get here on time.'–'Fat chance of that happening!'/'Fat chance!'/'Not a chance!',�?Sie sagt, sie ist rechtzeitig da.“ �?Nie im Leben!“ / �?Denkste!“ / �?Keine Chance!“,They never contacted us nor gave us a chance to comment.,Sie haben mit uns nie Verbindung aufgenommen und uns auch keine Gelegenheit zu einer Stellungnahme gegeben.,There's still a slight/slim/outside chance that we can win.,Es gibt immer noch eine kleine Chance, dass wir gewinnen.,He doesn't stand a chance against such strong competitors.,Gegen so starke Konkurrenten hat er keine Chance.
 chances>Gelegenheiten,Möglichkeiten,Chancen,better chances at/for/of employment,bessere Chancen auf eine Anstellung
 a fair crack of the whip>eine faire Chance bekommen
 some time>bei Gelegenheit
@@ -19674,8 +19674,8 @@ horticultural tunnels>Gewächshaustunnel
 seller>Gewährleistungspflicht
 statutory warranty period>Gewährleistungszeitraum,statutory warranty periods,Gewährleistungszeiträume
 defect liability period>Gewährleistungszeitraum,defect liability periods,Gewährleistungszeiträume
-caveat emptor>Gewährleistungsausschluss,Ausschluss der Gewährleistung,Mängelausschluss,Grundsatz „Augen auf, Kauf ist Kauf“
-'>Gewährleistungsausschluss,Ausschluss der Gewährleistung,Mängelausschluss,Grundsatz „Augen auf, Kauf ist Kauf“
+caveat emptor>Gewährleistungsausschluss,Ausschluss der Gewährleistung,Mängelausschluss,Grundsatz �?Augen auf, Kauf ist Kauf“
+'>Gewährleistungsausschluss,Ausschluss der Gewährleistung,Mängelausschluss,Grundsatz �?Augen auf, Kauf ist Kauf“
 warranty guarantee>Gewährleistungsgarantie,Gewährleistungsbürgschaft
 warranty bond>Gewährleistungsgarantie,Gewährleistungsbürgschaft
 source>Gewährsmann,Quelle,geheimer Informant
@@ -22828,7 +22828,7 @@ lucky number>Glückszahl,This is my lucky number.,Das ist meine Glückszahl.
 lucky numbers>Glückszahlen
 congratulations>Glückwunsch,Glückwünsche,Gratulation,Beglückwünschung,Heartiest congratulations to our graduates!,Herzliche Glückwünsche an unsere Absolventen!,(My) congratulations on your exam!,(Mein) Glückwunsch zur bestandenen Prüfung!
 congrats>Glückwunsch,Glückwünsche,Gratulation,Beglückwünschung
-'>„Ich bin befördert worden!“ „Gratuliere!“
+'>�?Ich bin befördert worden!“ �?Gratuliere!“
 good wishes>Glückwunsch,Glückwünsche
 felicitation>Glückwunsch
 greetings card>Glückwunschkarte,Grußkarte,Glückwunschbillet,Billett
@@ -26423,7 +26423,7 @@ the creeps>das Gruseln,der Grusel,das (kalte) Grausen,ein Schaudern,ein Schauder
 the willies>das Gruseln,der Grusel,das (kalte) Grausen,ein Schaudern,ein Schauder,eine Gänsehaut,der Horror,This forest gives me the willies.,Dieser Wald ist mir unheimlich.,Dieser Wald gruselt mich,In diesem Wald gruselt es mich.,Just the thought of it gives me the cold chills / the willies / the heebie-jeebies.,Schon bei dem Gedanken wird mir ganz anders.
 the cold chills>das Gruseln,der Grusel,das (kalte) Grausen,ein Schaudern,ein Schauder,eine Gänsehaut,der Horror,Just the thought of it gives me the cold chills / the willies / the heebie-jeebies.,Schon bei dem Gedanken wird mir ganz anders.
 the heebie-jeebies>das Gruseln,der Grusel,das (kalte) Grausen,ein Schaudern,ein Schauder,eine Gänsehaut,der Horror,I got the creeps / the heebie-jeebies when I saw him looking at me.,Als ich seinen Blick sah, lief mir ein Schauer über den Rücken.,Many of the applications of genetic engineering give me the heebie-jeebies.,Bei vielen Anwendungen der Gentechnik überkommt mich ein Schaudern.,Just the thought of it gives me the cold chills / the willies / the heebie-jeebies.,Schon bei dem Gedanken wird mir ganz anders.
-greeting>Gruß,Begrüßung,return sb.'s greeting,jds. Gruß erwidern,jdn. zurückgrüßen,jdm. danken,He raised his hand in greeting.,Er hob die Hand zur Begrüßung / zum Gruß.,'It took you two long enough', she said in greeting.,„Das hat ja ganz schön gedauert mit euch beiden“, sagt sie zur Begrüßung.
+greeting>Gruß,Begrüßung,return sb.'s greeting,jds. Gruß erwidern,jdn. zurückgrüßen,jdm. danken,He raised his hand in greeting.,Er hob die Hand zur Begrüßung / zum Gruß.,'It took you two long enough', she said in greeting.,�?Das hat ja ganz schön gedauert mit euch beiden“, sagt sie zur Begrüßung.
 greetings>Grüße
 Greetings!>begrüße Sie!,Grüß Gott!
 greeting>Gruß,Grüße,a New Year's greeting to all,ein Neujahrsgruß an alle,Warm greetings from cold rainy Belgium.,Herzliche Grüße aus dem kalten, verregneten Belgien.
@@ -28615,7 +28615,7 @@ Halloween>Halloween,Abend vor Allerheiligen
 trick-or-treating>Halloween-Brauch
 go trick-and-treating>zu Halloween von Haus zu Haus gehen
 trick-or-treaters>Kinder, die zu Halloween von Haus zu Haus gehen
-">„Süßes oder Saures!“,„Süßes sonst gibt's Saures!“
+">�?Süßes oder Saures!“,�?Süßes sonst gibt's Saures!“
 jack-o>Halloween-Kürbis,Kürbislaterne
 reverberation radius>Hallradius
 Hallstatt era>Hallstattzeit
@@ -29195,7 +29195,7 @@ hand printing>Handdruck,Tafeldruck,Klotzdruck
 block printing>Handdruck,Tafeldruck,Klotzdruck
 manual operation>Handeingriff
 trade>Handel,Geschäft,trade with China,Handel mit China,Chinahandel,intra-industry trade,intra-industrieller Handel
-trading>Handel,Geschäft,all day trading,„Rund um die Uhr“ Handel
+trading>Handel,Geschäft,all day trading,�?Rund um die Uhr“ Handel
 import trade>Einfuhrhandel
 specialized trade>Fachhandel
 fish trade>Fischhandel
@@ -31277,7 +31277,7 @@ house guest>Hausgast
 house guests>Hausgäste
 everyday needs>Hausgebrauch,Alltagsgebrauch
 simple needs>Hausgebrauch,Alltagsgebrauch,be enough for everyday/simple needs,für den Hausgebrauch reichen/genügen
-'>„Kannst du gut singen/spielen?“, „So für den Hausgebrauch“
+'>�?Kannst du gut singen/spielen?“, �?So für den Hausgebrauch“
 home birth>Hausgeburt
 familiar spirit>Hausgeist,Hausgespenst
 household deity>Hausgeist,Hausgespenst
@@ -38054,9 +38054,9 @@ Stand!>Steh!
 Go out!>Voraus!
 dog basket>Hundekorb
 dog baskets>Hundekörbe
-dog dirt>Hundekot,Hundehaufen,„Tretmine“
-dog excrement>Hundekot,Hundehaufen,„Tretmine“
-doggie do>Hundekot,Hundehaufen,„Tretmine“
+dog dirt>Hundekot,Hundehaufen,�?Tretmine“
+dog excrement>Hundekot,Hundehaufen,�?Tretmine“
+doggie do>Hundekot,Hundehaufen,�?Tretmine“
 dog waste bag>Hundekotbeutel,Hundebeutel,Gassibeutel,Hundetüte,Kottüte,Hundesackerl,Kotsackerl,Gassisackerl,Robidog-Sack,Robidog-Säckli,dog waste bags,Hundekotbeutel,Hundebeutel,Gassibeutel,Hundetüten,Kottüten,Hundesackerlen,Kotsackerlen,Gassisackerlen,Robidog-Säcke,Robidog-Säckli
 dog fouling bag>Hundekotbeutel,Hundebeutel,Gassibeutel,Hundetüte,Kottüte,Hundesackerl,Kotsackerl,Gassisackerl,Robidog-Sack,Robidog-Säckli,dog fouling bags,Hundekotbeutel,Hundebeutel,Gassibeutel,Hundetüten,Kottüten,Hundesackerlen,Kotsackerlen,Gassisackerlen,Robidog-Säcke,Robidog-Säckli
 pooper scooper tool>Hundekotschaufel,pooper scooper tools,Hundekotschaufeln
@@ -41458,9 +41458,9 @@ cybercafés>Internetcafés
 ISP>Internetdienstanbieter,Internetanbieter,Internet service providers,Internetdienstanbieter,Internetanbieter
 threadnap>eine Internetdiskussion an sich reißen
 Internet domain>Internet-Domain,Internet-Domäne,in an Internet domain,auf einer Internet-Domäne
-search result>Internet-Fundstelle,Fundstelle,Treffer,Suchergebnis,There are 1,500 search results for"Tower Bridge".,Es gibt 1.500 Fundstellen zu/für „Tower Bridge“.,All the Internet search results were obtained from scientific web sites.,Alle diese Internet-Fundstellen stammen von wissenschaftlichen Webseiten.,Better search results are obtained if the full search term is entered.,Bessere Suchergebnisse erhält man, wenn man den vollständigen Suchbegriff eingibt.
+search result>Internet-Fundstelle,Fundstelle,Treffer,Suchergebnis,There are 1,500 search results for"Tower Bridge".,Es gibt 1.500 Fundstellen zu/für �?Tower Bridge“.,All the Internet search results were obtained from scientific web sites.,Alle diese Internet-Fundstellen stammen von wissenschaftlichen Webseiten.,Better search results are obtained if the full search term is entered.,Bessere Suchergebnisse erhält man, wenn man den vollständigen Suchbegriff eingibt.
 hit>Internet-Fundstelle,Fundstelle,Treffer,Suchergebnis,An internet search returns/yields only few hits for this name.,Bei einer Internetsuche erhält man nur wenige Treffer zu diesem Namen.
-search results>Internet-Fundstellen,Fundstellen,Treffer,Suchergebnisse,There are 1,500 search results for"Tower Bridge".,Es gibt 1.500 Fundstellen zu/für „Tower Bridge“.,All the Internet search results were obtained from scientific web sites.,Alle diese Internet-Fundstellen stammen von wissenschaftlichen Webseiten.,Better search results are obtained if the full search term is entered.,Bessere Suchergebnisse erhält man, wenn man den vollständigen Suchbegriff eingibt.
+search results>Internet-Fundstellen,Fundstellen,Treffer,Suchergebnisse,There are 1,500 search results for"Tower Bridge".,Es gibt 1.500 Fundstellen zu/für �?Tower Bridge“.,All the Internet search results were obtained from scientific web sites.,Alle diese Internet-Fundstellen stammen von wissenschaftlichen Webseiten.,Better search results are obtained if the full search term is entered.,Bessere Suchergebnisse erhält man, wenn man den vollständigen Suchbegriff eingibt.
 hits>Internet-Fundstellen,Fundstellen,Treffer,Suchergebnisse,An internet search returns/yields only few hits for this name.,Bei einer Internetsuche erhält man nur wenige Treffer zu diesem Namen.
 dot-com>im Internet tätig,Internet…,dot-com company,Internetfirma,dot-commer,Internetfirma,dot-com,Internetfirma,dot-com share,Internet-Aktie,Aktie einer im Internet tätigen Firma
 dot.com>im Internet tätig,Internet…,dot.com,Internetfirma,dot.com stock,Internet-Aktie,Aktie einer im Internet tätigen Firma
@@ -41493,7 +41493,7 @@ website>Internetseite,Webseite,Web-Angebot,Homepage,Netzauftritt,Netzplatz,on a 
 web site>Internetseite,Webseite,Web-Angebot,Homepage,Netzauftritt,Netzplatz
 website page>Internetseite,Webseite,Web-Angebot,Homepage,Netzauftritt,Netzplatz,Extensive information on the subject can be found on our website page.,Umfassende Informationen zum Thema erhalten Sie auf unserer Internetseite.
 malicious website>Internetseite mit Schadsoftware,manipulierte Webseite
-sticky site>ein Web-Angebot, an dem man „kleben“ bleibt
+sticky site>ein Web-Angebot, an dem man �?kleben“ bleibt
 search on the Internet / Web>Internetsuche,Recherche im Internet / im Netz,Online-Recherche
 Internet search>Internetsuche,Recherche im Internet / im Netz,Online-Recherche
 Web search>Internetsuche,Recherche im Internet / im Netz,Online-Recherche
@@ -47670,7 +47670,7 @@ dental tubercles>Kauflächenhöcker
 shop>Kaufladen
 shops>Kaufläden
 buying desire>Kauflust
-propensity to buy>Kauflust,Mood,'propensity to buy'and the time a customer stays can be positively influenced by the right scent.,Mit Hilfe des richtigen Duftes können Gefühlslage, „Kauflust“ und Kundenverweildauer positiv beeinflusst werden.
+propensity to buy>Kauflust,Mood,'propensity to buy'and the time a customer stays can be positively influenced by the right scent.,Mit Hilfe des richtigen Duftes können Gefühlslage, �?Kauflust“ und Kundenverweildauer positiv beeinflusst werden.
 shopper>Kauflustiger,jemand, der Einkäufe / einen Einkaufbummel macht,crowds of Christmas shoppers,die Massen, die Weihnachtseinkäufe machen
 merchandiser>Kaufmann
 Kfm.>Kaufmann,Großkaufmann,Händler,export merchant: exporter,Exportkaufmann,non-merchants,Nichtkaufleute
@@ -53702,11 +53702,11 @@ monomethylmorphine>Kodein
 codeine phosphate>Kodeinphosphat
 codeine phosphate syrum>Kodeinphosphatsirup
 codeine syrup>Kodeinphosphatsirup
-code name>Kodename,Deckname,Tarnname,He worked as a police source under the code name'George'.,Er arbeitete als Informant der Polizei unter dem Decknamen „George“.
+code name>Kodename,Deckname,Tarnname,He worked as a police source under the code name'George'.,Er arbeitete als Informant der Polizei unter dem Decknamen �?George“.
 cover name>Kodename,Deckname,Tarnname
 code names>Kodenamen,Decknamen,Tarnnamen
 cover names>Kodenamen,Decknamen,Tarnnamen
-a mission code-named >ein Einsatz mit dem Kodenamen „Buffy“
+a mission code-named >ein Einsatz mit dem Kodenamen �?Buffy“
 code chart>Kodetabelle,Codetabelle
 code charts>Kodetabellen,Codetabellen
 code management>Kodeverwaltung
@@ -56065,7 +56065,7 @@ design engineers>Konstrukteure
 draftsmans>Konstrukteure
 draughtsmans>Konstrukteure
 constructibility>Konstruierbarkeit
-construct>Konstruktion,if-then constructs,„wenn-dann“-Konstruktionen
+construct>Konstruktion,if-then constructs,�?wenn-dann“-Konstruktionen
 construction>Konstruktion
 construction task>Konstruktionsaufgabe
 structural concrete>Konstruktionsbeton
@@ -66841,7 +66841,7 @@ loudspeaker system>Lautsprecheranlage,integrated loudspeaker system,integrierte 
 loudspeaker systems>Lautsprecheranlagen
 ELA>elektrische Lautsprecheranlage,elektroakustische Anlage,Durchsageanlage,öffentliche Beschallungsanlage
 ELA>elektrische Lautsprecheranlage,elektroakustische Anlage,Durchsageanlage,öffentliche Beschallungsanlage
-ELA>elektrische Lautsprecheranlage,elektroakustische Anlage,Durchsageanlage,öffentliche Beschallungsanlage,'This is your captain speaking', said a voice over the tannoy.,„Hier spricht Ihr Kapitän“, ertönte eine Stimme über Lautsprecher.
+ELA>elektrische Lautsprecheranlage,elektroakustische Anlage,Durchsageanlage,öffentliche Beschallungsanlage,'This is your captain speaking', said a voice over the tannoy.,�?Hier spricht Ihr Kapitän“, ertönte eine Stimme über Lautsprecher.
 loudspeaker cabinet>Lautsprecherbox,Box
 speaker cabinet>Lautsprecherbox,Box
 loudspeaker box>Lautsprecherbox,Box
@@ -71247,7 +71247,7 @@ lip>Lippe,bit one's lips,sich auf die Lippe(n) beißen,pucker up one's lips (in 
 lips>Lippen,bit one's lips,sich auf die Lippe(n) beißen,pucker up one's lips (in a smile),die Lippen (zu einem Lächeln) kräuseln,put a glass to one's lips,ein Glas an die Lippen setzen,purse one's lips (for a kiss),die Lippen (zum Kuss) spitzen,press one's lips together (in annoyance),die Lippen (vor Ärger/verärgert) zusammenpressen,with a song on one's lips,mit einem Lied auf den Lippen,His name doesn't pass her lips.,Sein Name kommt ihr nicht über die Lippen.,Not one grumble escaped (from) his lips.,Kein Murren entschlüpfte seinen Lippen.
 thick lips>wulstige Lippen
 hang on sb.>an jds. Lippen hängen
-He can>Den Begriff „Unrechtsstaat“ bringt er nicht über die Lippen.
+He can>Den Begriff �?Unrechtsstaat“ bringt er nicht über die Lippen.
 lip-read a conversation>ein Gespräch durch Lippenlesen verfolgen
 be tight-lipped>die Lippen zusammenpressen
 labiated bear>Lippenbär
@@ -72696,7 +72696,7 @@ Tally-ho!>Los geht's!,Hussa!
 break-away friction>Losbrechreibung
 try-your-luck stall>Losbude,Glücksbude,Glücksbringerbude,try-your-luck stalls,Losbuden,Glücksbuden,Glücksbringerbuden
 slack>Lose
-">„Gib Seil“
+">�?Gib Seil“
 loose-leaf ledger>Loseblatt-Hauptbuch
 loose-leaf accounting>Loseblatt-Buchführung
 loose-leaf edition>Loseblattausgabe,loose-leaf editions,Loseblattausgaben
@@ -76717,4 +76717,4 @@ air-lift gravity hammer>Lufthammer
 pneumatic hammer>Lufthammer
 powerhouse>Maschinenhaus
 machine building>Maschinenhaus
-machinery house>Maschinenhaus
+machinery house>Maschinenhaus

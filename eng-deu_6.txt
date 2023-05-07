@@ -119,7 +119,7 @@ agree>übereinstimmen,The adjective agrees with the noun in number and gender.,D
 agreeing>übereinstimmend
 agreed>übereingestimmt
 make to agree two words>zwei Wörter übereinstimmen
-If you use >Beim Gebrauch von „sein“ muss im Italienischen das Partizip mit dem Subjekt in Geschlecht und Zahl übereingestimmt werden.
+If you use >Beim Gebrauch von �?sein“ muss im Italienischen das Partizip mit dem Subjekt in Geschlecht und Zahl übereingestimmt werden.
 disagree>nicht übereinstimmen,widersprechen
 disagreeing>nicht übereinstimmend,widersprechend
 disagreed>nicht übereingestimmt,widersprochen
@@ -485,7 +485,7 @@ Is there really any such thing as moral progress?>Gibt es überhaupt so etwas wi
 Have you had anything to eat yet?>Hast du überhaupt schon etwas gegessen?
 Do you have any idea who you are talking to?>Wissen Sie überhaupt, wen sich vor sich haben?
 in the first place>überhaupt erst,überhaupt,He made it possible in the first place.,Er hat das überhaupt erst ermöglicht.,Whose idea was it in the first place?,Wessen Idee war das überhaupt?,He sent me a review copy which I had not requested in the first place,Er schickte mir ein Rezensionsexemplar, das ich überhaupt nicht / gar nicht angefordert hatte.,If you had paid attention, this wouldn't have happened in the first place!,Hättest du aufgepasst, ware das überhaupt nicht passiert! / gar nicht erst passiert! / erst gar nicht passiert!,We shouldn't have let it get to that point in the first place.,Wir hätten's erst gar nicht so weit kommen lassen dürfen.
-ever>überhaupt,It's Dubai's coldest month, if you can ever use the word'cold'to describe Dubai.,Es ist der kälteste Monat in Dubai, wenn man im Zusammenhang mit Dubai überhaupt von „kalt“ sprechen kann.
+ever>überhaupt,It's Dubai's coldest month, if you can ever use the word'cold'to describe Dubai.,Es ist der kälteste Monat in Dubai, wenn man im Zusammenhang mit Dubai überhaupt von �?kalt“ sprechen kann.
 overstrain>sich überheben
 overstraining>sich überhebend
 overstrained>sich überhoben
@@ -1036,7 +1036,7 @@ take sb. by surprise>jdn. überraschen
 surprising>überraschend
 surprised>überrascht,I/he/she surprised,ich/er/sie überraschte,he/she has/had surprised,er/sie hat/hatte überrascht,be pleasantly surprised,angenehm überrascht sein,Are you surprised?,Bist du überrascht?,Mind you, I'm not surprised.,Also das überrascht mich nicht.
 he/she surprises>er/sie überrascht
-'>„Was möchtest du essen?“ „Ich lasse mich überraschen.“
+'>�?Was möchtest du essen?“ �?Ich lasse mich überraschen.“
 break in on sb.>jdn. überraschen,jdn. unterbrechen
 spring a surprise on sb.>jdn. völlig überraschen
 unsurprising>nicht überraschend,nicht verwunderlich,alles andere als unerwartet,In light of this, it is unsurprising to see that …,In Anbetracht dessen überrascht es nicht, dass …
@@ -1385,7 +1385,7 @@ untranslatable>nicht übersetzbar
 defy translation>unübersetzbar sein
 translate sth.>etw. übersetzen,translate sth. into German,etw. ins Deutsche übersetzen,verdeutschen
 translating>übersetzend
-translated>übersetzt,The German concept'Seilschaft'has been translated as'rope team'.,Der deutsche Begriff „Seilschaft“ wurde mit „rope team“ übersetzt.,The French word'ben'could be translated as meaning something along the lines of'ah, well'.,Das französische Wort „ben“ könnte man so ungefähr mit „na ja“ übersetzen.
+translated>übersetzt,The German concept'Seilschaft'has been translated as'rope team'.,Der deutsche Begriff �?Seilschaft“ wurde mit �?rope team“ übersetzt.,The French word'ben'could be translated as meaning something along the lines of'ah, well'.,Das französische Wort �?ben“ könnte man so ungefähr mit �?na ja“ übersetzen.
 untranslated>nicht übersetzt
 retranslate sth.>etw. neu übersetzen
 retranslating>neu übersetzend
@@ -1404,7 +1404,7 @@ translated incorrectly>falsch übersetzt
 mistranslated>falsch übersetzt
 finite-state transducer>übersetzender Automat,Transduktor
 translate as sth.>übersetzt etw. heißen,sich mit etw. übersetzen lassen
-Shiatsu literally translates as >Shiatsu heißt wörtlich übersetzt „Fingerdruck“.
+Shiatsu literally translates as >Shiatsu heißt wörtlich übersetzt �?Fingerdruck“.
 Puns don>Wortspiele lassen sich schlecht übersetzen.
 hyperopic>übersichtig,weitsichtig,hyperop
 clear>übersichtlich
@@ -1660,7 +1660,7 @@ converting>übertragend
 converted>übertragen
 render sth.>etw. (in eine Sprache) übertragen,übersetzen
 rendering>übertragend,übersetzend
-rendered>übertragen,übersetzt,Her poetry has also been rendered into Gaelic.,Ihre Dichtung wurde auch ins Gälische übertragen.,The English term"technology"tends to be incorrectly rendered into German as"Technologie".,Das englische Begriff „technology“ wird gerne falsch mit „Technologie“ ins Deutsche übersetzt.
+rendered>übertragen,übersetzt,Her poetry has also been rendered into Gaelic.,Ihre Dichtung wurde auch ins Gälische übertragen.,The English term"technology"tends to be incorrectly rendered into German as"Technologie".,Das englische Begriff �?technology“ wird gerne falsch mit �?Technologie“ ins Deutsche übersetzt.
 This phrase is difficult to render into English.>Diese Phrase kann nur schwer ins Englische übersetzt/übertragen werden.
 figurative>übertragen,bildlich,figurativ
 figurative sense>übertragene Bedeutung
@@ -3893,7 +3893,7 @@ embryonic>unausgereift
 crude>unausgereift
 premature>unausgereift
 unequipped>unausgerüstet
-unspoken>unausgesprochen,ungesagt,the unspoken truth,die unausgesprochene Wahrheit,In this example there is"nor"because there is unspoken"neither".,In diesem Beispielsatz steht „noch“, weil „weder“ impliziert ist.
+unspoken>unausgesprochen,ungesagt,the unspoken truth,die unausgesprochene Wahrheit,In this example there is"nor"because there is unspoken"neither".,In diesem Beispielsatz steht �?noch“, weil �?weder“ impliziert ist.
 unsaid>unausgesprochen,ungesagt,The last words she left unsaid.,Die letzten Worte ließ sie ungesagt.
 unstated>unausgesprochen,ungesagt
 unexpressed>unausgesprochen,ungesagt
@@ -5350,7 +5350,7 @@ sketchy>ungenau,vage,grob,I have only a sketchy idea of how it works.,Ich habe n
 sketchier>ungenauer,vager
 sketchiest>am ungenauesten,am vagesten
 inaccurately>ungenau,unpräzise,unscharf,measure sth. inaccurately,etw. ungenau messen
-inexactly>ungenau,unpräzise,unscharf,The disease is inexactly described as'fever'.,Die Krankheit wird unpräzise als „Fieber“ bezeichnet.
+inexactly>ungenau,unpräzise,unscharf,The disease is inexactly described as'fever'.,Die Krankheit wird unpräzise als �?Fieber“ bezeichnet.
 imprecisely>ungenau,unpräzise,unscharf,use a term imprecisely,einen Terminus unscharf gebrauchen
 free and easy>ungeniert,schamlos
 unembarrassed>ungeniert,schamlos
@@ -5655,7 +5655,7 @@ doomed flight>Unglücksflug,verhängnisvoller Flug,tragischer Flug
 hapless>unglücklich,unglückselig
 haplessly>unglücklich
 miserable>unglücklich
-unhappily>unglücklich,betrübt,be unhappily in love,unglücklich verliebt sein,be unhappily married,unglücklich verheiratet sein,'They don't take me seriously,'she noted unhappily.,„Sie nehmen mich nicht ernst“, merkte sie betrübt an.
+unhappily>unglücklich,betrübt,be unhappily in love,unglücklich verliebt sein,be unhappily married,unglücklich verheiratet sein,'They don't take me seriously,'she noted unhappily.,�?Sie nehmen mich nicht ernst“, merkte sie betrübt an.
 disastrous>unglückselig,unselig,verhängnisvoll,a disastrous attempt,ein unglücklicher Versuch
 unhappy>unglücklich,unselig,unzufrieden
 unhappier>unglücklicher
@@ -7178,7 +7178,7 @@ varying costs>schwankende Kosten
 divergent>unterschiedlich,voneinander abweichend
 diverse>ganz unterschiedlich,heterogen,ungleich/verschiedenartig zusammengesetzt,people with diverse interests,Menschen mit ganz unterschiedlichen Interessen,countries as diverse/varied as China, Italy and Pakistan,so unterschiedliche Länder wie China, Italien und Pakistan,an ethnically diverse/varied population,eine aus verschiedensten/unterschiedlichsten Volksgruppen zusammengesetzte Bevölkerung,The group of test persons is very diverse/quite varied.,Die Probandengruppe ist sehr heterogen.
 varied>ganz unterschiedlich,heterogen,ungleich/verschiedenartig zusammengesetzt,for many and varied reasons,aus den unterschiedlichsten Gründen,aus vielen verschiedenen Gründen,students from varied backgrounds,Schüler aus unterschiedlichsten Verhältnissen,countries as diverse/varied as China, Italy and Pakistan,so unterschiedliche Länder wie China, Italien und Pakistan,an ethnically diverse/varied population,eine aus verschiedensten/unterschiedlichsten Volksgruppen zusammengesetzte Bevölkerung,The group of test persons is very diverse/quite varied.,Die Probandengruppe ist sehr heterogen.,The opportunities the job offers are many and varied.,Der Posten bietet viele verschiedene Möglichkeiten.
-variously>ganz unterschiedlich,The move was variously interpreted at the time.,Die Sache wurde damals ganz unterschiedlich interpretiert.,The number of cases this year of salmonella poisoning has been variously put at 25, 38, or 53.,Die Zahl der diesjährigen Salmonellenvergiftungen wurde mit 25, 38 bzw. 53 ganz unterschiedlich angegeben.,The cost has been variously estimated at between 10 million and 20 million.,Bei den Kostenschätzungen gibt es eine Bandbreite von 10 bis 20 Millionen.,Marijuana is known/described variously as'grass','joint', or'shit'.,Marihuana firmiert unter den unterschiedlichsten Bezeichnungen wie „Gras“, „Joint“ oder „Shit“.,The oil multinationals are variously accused of bribing sheikhs or destroying rainforest.,Die Ölmultis sind mit so unterschiedlichen Vorwürfen wie Bestechung von Scheichs und Zerstörung des Regenwaldes konfrontiert.,The human body, as variously constituted, does not constitute an invention able to be patented.,Der menschliche Körper stellt wegen der großen Unterschiede in seiner Beschaffenheit keine patentierbare Erfindung dar.
+variously>ganz unterschiedlich,The move was variously interpreted at the time.,Die Sache wurde damals ganz unterschiedlich interpretiert.,The number of cases this year of salmonella poisoning has been variously put at 25, 38, or 53.,Die Zahl der diesjährigen Salmonellenvergiftungen wurde mit 25, 38 bzw. 53 ganz unterschiedlich angegeben.,The cost has been variously estimated at between 10 million and 20 million.,Bei den Kostenschätzungen gibt es eine Bandbreite von 10 bis 20 Millionen.,Marijuana is known/described variously as'grass','joint', or'shit'.,Marihuana firmiert unter den unterschiedlichsten Bezeichnungen wie �?Gras“, �?Joint“ oder �?Shit“.,The oil multinationals are variously accused of bribing sheikhs or destroying rainforest.,Die Ölmultis sind mit so unterschiedlichen Vorwürfen wie Bestechung von Scheichs und Zerstörung des Regenwaldes konfrontiert.,The human body, as variously constituted, does not constitute an invention able to be patented.,Der menschliche Körper stellt wegen der großen Unterschiede in seiner Beschaffenheit keine patentierbare Erfindung dar.
 differently>unterschiedlich
 discriminative>unterschiedlich
 discriminatively>unterschiedlich
@@ -8116,7 +8116,7 @@ discontinuously>unzusammenhängend
 disjointed>unzusammenhängend
 disjointedly>unzusammenhängend
 incompetently>unzuständig
-misnomer>unzutreffende/falsche Bezeichnung,'Villa'was something of a misnomer – the place was no more than an old farmhouse.,„Villa“ war nicht ganz die richtige Bezeichnung – es war nichts anderes als ein altes Bauernhaus.,To call the agreement'historical'would be a misnomer.,Die Vereinbarung „historisch“ zu nennen, wäre verfehlt.
+misnomer>unzutreffende/falsche Bezeichnung,'Villa'was something of a misnomer – the place was no more than an old farmhouse.,�?Villa“ war nicht ganz die richtige Bezeichnung – es war nichts anderes als ein altes Bauernhaus.,To call the agreement'historical'would be a misnomer.,Die Vereinbarung �?historisch“ zu nennen, wäre verfehlt.
 inapplicable>unzutreffend,nicht anwendbar,unanwendbar
 inappropriate>unzutreffend,nicht anwendbar,unanwendbar
 unreliable>unzuverlässig,unsicher
@@ -8354,7 +8354,7 @@ vary>variieren,wechseln,schwanken,verschieden/unterschiedlich sein,Kidney stones
 varying>variierend,wechselnd,schwankend,verschieden/unterschiedlich seiend,They've tried to improve their procedures, with varying degrees of success.,Sie haben versucht, ihre Abläufe zu verbessern, mit unterschiedlichem Erfolg.
 varied>variiert,gewechselt,geschwankt,verschieden/unterschiedlich gewesen
 That varies from person to person / from place to place.>Das ist von Person zu Person / von Ort zu Ort verschieden.
-'>„Was ziehst du an, wenn du ausgehst?“ „Na ja, das ist verschieden.“
+'>�?Was ziehst du an, wenn du ausgehst?“ �?Na ja, das ist verschieden.“
 checker sth.>etw. variieren,wechselvoll gestalten
 checkering>variierend,wechselvoll gestaltend
 checkered>variiert,wechselvoll gestaltet
@@ -8623,8 +8623,8 @@ angrily>verärgert,verstimmt
 react angrily>verärgert reagieren
 annoyed>verärgert,ärgerlich,verdrossen,verdrießlich,ungehalten,unmutig,be annoyed at sb.,auf jdn. ärgerlich sein,be annoyed with sth.,über etw. ärgerlich sein,be annoyed about sth.,über etw. ärgerlich sein
 visibly annoyed>sichtlich verärgert
-annoyedly>verärgert,ärgerlich,'If only you had told me earlier!'he exclaimed annoyedly/vexedly.,„Hättest du mir das früher gesagt!“, rief er verärgert/ärgerlich.
-vexedly>verärgert,ärgerlich,'If only you had told me earlier!'he exclaimed annoyedly/vexedly.,„Hättest du mir das früher gesagt!“, rief er verärgert/ärgerlich.
+annoyedly>verärgert,ärgerlich,'If only you had told me earlier!'he exclaimed annoyedly/vexedly.,�?Hättest du mir das früher gesagt!“, rief er verärgert/ärgerlich.
+vexedly>verärgert,ärgerlich,'If only you had told me earlier!'he exclaimed annoyedly/vexedly.,�?Hättest du mir das früher gesagt!“, rief er verärgert/ärgerlich.
 resentful>verärgert,feindselig,aufgebracht,voller Groll
 saleable>veräußerbar,verkäuflich,verkaufsfähig,absetzbar
 salable>veräußerbar,verkäuflich,verkaufsfähig,absetzbar
@@ -9410,7 +9410,7 @@ noise sth. about>etw. verbreiten
 expatiate>sich über etw. verbreiten,auslassen
 hold forth on sth.>sich über etw. verbreiten,auslassen
 widespread>verbreitet,häufig,gebräuchlich
-common>verbreitet,häufig,gebräuchlich,the most common operating systems,die verbreitetsten Betriebssysteme,a common transit country for drug smugglers,ein bevorzugtes Durchzugsland für Rauschgiftschmuggler,Obesity is much more common in Great Britain than most people realise.,Fettleibigkeit ist in Großbritannien viel weiter verbreitet als den meisten bewusst ist.,The term"amongst"is less common in standard speech than"among".,Der Ausdruck „inmitten“ ist in der Standardsprache weniger gebräuchlich als „mitten unter“.
+common>verbreitet,häufig,gebräuchlich,the most common operating systems,die verbreitetsten Betriebssysteme,a common transit country for drug smugglers,ein bevorzugtes Durchzugsland für Rauschgiftschmuggler,Obesity is much more common in Great Britain than most people realise.,Fettleibigkeit ist in Großbritannien viel weiter verbreitet als den meisten bewusst ist.,The term"amongst"is less common in standard speech than"among".,Der Ausdruck �?inmitten“ ist in der Standardsprache weniger gebräuchlich als �?mitten unter“.
 most common>am verbreitetsten,am gebräuchlichsten,meistgebräuchlich,the most common operating systems,die verbreitetsten Betriebssysteme
 commonest>am verbreitetsten,am gebräuchlichsten,meistgebräuchlich
 become widespread>Verbreitung finden
@@ -13048,12 +13048,12 @@ surveyed>vermessen,ausgemessen,abgesteckt
 unsurveyed>nicht vermessen
 measure incorrectly>sich vermessen,falsch messen
 overconfident>vermessen,übertrieben selbstbewusst,allzusehr vertrauend
-let>vermieten,let sth. on a lease,etw. vermieten,etw. verpachten,"To let",„Zu vermieten“
+let>vermieten,let sth. on a lease,etw. vermieten,etw. verpachten,"To let",�?Zu vermieten“
 rent>vermieten,There's an apartment for rent on the first floor.,Im Erdgeschoss ist eine Wohnung zu vermieten.,We rent out our apartment to tourists every year,Wir vermieten unsere Wohnung jedes Jahr an Touristen.
 rent out>vermieten,We rent out our apartment to tourists every year,Wir vermieten unsere Wohnung jedes Jahr an Touristen.
 letting>vermietend
 renting>vermietend
-let>vermietet,let sth. on a lease,etw. vermieten,etw. verpachten,"To let",„Zu vermieten“
+let>vermietet,let sth. on a lease,etw. vermieten,etw. verpachten,"To let",�?Zu vermieten“
 rented>vermietet
 hire out>vermieten
 let sth. (out) on hire>vermieten
@@ -13165,7 +13165,7 @@ regret the absence of sb.>jdn. vermissen
 find sb. lacking in sth.>etw. an jdm. vermissen
 connote sth.>etw. (unterschwellig) vermitteln,für etw. stehen,mitschwingen,assoziiert werden
 The name is meant to connote luxury and premium quality.>Der Name soll Luxus und Prämiumqualität vermitteln.
-The word >Im Wort „kindlich“ schwingt Unschuld mit.
+The word >Im Wort �?kindlich“ schwingt Unschuld mit.
 To me a bicycle connotes to independence and fun.>Fahrrad assoziiere ich mit Unabhängigkeit und Spaß.
 To most people, the idea of summer connotes (a sense of) slowing down and savouring the good life.>Mit dem Begriff Sommer verbindet man Entschleunigen und Das-Leben-Genießen.
 Suits and ties do not exactly connote creativity and risk-taking.>Anzug und Kravatte steht nicht unbedingt für Kreativität und Risikofreudigkeit.
@@ -14926,15 +14926,15 @@ equiping>versehend,ausstattend,ausrüstend,bestückend
 equipped>versehen,ausgestattet,ausgerüstet,bestückt
 equips>versieht,stattet aus,rüstet aus,bestückt
 equipped>versah,stattete aus,rüstete aus,bestückte
-blazon>etw. weithin sichtbar mit etw. versehen,etw. weithin sichtbar auf/an etw. anbringen,be blazoned across/on/over sth.,auf etw. prangen,etw. schmücken,baseball hats emblazoned with the team's logo,Schirmmützen mit dem Mannschaftslogo,emblazon the company car with the name of the sponsor,den Namen des Sponsors auf dem Firmenwagen anbringen,Her face is blazoned across the cover of magazine.,Ihr Gesicht prangt auf der Titelseite des Magazins.,Ihr Gesicht schmückt die Titelseite des Magazins.,He had the letters'Love wins'blazoned across his chest.,Auf seiner Brust prangte der Schriftzug „Die Liebe siegt“.
+blazon>etw. weithin sichtbar mit etw. versehen,etw. weithin sichtbar auf/an etw. anbringen,be blazoned across/on/over sth.,auf etw. prangen,etw. schmücken,baseball hats emblazoned with the team's logo,Schirmmützen mit dem Mannschaftslogo,emblazon the company car with the name of the sponsor,den Namen des Sponsors auf dem Firmenwagen anbringen,Her face is blazoned across the cover of magazine.,Ihr Gesicht prangt auf der Titelseite des Magazins.,Ihr Gesicht schmückt die Titelseite des Magazins.,He had the letters'Love wins'blazoned across his chest.,Auf seiner Brust prangte der Schriftzug �?Die Liebe siegt“.
 emblazon sth. with sth.>etw. weithin sichtbar mit etw. versehen,etw. weithin sichtbar auf/an etw. anbringen
 blazoning>weithin sichtbar versehend,weithin sichtbar anbringend
 emblazoning with>weithin sichtbar versehend,weithin sichtbar anbringend
-blazoned>weithin sichtbar versehen,weithin sichtbar angebracht,be blazoned across/on/over sth.,auf etw. prangen,etw. schmücken,baseball hats emblazoned with the team's logo,Schirmmützen mit dem Mannschaftslogo,Her face is blazoned across the cover of magazine.,Ihr Gesicht prangt auf der Titelseite des Magazins.,Ihr Gesicht schmückt die Titelseite des Magazins.,He had the letters'Love wins'blazoned across his chest.,Auf seiner Brust prangte der Schriftzug „Die Liebe siegt“.
+blazoned>weithin sichtbar versehen,weithin sichtbar angebracht,be blazoned across/on/over sth.,auf etw. prangen,etw. schmücken,baseball hats emblazoned with the team's logo,Schirmmützen mit dem Mannschaftslogo,Her face is blazoned across the cover of magazine.,Ihr Gesicht prangt auf der Titelseite des Magazins.,Ihr Gesicht schmückt die Titelseite des Magazins.,He had the letters'Love wins'blazoned across his chest.,Auf seiner Brust prangte der Schriftzug �?Die Liebe siegt“.
 emblazoned with>weithin sichtbar versehen,weithin sichtbar angebracht,baseball hats emblazoned with the team's logo,Schirmmützen mit dem Mannschaftslogo
 blazoning>weithin sichtbar versehend
 emblazoning>weithin sichtbar versehend
-blazoned>weithin sichtbar versehen,be blazoned across/on/over sth.,auf etw. prangen,etw. schmücken,baseball hats emblazoned with the team's logo,Schirmmützen mit dem Mannschaftslogo,Her face is blazoned across the cover of magazine.,Ihr Gesicht prangt auf der Titelseite des Magazins.,Ihr Gesicht schmückt die Titelseite des Magazins.,He had the letters'Love wins'blazoned across his chest.,Auf seiner Brust prangte der Schriftzug „Die Liebe siegt“.
+blazoned>weithin sichtbar versehen,be blazoned across/on/over sth.,auf etw. prangen,etw. schmücken,baseball hats emblazoned with the team's logo,Schirmmützen mit dem Mannschaftslogo,Her face is blazoned across the cover of magazine.,Ihr Gesicht prangt auf der Titelseite des Magazins.,Ihr Gesicht schmückt die Titelseite des Magazins.,He had the letters'Love wins'blazoned across his chest.,Auf seiner Brust prangte der Schriftzug �?Die Liebe siegt“.
 emblazoned>weithin sichtbar versehen,baseball hats emblazoned with the team's logo,Schirmmützen mit dem Mannschaftslogo
 be emblazoned>auf etw. prangen,etw. schmücken
 brand sth.>etw. mit seinem Zeichen versehen
@@ -15402,7 +15402,7 @@ he/she promises>er/sie verspricht
 as promised>wie versprochen,versprochenermaßen,He has promised firmly that he will come.,Er hat sein Kommen fest zugesagt.,She sent me the photos from last night, as promised.,Sie hat mir, wie versprochen, die Fotos von gestern Abend geschickt.
 accept the promise of an advantage>sich einen Vorteil versprechen lassen
 promise sb. the moon/heaven and earth/a rose garden>jdm. das Blaue vom Himmel versprechen,jdm. goldene Berge versprechen
-'>„Ich bin spätestens um Mitternacht wieder da.“ „Versprochen?“ „Ja.“
+'>�?Ich bin spätestens um Mitternacht wieder da.“ �?Versprochen?“ �?Ja.“
 make a slip>sich versprechen
 making a slip>sich versprechend
 made a slip>sich versprochen
@@ -15609,7 +15609,7 @@ underhandedly>versteckt,obskur,fragwürdig
 ulterior>versteckt,heimlich
 understood>verstehen,begreifen,I/he/she would understand,ich/er/sie verstünde,ich/er/sie begriffe,I understand that as meaning …,Darunter verstehe ich …,As I understand it,So, wie ich das verstehe …,Do you understand me?,Verstehen Sie mich?,I don't understand …,Ich verstehe nicht …,He was hard to understand.,Er war schlecht zu verstehen.,Do you understand what I mean?,Verstehen Sie, was ich meine?,I don't understand the question.,Ich verstehe die Frage nicht.,He gave us to understand that he would help us.,Er hat in Aussicht gestellt, dass er uns helfen wird.,You have to understand that I had no other choice.,Du musst verstehen, dass ich keine andere Wahl hatte.,What do you understand by'long-term consequences'?,Was verstehen Sie unter'langfristigen Folgen'?
 understanding>verstehend,begreifend
-understood>verstanden,begriffen,I/he/she understood,ich/er/sie verstand,ich/er/sie begriff,he/she has/had understood,er/sie hat/hatte verstanden,er/sie hat/hatte begriffen,I understood.,Ich habe verstanden.,It is understood that …,Es gilt als vereinbart, dass … (Vertragsklausel),Es wird davon ausgegangen, dass … (allgemein),'Adequate compensation'is understood to mean …,Unter „angemessene Abgeltung“ ist … zu verstehen,it being understood that …,wobei davon auszugehen ist, dass …
+understood>verstanden,begriffen,I/he/she understood,ich/er/sie verstand,ich/er/sie begriff,he/she has/had understood,er/sie hat/hatte verstanden,er/sie hat/hatte begriffen,I understood.,Ich habe verstanden.,It is understood that …,Es gilt als vereinbart, dass … (Vertragsklausel),Es wird davon ausgegangen, dass … (allgemein),'Adequate compensation'is understood to mean …,Unter �?angemessene Abgeltung“ ist … zu verstehen,it being understood that …,wobei davon auszugehen ist, dass …
 understands>er/sie versteht,er/sie begreift
 copy that.>Ich habe verstanden.
 I take that to mean …>Darunter verstehe ich …
@@ -18249,7 +18249,7 @@ prefix sth. with sth.>einer Sache etw. voranstellen,voransetzen
 prefix sth. onto sth.>einer Sache etw. voranstellen,voransetzen
 prefixing>voranstellend,vorsetzend
 prefixed>vorangestellt,vorgesetzt
-They were careful to prefix their statement with a >Sie achteten darauf, ihrer Aussage ein „vielleicht“ voranzustellen.
+They were careful to prefix their statement with a >Sie achteten darauf, ihrer Aussage ein �?vielleicht“ voranzustellen.
 prepend>voranstellen,vorneanstellen
 prepending>voranstellend,vorneanstellend
 prepended>vorangestellt,vorneangestellt
@@ -19750,7 +19750,7 @@ rush forward>vorstürmen
 rushing forward>vorstürmend
 rushed forward>vorgestürmt
 feign sth.>etw. vortäuschen,etw. vorspielen,etw. simulieren,so tun als
-feigning>vortäuschend,vorspielend,simulierend,so tuend als,'Who cares'said Alex, feigning indifference.,„Was soll's?“, sagte Alex mit gespielter Gleichgültigkeit.,He doesn't sound like someone who is feigning injury to me.,Er klingt nicht wie jemand, der mir eine Verletzung vorspielt.
+feigning>vortäuschend,vorspielend,simulierend,so tuend als,'Who cares'said Alex, feigning indifference.,�?Was soll's?“, sagte Alex mit gespielter Gleichgültigkeit.,He doesn't sound like someone who is feigning injury to me.,Er klingt nicht wie jemand, der mir eine Verletzung vorspielt.
 feigned>vorgetäuscht,vorgespielt,simuliert,so getan als,a feigned attack,ein Scheinangriff,He feigned an excuse to absent himself.,Er erfand eine Ausrede, um sich absentieren zu können.,The driver of the vehicle feigned the robbery or is somehow involved in the offence.,Der Fahrzeuglenker hat den Raubüberfall vorgetäuscht oder ist irgendwie an der Tat beteiligt.
 feigned distress>eine vorgetäuschte Notlage
 feign sleep>sich schlafend stellen
@@ -20187,7 +20187,7 @@ adopt sth.>etw. (als zukünftige Ausrichtung) wählen,annehmen,einnehmen
 adopting>wählend,annehmend,einnehmend
 adopted>gewählt,angenommen,eingenommen
 adopt a country/city>ein Land/eine Stadt als Wahlheimat wählen
-adopt the name of >den Namen „Williams“ annehmen
+adopt the name of >den Namen �?Williams“ annehmen
 adopt an accent/a mannerism>einen Akzent/eine Angewohnheit annehmen
 adopt a certain attitude/stance/position>eine bestimmte Haltung/einen bestimmten Standpunkt einnehmen
 adopt a different strategy>eine andere Strategie wählen/fahren
@@ -20466,7 +20466,7 @@ probably>wahrscheinlich
 prolly>wahrscheinlich
 Probably he knows, but he doesn>Wahrscheinlich weiß er es, aber er will es uns nicht sagen.
 likely>wahrscheinlich,It is/seems likely to …,Es dürfte …,Es wird wahrscheinlich …,Es sieht so aus, als würde …,the most likely cause (of sth.),die wahrscheinlichste Ursache (von etw.),The most likely outcome will be that …,Es wird wahrscheinlich so sein, dass …,That is more likely.,Das ist schon eher möglich.,If congestion is likely to happen …,Wenn mit Stau zu rechnen ist, …,Sales are likely to drop further.,Die Verkaufzahlen dürften weiter sinken.,The car is likely to break down soon.,Das Auto wird bald liegenbleiben.,It's likely that the car will break down soon.,Das Auto wird bald liegenbleiben.,It's more than likely that this problem will occur again.,Es ist mehr als wahrscheinlich, dass dieses Problem wieder auftritt.,He doesn't seem likely to get the job.,Es sieht nicht so aus, als würde er die Stelle bekommen.,It is/seems highly/very likely that it will rain tomorrow.,Die Wahrscheinlichkeit ist hoch, dass es morgen regnet.,He always looked likely to score.,Er war immer torgefährlich.,They might refuse to let us have the information, but it's hardly likely.,Sie könnten uns die Auskunft verweigern, aber das ist sehr unwahrscheinlich/nicht sehr wahrscheinlich.
-likely>wahrscheinlich,I'd very likely have done the same thing in your situation.,An deiner Stelle hätte ich höchstwahrscheinlich dasselbe getan.,As likely as not, the meeting will take place in the village pub.,Das Treffen wird ziemlich sicher in der Dorfkneipe stattfinden.,'Will she win?','Not likely.',„Wird sie gewinnen?“, „Sieht nicht so aus.“
+likely>wahrscheinlich,I'd very likely have done the same thing in your situation.,An deiner Stelle hätte ich höchstwahrscheinlich dasselbe getan.,As likely as not, the meeting will take place in the village pub.,Das Treffen wird ziemlich sicher in der Dorfkneipe stattfinden.,'Will she win?','Not likely.',�?Wird sie gewinnen?“, �?Sieht nicht so aus.“
 most likely>höchstwahrscheinlich,sehr wahrscheinlich
 very likely>höchstwahrscheinlich,sehr wahrscheinlich,I'd very likely have done the same thing in your situation.,An deiner Stelle hätte ich höchstwahrscheinlich dasselbe getan.
 belike>wahrscheinlich
@@ -20694,7 +20694,7 @@ Whatever we may lack in size, you will find we make up for in friendliness and c
 whatever>egal was,was … auch,was auch immer,whatever you do,was du auch tust
 no matter what>egal was,was … auch,was auch immer
 Whatever that is meant to mean.>Was (auch) immer das heißen soll.
-">„Was möchtest du heute unternehmen?“ „Ganz egal“
+">�?Was möchtest du heute unternehmen?“ �?Ganz egal“
 washable>waschbar,abwaschbar
 wash>waschen,he/she washes,er/sie wäscht,I/he/she washed,ich/er/sie wusch,he/she has/had washed,er/sie hat/hatte gewaschen,I/he/she would wash,ich/er/sie wüsche
 washing>waschend
@@ -20836,7 +20836,7 @@ wadded>wattiert
 wads>wattiert
 wadded>wattierte
 bow-wow>wau-wau
-'>„Wie macht das Hundilein?“ „Wau-wau!“
+'>�?Wie macht das Hundilein?“ �?Wau-wau!“
 woven>weben,wirken,he/she weaves,er/sie webt,I/he/she would weave,ich/er/sie wöbe
 weaving>webend,wirkend
 woven>gewebt,gewoben,gewirkt,he/she has/had woven,er/sie hat/hatte gewebt,er/sie hat/hatte gewoben
@@ -21066,9 +21066,9 @@ polished off>weggefuttert,weggeputzt,verputzt,verdrückt,verspachtelt,zusammenge
 tucked away>weggefuttert,weggeputzt,verputzt,verdrückt,verspachtelt,zusammengegessen
 calf>weggebrochene Eisplatte
 left>weggehen,gehen,It's time to leave.,Es ist (an der) Zeit zu gehen.,When did you leave?,Wann bist du gegangen?
-gone>weggehen,gehen,Going to go. (chat jargon),Ich muss gehen.,Muss weg. (Chat-Jargon),'Where are you going?'–'Out!',„Wo gehst du hin?“ – „Weg!“
+gone>weggehen,gehen,Going to go. (chat jargon),Ich muss gehen.,Muss weg. (Chat-Jargon),'Where are you going?'–'Out!',�?Wo gehst du hin?“ – �?Weg!“
 leaving>weggehend,gehend
-going>weggehend,gehend,'Where are you going?'–'Out!',„Wo gehst du hin?“ – „Weg!“
+going>weggehend,gehend,'Where are you going?'–'Out!',�?Wo gehst du hin?“ – �?Weg!“
 left>weggegangen,gegangen
 gone>weggegangen,gegangen
 go away>weggehen,fortgehen,sich entfernen,abziehen,weichen
@@ -21109,7 +21109,7 @@ leave out sth.>etw. weglassen,auslassen,fortlassen
 miss out sth.>etw. weglassen,auslassen,fortlassen
 leaving out>weglassend,auslassend,fortlassend
 missing out>weglassend,auslassend,fortlassend
-left out>weggelassen,ausgelassen,fortgelassen,I/he/she left out,ich/er/sie ließ weg,he/she has/had left out,er/sie hat/hatte weggelassen,He left out an'm'in'accommodation'.,Er hat bei „Akkommodation“ ein „m“ ausgelassen.
+left out>weggelassen,ausgelassen,fortgelassen,I/he/she left out,ich/er/sie ließ weg,he/she has/had left out,er/sie hat/hatte weggelassen,He left out an'm'in'accommodation'.,Er hat bei �?Akkommodation“ ein �?m“ ausgelassen.
 missed out>weggelassen,ausgelassen,fortgelassen
 he/she leaves out>er/sie lässt weg
 hold sth.>weglassen
@@ -22070,7 +22070,7 @@ continuing jumping>weiterspringend
 continued jumping>weitergesprungen
 jump to sth.>zu etw. weiterspringen
 You can use the tab key to jump to the next field.>Mit der Tab-Taste kann man zum nächsten Feld weiterspringen.
-keep looking>weitersuchen,'I still haven't found the charger.''Well, keep looking.',„Ich habe das Ladegerät immer noch nicht gefunden.“ „Dann such weiter.“
+keep looking>weitersuchen,'I still haven't found the charger.''Well, keep looking.',�?Ich habe das Ladegerät immer noch nicht gefunden.“ �?Dann such weiter.“
 look further>weitersuchen
 keeping looking>weitersuchend
 looking further>weitersuchend
@@ -22575,7 +22575,7 @@ flipping a coin>eine Münze werfend
 tossed for>eine Münze geworfen
 tossed up for>eine Münze geworfen
 flipped a coin>eine Münze geworfen
-'>„Wer holt die Brötchen vom Bäcker?“ „Werfen wir eine Münze.“
+'>�?Wer holt die Brötchen vom Bäcker?“ �?Werfen wir eine Münze.“
 litter>werfen,abferkeln,having a litter,werfend,abferkelnd,had a litter,geworfen,abferkelt,The sow is in pig and will litter soon.,Die Sau ist trächtig und wird bald abferkeln.
 have a litter>werfen,abferkeln
 littering>werfend,abferkelnd
@@ -22649,7 +22649,7 @@ material>wesentlich,erheblich,grundlegend,a material fact,eine wesentliche Tatsa
 constituents>wesentliche Bestandteile
 integrant>wesentlicher Bestandteil
 primely>wesentlichst
-which is why>weshalb,Broccoli originates from the Calabria region, which is why it is also called"calabrese".,Die Brokkoli stammen aus Kalabrien, weshalb sie auch „calabrese“ genannt werden.
+which is why>weshalb,Broccoli originates from the Calabria region, which is why it is also called"calabrese".,Die Brokkoli stammen aus Kalabrien, weshalb sie auch �?calabrese“ genannt werden.
 wherefore>weshalb,weswegen,the whys and wherefores (of sth.),das Warum und Weshalb
 whose>wessen,I don't care whose fault it is.,Mir ist egal, wessen Schuld es ist.
 Whose idea was that?>Wessen Idee war das?
@@ -23510,9 +23510,9 @@ expressed>wiedergegeben
 play back>wiedergeben
 playing back>wiedergebend
 played back>wiedergegeben
-echo>wiedergeben,wiederholen,This criticism is echoed in several other periodicals.,Diese Kritik findet sich in mehreren anderen Fachjournalen wieder.,'It's in Prague.''In Prague?'she echoed.,„Es steht in Prag.“, „In Prag?“, wiederholte sie.
+echo>wiedergeben,wiederholen,This criticism is echoed in several other periodicals.,Diese Kritik findet sich in mehreren anderen Fachjournalen wieder.,'It's in Prague.''In Prague?'she echoed.,�?Es steht in Prag.“, �?In Prag?“, wiederholte sie.
 echoing>wiedergebend,wiederholend
-echoed>wiedergegeben,wiederholt,This criticism is echoed in several other periodicals.,Diese Kritik findet sich in mehreren anderen Fachjournalen wieder.,'It's in Prague.''In Prague?'she echoed.,„Es steht in Prag.“, „In Prag?“, wiederholte sie.
+echoed>wiedergegeben,wiederholt,This criticism is echoed in several other periodicals.,Diese Kritik findet sich in mehreren anderen Fachjournalen wieder.,'It's in Prague.''In Prague?'she echoed.,�?Es steht in Prag.“, �?In Prag?“, wiederholte sie.
 be echoed>sich wiederfinden
 reproduce sth.>etw. (mit einem anderen Medium / in einem anderen Kontext) wiedergeben,reproduzieren,reproduce sth. verbatim,etw. wörtlich wiedergeben
 reproducing>wiedergebend,reproduzierend
@@ -24332,11 +24332,11 @@ prone/susceptible to weather damage>witterungsanfällig
 caused by the weather>witterungsbedingt
 weather stain>witterungsbedingtes Ausbleichen
 regardless of weather conditions>witterungsunabhängig,wetterunabhängig
-quip>witzeln,scherzen,"Giving up smoking is easy,"he quipped."I've done it hundreds of times.",„Mit dem Rauchen aufzuhören, ist nicht schwer“, witzelte er. „Das habe ich schon hundertmal gemacht.“
+quip>witzeln,scherzen,"Giving up smoking is easy,"he quipped."I've done it hundreds of times.",�?Mit dem Rauchen aufzuhören, ist nicht schwer“, witzelte er. �?Das habe ich schon hundertmal gemacht.“
 quipping>witzelnd,scherzend
-quipped>gewitzelt,gescherzt,"Giving up smoking is easy,"he quipped."I've done it hundreds of times.",„Mit dem Rauchen aufzuhören, ist nicht schwer“, witzelte er. „Das habe ich schon hundertmal gemacht.“
+quipped>gewitzelt,gescherzt,"Giving up smoking is easy,"he quipped."I've done it hundreds of times.",�?Mit dem Rauchen aufzuhören, ist nicht schwer“, witzelte er. �?Das habe ich schon hundertmal gemacht.“
 quips>witzelt,scherzt
-quipped>witzelte,scherzte,"Giving up smoking is easy,"he quipped."I've done it hundreds of times.",„Mit dem Rauchen aufzuhören, ist nicht schwer“, witzelte er. „Das habe ich schon hundertmal gemacht.“
+quipped>witzelte,scherzte,"Giving up smoking is easy,"he quipped."I've done it hundreds of times.",�?Mit dem Rauchen aufzuhören, ist nicht schwer“, witzelte er. �?Das habe ich schon hundertmal gemacht.“
 gag>witzeln,Gags machen,Späße machen
 gagging>witzelnd,Gags machend,Späße machend
 gagged>gewitzelt,Gags gemacht,Späße gemacht
@@ -24379,7 +24379,7 @@ which reminds me that …>wobei mir gerade einfällt, dass …
 with 20% of those asked stating that …>wobei 20% der Befragten angaben, dass …
 with all costs to be borne by the applicant>wobei sämtliche Kosten vom Antragsteller zu tragen sind
 with 13 July being the deadline for new registrations>wobei der 13. Juli der letzte Termin für Neuanmeldungen ist
-It can be found spelt >Man findet die Schreibung „Yeldon“ und „Yelden“, wobei letztere von den Bewohnern selbst favorisiert wird.
+It can be found spelt >Man findet die Schreibung �?Yeldon“ und �?Yelden“, wobei letztere von den Bewohnern selbst favorisiert wird.
 but>wobei,wobei aber,wobei allerdings,but I'll leave out the unimportant parts,wobei ich das Unwichtige weglasse
 yet>wobei,wobei aber,wobei allerdings,yet we must not lose sight of the fact that …,wobei zu bedenken ist, dass …
 although>wobei,wobei aber,wobei allerdings,although this is not easy to do, I admit,wobei ich zugeben muss, dass das nicht leicht ist,although I am at the moment unable to give you any information as to whether …,wobei ich Ihnen aber im Augenblick nicht sagen kann, ob …,The State assumes the tasks of environmental protection, although it does not free its citizens from responsibility.,Der Staat übernimmt die Aufgaben des Umweltschutzes, wobei er seine Bürger aber nicht aus der Verantwortung entlässt.
@@ -24460,7 +24460,7 @@ easily>sehr wohl,He could easily have come.,Er hätte sehr wohl mitkommen könne
 I am well aware that this is not the ideal solution.>Ich weiß sehr wohl/gut, dass diese Lösung nicht ideal ist.
 hardly>wohl kaum,kaum,She's hardly likely / rather unlikely to have the time.,Sie wird (wohl) kaum Zeit haben.,You're hardly likely / unlikely to find a better price.,Du wirst kaum einen besseren Preis finden.,It is unlikely to cost / I will hardly cost more than 50 euros.,Es wird wohl kaum mehr als 50 Euro kosten.,I need hardly tell you how this has disappointed me.,Ich brauche dir wohl kaum zu sagen, wie sehr mich das enttäuscht hat.,Without his determination, these reforms could hardly have been achieved so quickly.,Ohne seine Entschlossenheit wären diese Reformen wohl kaum so schnell zustande gekommen.
 hardly likely>wohl kaum,kaum,She's hardly likely / rather unlikely to have the time.,Sie wird (wohl) kaum Zeit haben.,You're hardly likely / unlikely to find a better price.,Du wirst kaum einen besseren Preis finden.
-unlikely>wohl kaum,kaum,She's hardly likely / rather unlikely to have the time.,Sie wird (wohl) kaum Zeit haben.,You're hardly likely / unlikely to find a better price.,Du wirst kaum einen besseren Preis finden.,It is unlikely to cost / I will hardly cost more than 50 euros.,Es wird wohl kaum mehr als 50 Euro kosten.,'Do you think he'll win?'–'Hardly! / (That's) quite unlikely! / I don't suppose so!',„Glaubst du, wird er gewinnen?“ – „Wohl kaum!“
+unlikely>wohl kaum,kaum,She's hardly likely / rather unlikely to have the time.,Sie wird (wohl) kaum Zeit haben.,You're hardly likely / unlikely to find a better price.,Du wirst kaum einen besseren Preis finden.,It is unlikely to cost / I will hardly cost more than 50 euros.,Es wird wohl kaum mehr als 50 Euro kosten.,'Do you think he'll win?'–'Hardly! / (That's) quite unlikely! / I don't suppose so!',�?Glaubst du, wird er gewinnen?“ – �?Wohl kaum!“
 hardly>wohl kaum,nicht gut, schlecht,schwerlich,This is hardly the (right) time.,Das ist wohl kaum der richtige Zeitpunkt.,This is hardly a sign of successful political action.,Das ist wohl kaum ein Zeichen für erfolgreiches politisches Agieren.,I can hardly ask him to do something that would incriminate himself.,Ich kann ihn nicht gut bitten, / Ich kann ihn schlecht bitten, etwas zu tun, was ihn selbst belasten würde.
 Otherwise she wouldn>Sonst hätte sie wohl kaum gefragt.
 come now>wohlan
@@ -24536,7 +24536,7 @@ charitably>wohltätig
 beneficently>wohltätig
 at a pleasant temperature>wohltemperiert
 well-tempered>wohltemperiert
-'>„Das wohltemperierte Klavier“
+'>�?Das wohltemperierte Klavier“
 agreeable>wohltuend
 soothing>wohltuend
 beneficial>wohltuend
@@ -24585,7 +24585,7 @@ we want>wir wollen
 you want>ihr wollt
 they want>sie wollen
 wanna>wollen
-will>wollen,mögen,'Will you have another cup of coffee?''Yes, I will, thank you.',„Möchten Sie noch einen Kaffee?“ „Ja, gern. / Gerne. / Ja, bitte.“
+will>wollen,mögen,'Will you have another cup of coffee?''Yes, I will, thank you.',�?Möchten Sie noch einen Kaffee?“ �?Ja, gern. / Gerne. / Ja, bitte.“
 We>Wir nehmen das Mittagsmenü.
 I would have gone for the second answer.>Ich hätte die zweite Antwortmöglichkeit genommen.
 have designs on her/him>etw. von ihr/ihm wollen
@@ -24663,7 +24663,7 @@ talk volubly>redselig sein
 which/what>worunter
 which/what>worunter
 What are you suffering from?>Worunter leidest du?
-The Muslims recognise the >Den Muslimen stehen die „Leute des Buches“ gegenüber, worunter der Koran vor allem Juden und Christen versteht.
+The Muslims recognise the >Den Muslimen stehen die �?Leute des Buches“ gegenüber, worunter der Koran vor allem Juden und Christen versteht.
 about what>worüber,worum
 what … about?>worüber,worum
 What>Worum handelt es sich?,Wovon handelt es?
@@ -24903,7 +24903,7 @@ huffed>wurde wütend
 furiously>wütend,voller Wut
 rabidly>wütend
 glare>wütender Blick,stechender Blick,give sb. a glare,jdn. wütend anblicken
-woof>wuff,go'woof',„wuff“ machen,einmal kurz bellen,give a short'woof',„wuff“ machen,einmal kurz bellen
+woof>wuff,go'woof',�?wuff“ machen,einmal kurz bellen,give a short'woof',�?wuff“ machen,einmal kurz bellen
 raw>wund,entzündet,touch sb. on the raw,bei jdm. einen wunden Punkt berühren
 sore>wund,entzündet
 be sore>wund sein
@@ -26544,9 +26544,9 @@ whizzed>zischte
 swoosh>zischen,sausen,The ball swooshed past my head.,Der Ball sauste an meinem Kopf vorbei.
 swooshing>sausend
 swooshed>gesaust,The ball swooshed past my head.,Der Ball sauste an meinem Kopf vorbei.
-hiss>zischen,'Get back!'she hissed.,„Komm zurück!“, zischte sie.
+hiss>zischen,'Get back!'she hissed.,�?Komm zurück!“, zischte sie.
 hissing>zischend
-hissed>gezischt,'Get back!'she hissed.,„Komm zurück!“, zischte sie.
+hissed>gezischt,'Get back!'she hissed.,�?Komm zurück!“, zischte sie.
 fizzy>zischend,sprudelnd
 sibilantly>zischend
 chisel>ziselieren
@@ -26555,7 +26555,7 @@ chiselled>ziseliert
 quotable>zitierbar,zitierfähig,a highly quotable author,ein gern zitierter Autor
 citable>zitierbar,zitierfähig
 quotable texts>zitierfähige Texte
-Quotable: >Zitat: „…“
+Quotable: >Zitat: �?…“
 cite sb./sth.>jdn./etw. zitieren,etw. (als Grund/Quelle/Beispiel) anführen,cite sb./sth. as an example,jdn./etw. als Beispiel anführen
 citing>zitierend,anführend
 cited>zitiert,angeführt,I/he/she cited,ich/er/sie zitierte,he/she has/had cited,er/sie hat/hatte zitiert
@@ -29738,7 +29738,7 @@ We can chalk that win up to a lot of luck.>Diesen Sieg haben wir einer gehörige
 fill up>zuschütten
 filling up>zuschüttend
 filled up>zugeschüttet
-watch>zusehen,zuschauen,zugucken,'I can't watch her flirt with others.''Then don't look.',„Ich kann nicht zusehen, wie sie mit anderen flirtet.“ „Dann schau nicht hin.“
+watch>zusehen,zuschauen,zugucken,'I can't watch her flirt with others.''Then don't look.',�?Ich kann nicht zusehen, wie sie mit anderen flirtet.“ �?Dann schau nicht hin.“
 watching>zusehend,zuschauend,zuguckend
 watched>zugesehen,zugeschaut,zugeguckt
 watches>sieht zu,schaut zu,guckt zu
@@ -33828,8 +33828,8 @@ Wash hands before making breaks and after using it.>Vor Arbeitspausen und nach d
 Wash face and hands with soap and water immediately after handling.>Nach der Arbeit sofort Gesicht und Hände mit Seife waschen.
 To clean the floor and all objects contaminated by this material use a mild detergent.>Fußboden und verunreinigte Gegenstände mit einem milden Reinigungsmittel reinigen.
 Use the means provided to clean the floor and all objects contaminated by this material.>Fußboden und verschmutzte Gegenstände mit den vorgesehenen Mitteln reinigen.
-Just as in the earlier >Wie bereits in der „Konservativen Revolution“ hatten die „68er“ ihren Anfang und Kern in den ganz wesentlichen Fragen nach der kritischen Selbstsicht des Menschen, nach dem ideellen Gehalt seines Tuns und dessen metaphysische Bindung an Gott.
-">„Stolz“ ist gar kein Ausdruck!
+Just as in the earlier >Wie bereits in der �?Konservativen Revolution“ hatten die �?68er“ ihren Anfang und Kern in den ganz wesentlichen Fragen nach der kritischen Selbstsicht des Menschen, nach dem ideellen Gehalt seines Tuns und dessen metaphysische Bindung an Gott.
+">�?Stolz“ ist gar kein Ausdruck!
 AF>Afghanistan
 AL>Albanien
 DZ>Algerien
@@ -34701,7 +34701,7 @@ Hooghly>Hugli
 Humboldt current>Humboldtstrom,Perustrom
 Peru current>Humboldtstrom,Perustrom
 Iguazu>Iguazu
-Île-de-France>Île-de-France
+�?le-de-France>�?le-de-France
 Ili>Ili
 Lake Iliamna>Iliamna-See
 Iliamna Lake>Iliamna-See
@@ -36454,7 +36454,7 @@ San José>San José
 Barquisimeto>Barquisimeto
 Bilbao>Bilbao
 Dublin>Dublin
-Baile Átha Cliath>Dublin
+Baile �?tha Cliath>Dublin
 Jamshedpur>Jamshedpur
 Lille>Lille
 Richmond>Richmond
@@ -38355,4 +38355,5 @@ CAD technology>CAD-Technologie
 CAN bus component>CAN-Bus-Komponente
 CAQ>computergestützte Qualitätssicherung
 CBN grinding wheel>CBN-Schleifscheibe
-CD duplication system>CD-Kopiersystem
+CD duplication system>CD-Kopiersystem
+car>auto
