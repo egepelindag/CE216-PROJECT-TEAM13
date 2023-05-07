@@ -813,7 +813,9 @@ public class Controller implements Initializable {
             case "ENGLISH --> GERMAN":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.engDeuFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword+">" + dict.engDeuFindWord(enteredword));
                 }
                 break;
@@ -821,6 +823,8 @@ public class Controller implements Initializable {
             case "GERMAN --> ENGLISH":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
+                }else if (dict.deuEngFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
                 }else {
                     editSecTextArea.setText(enteredword + ">" + dict.deuEngFindWord(enteredword));
                 }
@@ -829,7 +833,9 @@ public class Controller implements Initializable {
             case "ENGLISH --> TURKISH":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.engTurFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword + ">" + dict.engTurFindWord(enteredword));
                 }
                 break;
@@ -837,7 +843,9 @@ public class Controller implements Initializable {
             case "TURKISH --> ENGLISH":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.turEngFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword + ">" + dict.turEngFindWord(enteredword));
                 }
                 break;
@@ -845,7 +853,9 @@ public class Controller implements Initializable {
             case "ENGLISH --> ITALIAN":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.engItaFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword + ">" + dict.engItaFindWord(enteredword));
                 }
                 break;
@@ -853,6 +863,8 @@ public class Controller implements Initializable {
             case "ITALIAN --> ENGLISH":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
+                }else if (dict.itaEngFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
                 }else {
                     editSecTextArea.setText(enteredword + ">" + dict.itaEngFindWord(enteredword));
                 }
@@ -861,7 +873,9 @@ public class Controller implements Initializable {
             case "ENGLISH --> FRENCH":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.engFreFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword + ">" + dict.engFreFindWord(enteredword));
                 }
                 break;
@@ -869,7 +883,9 @@ public class Controller implements Initializable {
             case "FRENCH --> ENGLISH":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.freEngFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword + ">" + dict.freEngFindWord(enteredword));
                 }
                 break;
@@ -877,7 +893,9 @@ public class Controller implements Initializable {
             case "ENGLISH --> SWEDISH":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.engSweFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword + ">" + dict.engSweFindWord(enteredword));
                 }
                 break;
@@ -885,7 +903,9 @@ public class Controller implements Initializable {
             case "SWEDISH --> ENGLISH":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.sweEngFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword + ">" + dict.sweEngFindWord(enteredword));
                 }
                 break;
@@ -893,7 +913,9 @@ public class Controller implements Initializable {
             case "ENGLISH --> GREEK":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.engGreFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword + ">" + dict.engGreFindWord(enteredword));
                 }
                 break;
@@ -901,7 +923,9 @@ public class Controller implements Initializable {
             case "GREEK --> ENGLISH":
                 if (enteredword==""){
                     editSecTextArea.setText("ENTER A WORD!");
-                }else {
+                }else if (dict.greEngFindWord(enteredword)==null) {
+                    editSecTextArea.setText("WORD NOT FOUND!");
+                }else{
                     editSecTextArea.setText(enteredword + ">" + dict.greEngFindWord(enteredword));
                 }
                 break;
@@ -911,7 +935,6 @@ public class Controller implements Initializable {
                 break;
         }
     }
-
 
     @FXML
     private void translate(ActionEvent event) throws Exception {
