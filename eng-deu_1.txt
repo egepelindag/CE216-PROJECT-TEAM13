@@ -2529,12 +2529,12 @@ leakage current>Ableitstrom
 leakance current>Ableitstrom
 derivation>Ableitung,Herleitung
 derivations>Ableitungen,Herleitungen
-derivative>Ableitung,derivative of function f,Ableitung der Funktion f,f',„f Strich“,time derivative of a function,Zeitableitung einer Funktion
+derivative>Ableitung,derivative of function f,Ableitung der Funktion f,f',�?f Strich“,time derivative of a function,Zeitableitung einer Funktion
 derivatives>Ableitungen
 total derivative>totale Ableitung
 partial derivative>partielle Ableitung
-f>Ableitung der Funktion f,f',„f Strich“
-">Ableitung der Funktion f,f',„f Strich“
+f>Ableitung der Funktion f,f',�?f Strich“
+">Ableitung der Funktion f,f',�?f Strich“
 extrapolation>Ableitung,Folgerung,vermuteter Schluss
 dissipation>Ableitung,Abführung
 derive>Ableitung
@@ -5843,9 +5843,9 @@ Oh yes!>Ach ja!,Ah ja!
 Oh right!>Ach ja!,Ah ja!
 Now, where are my shades? Oh yes – I left them in the car.>Wo ist denn meine Sonnenbrille? Ach ja, ich hab sie im Auto gelassen.
 Where was I? Oh right, I was telling you about Martin and his Website.>Wo war ich stehengeblieben? Ah ja, bei Martin und seiner Homepage.
-Remember, you wanted to phone the plumber. >„Du wolltest doch den Installateur anrufen.“ „ Ach ja!“ / „Ja, richtig!“
-'>„Morgen ist Vatertag.“ „Ah ja, stimmt!“
-Oh yes?>Ach ja?,Ah ja?,'It should be easy to find out.''Oh yes? How?',„Das müsste leicht zu eruieren sein.“ „Ah ja? Wie denn?“
+Remember, you wanted to phone the plumber. >�?Du wolltest doch den Installateur anrufen.“ �? Ach ja!“ / �?Ja, richtig!“
+'>�?Morgen ist Vatertag.“ �?Ah ja, stimmt!“
+Oh yes?>Ach ja?,Ah ja?,'It should be easy to find out.''Oh yes? How?',�?Das müsste leicht zu eruieren sein.“ �?Ah ja? Wie denn?“
 Get out!>Ach komm!,Ach komm, jetzt aber (wirklich)!,Ach hör doch auf!
 Get out of here!>Ach komm!,Ach komm, jetzt aber (wirklich)!,Ach hör doch auf!
 Get out of town!>Ach komm!,Ach komm, jetzt aber (wirklich)!,Ach hör doch auf!
@@ -7662,7 +7662,7 @@ Neotropical silversides>Neuweltliche Ährenfische
 gaudinia oat-grasses>Ährenhafer
 garland of corn>Ährenkranz
 garlands of corn>Ährenkränze
-AIDS>AIDS,AIDS-associated opportunistic infections, co-infections, and malignancies,opportunistische Infektionen,Doppelinfektionen und bösartige Wucherungen als Begleiterscheinung von AIDS,AIDS means"Acquired Immune Deficiency Syndrome".,AIDS bedeutet „erworbenes Immundefektsyndrom“.
+AIDS>AIDS,AIDS-associated opportunistic infections, co-infections, and malignancies,opportunistische Infektionen,Doppelinfektionen und bösartige Wucherungen als Begleiterscheinung von AIDS,AIDS means"Acquired Immune Deficiency Syndrome".,AIDS bedeutet �?erworbenes Immundefektsyndrom“.
 PWA>AIDS-Kranker,AIDS-Patient
 AIDS patient>AIDS-Kranker,AIDS-Patient
 people with AIDS>AIDS-Kranke,AIDS-Patienten
@@ -11099,8 +11099,8 @@ send in>ein Angebot über/für etw. legen,machen,unterbreiten,etw. anbieten
 award the contract to sb.>den Auftrag an jdn. vergeben,jdm. (bei einer öffentlichen Ausschreibung) den Zuschlag erteilen
 quote>Angebot,Preisangebot
 quotes>Angebote,Preisangebote
-twofer>Angebot „zwei zum Preis von einem“,Doppelangebot
-on sale>im Angebot,The potato crisps/chips were on sale at two packs for the price of one.,Die Kartoffelchips waren im Angebot „zwei zum Preis von einen“.
+twofer>Angebot �?zwei zum Preis von einem“,Doppelangebot
+on sale>im Angebot,The potato crisps/chips were on sale at two packs for the price of one.,Die Kartoffelchips waren im Angebot �?zwei zum Preis von einen“.
 tender>ein Angebot machen,ein Angebot einreichen,etw. anbieten,andienen,tender for sth.,sich an einer Ausschreibung für etw. beteiligen
 tendering>ein Angebot machend,ein Angebot einreichend,anbietend,andienend
 tendered>ein Angebot gemacht,ein Angebot eingereicht,angeboten,angedient
@@ -11182,7 +11182,7 @@ defendants>Angeklagten,Angeklagte
 primary accused>Hauptangeklagter,Erstangeklagter
 second defendant>Zweitangeklagter
 second accused>Zweitangeklagter
-">„Angeklagter!“
+">�?Angeklagter!“
 John Doe>anonymer Angeklagter oder anonymes Opfer
 Jane Doe>anonyme Angeklagte oder anonymes Opfer
 fishing rod>Angel
@@ -12839,7 +12839,7 @@ debris flow source area>Anrisszone einer Schlammlawine,Murenanriss,Murganganriss
 debris source>Anrisszone einer Schlammlawine,Murenanriss,Murganganriss
 mudslide sources>Anrisszonen einer Schlammlawine,Murenanrisse,Murganganrisse
 debris sources>Anrisszonen einer Schlammlawine,Murenanrisse,Murganganrisse
-challenge>Anruf,„Wer da“-Ruf,Anhaltung und Aufforderung zur Ausweisleistung
+challenge>Anruf,�?Wer da“-Ruf,Anhaltung und Aufforderung zur Ausweisleistung
 attention request>Anrufanforderung
 automatic answering>automatische Anrufbeantwortung
 auto answer>automatische Anrufbeantwortung
@@ -14628,7 +14628,7 @@ written reply>Antwortschreiben
 written replies>Antwortschreiben
 answer scale>Antwortskala,on a 1 to 5 answer scale,auf einer Antwortskala von 1 bis 5,auf einer fünfstufigen Antwortskala,on a five-grade answer scale,auf einer Antwortskala von 1 bis 5,auf einer fünfstufigen Antwortskala
 choice of answers>Antwortspektrum,Spektrum der Antwortmöglichkeiten,Antwortmöglichkeiten,the choice of answers provided,das vorgegebene Antwortspektrum,die vorgegebenen Antwortmöglichkeiten
-The choice of answer ranges from >Die Antwortskala reicht von „äußerst wahrscheinlich“ bis „äußerst unwahrscheinlich“ auf einer 4-teiligen Likert-Skala.
+The choice of answer ranges from >Die Antwortskala reicht von �?äußerst wahrscheinlich“ bis �?äußerst unwahrscheinlich“ auf einer 4-teiligen Likert-Skala.
 response tendency>Antworttendenz
 response tendencies>Antworttendenzen
 response time>Antwortzeit
@@ -14957,7 +14957,6 @@ blazing of trees>Anzeichnen,Markieren,Anlaschen von Bäumen
 medical sign>äußeres Anzeichen,klinisches Anzeichen,äußeres Symptom
 clinical sign>äußeres Anzeichen,klinisches Anzeichen,äußeres Symptom
 advt.>Anzeige,Annonce,Inserat,answer an advertisement,sich auf eine Anzeige (hin) melden
-ad>Anzeige,Annonce,Inserat,place an ad,eine Anzeige schalten,eine Anzeige aufgeben,advertise for sb./sth.,jdn./etw. per/durch Inserat suchen,answer an advertisement,sich auf eine Anzeige (hin) melden
 advert>Anzeige,Annonce,Inserat,advertise for sb./sth.,jdn./etw. per/durch Inserat suchen,answer an advertisement,sich auf eine Anzeige (hin) melden
 advertisements>Anzeigen,Annoncen,Inserate
 ads>Anzeigen,Annoncen,Inserate
@@ -14981,7 +14980,7 @@ advice of work in progress>Anzeige von Gleisarbeiten,Betriebs- und Bauanweisung,
 COLP>Anzeige der Rufnummer des erreichten Teilnehmers
 connected line identification>Anzeige der Rufnummer des erreichten Teilnehmers
 connected line ID>Anzeige der Rufnummer des erreichten Teilnehmers
-">Anzeige „Gleisbelegung“
+">Anzeige �?Gleisbelegung“
 nominal range>Anzeigebereich
 indicating range>Anzeigebereich
 written confirmation of the criminal complaint filed>Anzeigebestätigung
@@ -19864,7 +19863,7 @@ letterings>Aufschriften
 writings>Aufschriften
 inscriptions>Aufschriften
 legends>Aufschriften
-a sign marked >ein Schild mit der Aufschrift „BBC“
+a sign marked >ein Schild mit der Aufschrift �?BBC“
 snap-back forming>Aufschrumpfen,vacuum snap-back forming,Aufschrumpfen im Vakuum
 creep shrinking>Aufschrumpfprozess
 adjournment>Aufschub
@@ -24570,7 +24569,6 @@ AAI>Authentifizierungs- und Autorisierungs-Infrastruktur
 authentication function>Authentisierungsfunktion
 historical authenticity>historische Authentiziät,Historizität
 historicity>historische Authentiziät,Historizität
-car>Auto,Automobil,Wagen,one year-old car,Jahreswagen,self-driving car,selbstfahrendes Auto,Roboterauto,self-driven car,selbstfahrendes Auto,Roboterauto,a car with a capital C,ein richtiges Auto,go by car,mit dem Auto fahren,mit dem Wagen fahren,travel by car,mit dem Auto fahren,mit dem Wagen fahren,I'm going by car.,Ich fahre mit dem Auto.
 automobile>Auto,Automobil,Wagen
 cars>Autos,Automobile,Wagen,Wägen
 automobiles>Autos,Automobile,Wagen,Wägen
@@ -29673,7 +29671,7 @@ prominence>Bedeutung
 significance>Bedeutung,Tragweite,Wichtigkeit,Wertigkeit,everything of significance,alles Wichtige,alles Große,of great significance,von besonderer Bedeutung,of religious significance,von religiöser Bedeutung
 significances>Bedeutungen
 special significance>besondere Bedeutung,besonderer Stellenwert,Sonderrolle
-meaning>Bedeutung,Sinn,Aussage,the literal or figurative meaning of a phrase,die konkrete oder übertragene Bedeutung einer Phrase,the numerous meanings/acceptations of the term,die zahlreichen Bedeutungen des Begriffs,in the common/ordinary/normal meaning/sense/acceptation of the/that word/concept,im üblichen Sinn,no trust in the ordinary meaning/sense/acceptation of that term,kein Treuhandverhältnis im üblichen Sinn,'marketing'in the proper meaning of the word,„Marketing“ im eigentlichen Sinne
+meaning>Bedeutung,Sinn,Aussage,the literal or figurative meaning of a phrase,die konkrete oder übertragene Bedeutung einer Phrase,the numerous meanings/acceptations of the term,die zahlreichen Bedeutungen des Begriffs,in the common/ordinary/normal meaning/sense/acceptation of the/that word/concept,im üblichen Sinn,no trust in the ordinary meaning/sense/acceptation of that term,kein Treuhandverhältnis im üblichen Sinn,'marketing'in the proper meaning of the word,�?Marketing“ im eigentlichen Sinne
 sense>Bedeutung,Sinn,Aussage,in the full sense of the word,im wahrsten Sinn des Wortes,unique in every sense of the word,in jeder Hinsicht einzigartig,in the usual sense of the term/word/phrase,im herkömmlichen Sinn,in the common/ordinary/normal meaning/sense/acceptation of the/that word/concept,im üblichen Sinn,no trust in the ordinary meaning/sense/acceptation of that term,kein Treuhandverhältnis im üblichen Sinn,probability in its mathematical sense/acceptation,Wahrscheinlichkeit im mathematischen Sinn
 signification>Bedeutung,Sinn,Aussage
 acceptation>Bedeutung,Sinn,Aussage,the numerous meanings/acceptations of the term,die zahlreichen Bedeutungen des Begriffs,in the common/ordinary/normal meaning/sense/acceptation of the/that word/concept,im üblichen Sinn,no trust in the ordinary meaning/sense/acceptation of that term,kein Treuhandverhältnis im üblichen Sinn,probability in its mathematical sense/acceptation,Wahrscheinlichkeit im mathematischen Sinn
@@ -33078,7 +33076,7 @@ draw up>einen Bericht abfassen/erstellen
 make out>einen Bericht abfassen/erstellen
 write out>einen Bericht abfassen/erstellen
 full report>ausführlicher Bericht
-instant report>„Wichtige Ereignisse“-Meldung,WE-Meldung
+instant report>�?Wichtige Ereignisse“-Meldung,WE-Meldung
 dispatch>Bericht,Meldung,Depesche,Telegramm
 despatch>Bericht,Meldung,Depesche,Telegramm
 dispatches>Berichte,Meldungen,Depeschen,Telegramme
@@ -33332,7 +33330,7 @@ career consular officer>Berufskonsul
 occupational disease>Berufskrankheit,Berufserkrankung
 occupational diseases>Berufskrankheiten,Berufserkrankungen
 career path>Berufslaufbahn,Laufbahn,Berufsbild,Beruf
-career>Berufslaufbahn,Laufbahn,Berufsbild,Beruf,career as an artist,künstlerische Laufbahn,Künstlerlaufbahn,groom sb. for a career,jdn. auf eine Laufbahn vorbereiten,the career of police detective,das Berufsbild „Kriminalbeamter“,turn one's hobby into a career,sein Hobby zum Beruf machen
+career>Berufslaufbahn,Laufbahn,Berufsbild,Beruf,career as an artist,künstlerische Laufbahn,Künstlerlaufbahn,groom sb. for a career,jdn. auf eine Laufbahn vorbereiten,the career of police detective,das Berufsbild �?Kriminalbeamter“,turn one's hobby into a career,sein Hobby zum Beruf machen
 career structure>berufliche Laufbahn
 artistic career>künstlerische Laufbahn,Künstlerlaufbahn
 career decision>Entscheidung für eine Laufbahn
@@ -34099,8 +34097,8 @@ engaged signal>Besetztsignal
 busy signal>Besetztsignal
 engaged signals>Besetztsignale
 busy signals>Besetztsignale
-engaged tone>Besetztton,Besetztzeichen,„Gassen besetzt“-Ton
-busy tone>Besetztton,Besetztzeichen,„Gassen besetzt“-Ton
+engaged tone>Besetztton,Besetztzeichen,�?Gassen besetzt“-Ton
+busy tone>Besetztton,Besetztzeichen,�?Gassen besetzt“-Ton
 busy tones>Besetzttöne,Besetztzeichen
 engaged tones>Besetzttöne,Besetztzeichen
 '>Besetztzeichen
@@ -35231,7 +35229,7 @@ concrete tower>Betonturm
 concrete towers>Betontürme
 stress>Betonung,Akzent,The stress is on the first syllable.,Die Betonung liegt auf der ersten Silbe.,Das Wort wird auf der ersten Silbe betont.
 emphasis>Betonung,Akzent,lay/put emphasis on a word,ein Wort betonen,put the emphasis on the middle syllable,die mittlere Silbe betonen,The emphasis in this word is on the final syllable.,Dieses Wort wird auf der letzten Silbe betont.
-accent>Betonung,Akzent,The word'before'has the accent on the last syllable.,Das Wort „bevor“ hat den Akzent auf der letzten Silbe.
+accent>Betonung,Akzent,The word'before'has the accent on the last syllable.,Das Wort �?bevor“ hat den Akzent auf der letzten Silbe.
 primary stress>Hauptbetonung,Hauptton
 secondary stress>Nebenbetonung,Nebenton
 Stress falls on the first syllable of the word.>Die Betonung liegt auf der ersten Silbe.,Das Wort wird auf der ersten Silbe betont.
@@ -35541,8 +35539,8 @@ net operating earnings>Betriebsertrag,betriebliche Erträge,Betriebsergebnis
 net operating result>Betriebsertrag,betriebliche Erträge,Betriebsergebnis
 out-of-service run>Betriebsfahrt,Dienstfahrt,Leerfahrt
 dead run>Betriebsfahrt,Dienstfahrt,Leerfahrt
-">„Betriebsfahrt“,„Dienstfahrt“
-">„Betriebsfahrt“,„Dienstfahrt“
+">�?Betriebsfahrt“,�?Dienstfahrt“
+">�?Betriebsfahrt“,�?Dienstfahrt“
 serviceability>Betriebsfähigkeit,Gebrauchsfähigkeit,Funktionstüchtigkeit
 serviceableness>Betriebsfähigkeit,Gebrauchsfähigkeit,Funktionstüchtigkeit
 check that sth. works>die Funktionstüchtigkeit von etw. prüfen
@@ -36024,7 +36022,7 @@ deflexion strength>Beulfestigkeit
 safety against local buckling>Beulsicherheit
 safety against bulging>Beulsicherheit,required safety against bulging,erforderliche Beulsicherheit,existing safety against bulging,vorhandene Beulsicherheit
 local buckling stress>Beulspannung
-alarm>Beunruhigung,Unruhe,Besorgnis,be in a state of alarm / perturbation,beunruhigt sein,besorgt sein,cause a good deal of alarm / perturbation,einige Unruhe auslösen,view the project with alarm,das Vorhaben mit Besorgnis/Sorge sehen,'What have you done?'Ellie cried in alarm.,„Was hast du getan?“, schrie Elli voller Schrecken.,There is no cause for alarm.,Es gibt keinen Grund zur Beunruhigung.,She felt a growing sense of alarm when he did not return.,Sie wurde zunehmend unruhig, als er nicht zurückkam.,I didn't tell you because I didn't want to cause you any alarm.,Ich hab es dir nicht gesagt, denn ich wollte dich nicht beunruhigen.,The neighbouring residents reacted with alarm to news of a proposed new road.,Bei den Anwohnern schrillten die Alarmglocken, als sie von dem geplanten Straßenneubau erfuhren.,News of a proposed new road set alarm bells ringing for the neighbouring residents.,Bei den Anwohnern schrillten die Alarmglocken, als sie von dem geplanten Straßenneubau erfuhren.
+alarm>Beunruhigung,Unruhe,Besorgnis,be in a state of alarm / perturbation,beunruhigt sein,besorgt sein,cause a good deal of alarm / perturbation,einige Unruhe auslösen,view the project with alarm,das Vorhaben mit Besorgnis/Sorge sehen,'What have you done?'Ellie cried in alarm.,�?Was hast du getan?“, schrie Elli voller Schrecken.,There is no cause for alarm.,Es gibt keinen Grund zur Beunruhigung.,She felt a growing sense of alarm when he did not return.,Sie wurde zunehmend unruhig, als er nicht zurückkam.,I didn't tell you because I didn't want to cause you any alarm.,Ich hab es dir nicht gesagt, denn ich wollte dich nicht beunruhigen.,The neighbouring residents reacted with alarm to news of a proposed new road.,Bei den Anwohnern schrillten die Alarmglocken, als sie von dem geplanten Straßenneubau erfuhren.,News of a proposed new road set alarm bells ringing for the neighbouring residents.,Bei den Anwohnern schrillten die Alarmglocken, als sie von dem geplanten Straßenneubau erfuhren.
 perturbation>Beunruhigung,Unruhe,Besorgnis,be in a state of alarm / perturbation,beunruhigt sein,besorgt sein,cause a good deal of alarm / perturbation,einige Unruhe auslösen
 exeat>Beurlaubung
 suspension>Beurlaubung,Suspendierung
@@ -37172,7 +37170,7 @@ half of beer>kleines Bier,Seidel Bier,Seitel Bier,Seiterl Bier,Stange Bier
 a pint of beer>großes Bier,Halben Bier,Halbe Bier,Krügel Bier,Krügerl Bier
 be sb.>jds. Bier sein
 If they want to play that game, it>Wenn sie dieses Spiel spielen wollen, ist das nicht mein Bier.
-'>„Darüber gibt's keine Diskussion.“ „Dann eben nicht – Ausbaden musst du dann die Sache.“
+'>�?Darüber gibt's keine Diskussion.“ �?Dann eben nicht – Ausbaden musst du dann die Sache.“
 Do it if you like. It>Tu's, wenn du willst. Ausbaden musst du es dann selbst.
 deep bass voice>Bierbass
 beer belly>Bierbauch,Schmerbauch,Embonpoint,Mollenfriedhof,Backhendlfriedhof/Hendlfriedhof,Güggelifriedhof
@@ -40120,7 +40118,7 @@ Horseshit!>Blödsinn!,Schwachsinn!,Bockmist!
 My foot! My eye!>Von wegen!,So ein Blödsinn!,So ein Quatsch!,So ein Schmarren!
 That>Von wegen!,So ein Blödsinn!,So ein Quatsch!,So ein Schmarren!
 All my eye! That>Von wegen!,So ein Blödsinn!,So ein Quatsch!,So ein Schmarren!
-'>„Tom kann nicht kommen, weil er müde ist.“ – „Von wegen müde! Faul ist er!“
+'>�?Tom kann nicht kommen, weil er müde ist.“ – �?Von wegen müde! Faul ist er!“
 inanity>Blödsinnigkeit,Schwachsinn,Stuss
 exposure>Bloßstellung,Enttarnung,Enthüllung,Aufdeckung,exposure of a plot,Aufdeckung einer Verschwörung,exposure of his criminal past,Enthüllung seiner kriminellen Vergangenheit,They threatened me with public exposure.,Sie drohten, mich öffentlich bloßzustellen.
 bleat>Blöken,Meckern
@@ -41026,7 +41024,7 @@ soil fertility>Bodenfruchtbarkeit,natural soil fertility,natürliche Bodenfrucht
 archaeological find>Bodenfund
 bottom plating>Bodengang
 tilth>Bodengare
-figure>typisch sein,zu erwarten gewesen sein,ins Bild passen,zu jdm. passen,'It rained the whole day.''Oh, that figures.',„Es hat den ganzen Tag geregnet.“ „Das war ja zu erwarten. / Das war ja klar.“,He eats mostly junk food. Well, it figures.,Er isst meistens Schnellgerichte. Na ja, das passt zu ihm.
+figure>typisch sein,zu erwarten gewesen sein,ins Bild passen,zu jdm. passen,'It rained the whole day.''Oh, that figures.',�?Es hat den ganzen Tag geregnet.“ �?Das war ja zu erwarten. / Das war ja klar.“,He eats mostly junk food. Well, it figures.,Er isst meistens Schnellgerichte. Na ja, das passt zu ihm.
 petrichor>typischer Bodengeruch bei Regen nach längerer Trockenheit
 soil association>Bodengesellschaft
 soil associations>Bodengesellschaften
@@ -43481,9 +43479,9 @@ brake system warning light>Bremsanlagenwarnlicht
 method of breaking>Bremsart
 methods of breaking>Bremsarten
 brake operating conditions>Bremsart
-">Bremsartstellung „Ebene/Gefälle“
-'>Bremsartstellung „Güterzug-Personenzug“
-">Bremsartstellung „leer/beladen“
+">Bremsartstellung �?Ebene/Gefälle“
+'>Bremsartstellung �?Güterzug-Personenzug“
+">Bremsartstellung �?leer/beladen“
 brake changeover>Bremsartwechsel
 brake assistant>Bremsassistent
 braking assistant>Bremsassistent
@@ -48107,7 +48105,7 @@ female choir>Frauenchor
 youth choir>Jugendchor
 male choir>Männerchor,Mannschor
 opera choir>Opernchor
-chorus>Chor,the Hallelujah chorus from Haendel's'Messias',der Hallelujah-Chor aus Händels „Messias“,say sth. in chorus,etw. im Chor sagen,The men's chorus comes in before the women's chorus.,Der Männerchor setzt vor dem Frauenchor ein.
+chorus>Chor,the Hallelujah chorus from Haendel's'Messias',der Hallelujah-Chor aus Händels �?Messias“,say sth. in chorus,etw. im Chor sagen,The men's chorus comes in before the women's chorus.,Der Männerchor setzt vor dem Frauenchor ein.
 final chorus>Schlusschor
 Symphonic Suite for Chorus and Orchestra>Sinfonische Suite für (Konzert)chor und Orchester
 set of reeds>Chor
@@ -52245,10 +52243,10 @@ decimal fractions>Dezimalbrüche
 repeating decimal>periodischer Dezimalbruch
 terminating decimal>endlicher Dezimalbruch
 recurring decimal>unendlicher, periodischer Dezimalbruch
-0.42>0,42,„null Komma vier zwei“
-">0,42,„null Komma vier zwei“
-">0,42,„null Komma vier zwei“
-">0,42,„null Komma vier zwei“
+0.42>0,42,�?null Komma vier zwei“
+">0,42,�?null Komma vier zwei“
+">0,42,�?null Komma vier zwei“
+">0,42,�?null Komma vier zwei“
 decimal code>Dezimalcode,bi-quinary decimal code,biquinärer Dezimalcode
 decimal notation>Dezimaldarstellung
 decimals>Dezimalen
@@ -54155,16 +54153,16 @@ DNA typing>DNS-Typisierung,Erstellen eines DNS-Profils,Erstellung eines genetisc
 DNA profiling>DNS-Typisierung,Erstellen eines DNS-Profils,Erstellung eines genetischen Fingerabdrucks
 genetic fingerprinting>DNS-Typisierung,Erstellen eines DNS-Profils,Erstellung eines genetischen Fingerabdrucks
 additional profiling>Auftypisierung,Nachtypisierung
-Oh yes!>Doch!,Oh doch!,'You don't want to sing.''Oh yes!'/'Yes, I do.',„Du willst ja nicht singen.“ „Doch“,'It's there, can't you see it?''Oh yes!'/'Yes, I can see it!'/ Of course, I can see it!',„Dort drüben, siehst du's nicht?“ „Doch, ich seh's!“
-Yes, of course!>Doch!,Oh doch!,'Don't you agree?','Yes, of course!'/'Yes, absolutely!',„Bist du nicht einverstanden?“, „Doch, vollkommen!“
+Oh yes!>Doch!,Oh doch!,'You don't want to sing.''Oh yes!'/'Yes, I do.',�?Du willst ja nicht singen.“ �?Doch“,'It's there, can't you see it?''Oh yes!'/'Yes, I can see it!'/ Of course, I can see it!',�?Dort drüben, siehst du's nicht?“ �?Doch, ich seh's!“
+Yes, of course!>Doch!,Oh doch!,'Don't you agree?','Yes, of course!'/'Yes, absolutely!',�?Bist du nicht einverstanden?“, �?Doch, vollkommen!“
 Yes, I am/was! Yes, you are/were!>Doch!,Oh doch!
 Yes, he/she/it is/was! Yes, we are/were!>Doch!,Oh doch!
 Yes, they are/were!>Doch!,Oh doch!
 Oh yes, this does interest me.>Doch, das interessiert mich schon.
-'>„So hat sie das sicher nicht gemeint.“, „Doch!“ / „Doch, das hat sie!“
+'>�?So hat sie das sicher nicht gemeint.“, �?Doch!“ / �?Doch, das hat sie!“
 I>Ich hatte noch nie einen Vollrausch – doch, einmal (hatte ich einen)!
-Okay, all right!>Doch, doch!,'Don't you feel like it anymore?','Okay, all right!',„Hast du keine Lust mehr (dazu)?“, „Doch, doch!“
-'>„Ist er damit nicht zufrieden?“, „Doch, doch!“
+Okay, all right!>Doch, doch!,'Don't you feel like it anymore?','Okay, all right!',�?Hast du keine Lust mehr (dazu)?“, �?Doch, doch!“
+'>�?Ist er damit nicht zufrieden?“, �?Doch, doch!“
 wick>Docht
 wicks>Dochte
 Dobermann pinscher>Dobermann-Pinscher,Dobermann
@@ -54890,7 +54888,7 @@ global village>globales Dorf
 ecovillage>Ökodorf
 ecological village>Ökodorf
 Potemkin village>Potemkinsches Dorf
-Elvira >Dorette „Oma“ Duck
+Elvira >Dorette �?Oma“ Duck
 villager>Dorfbewohner,fellow-villager,Mitbewohner im Dorf,Mitbürger im Dorf
 villagers>Dorfbewohner
 doner kebab>Döner Kebab
@@ -56063,7 +56061,7 @@ three-way conference>Dreierkonferenz
 triple pack>Dreierpackung,Dreierset
 triple packs>Dreierpackungen,Dreiersets
 strip of three>Dreierstreifen
-trifecta>Dreierwette,„Drei auf einen Streich“,Hattrick
+trifecta>Dreierwette,�?Drei auf einen Streich“,Hattrick
 triskele>Dreierwirbel,Triskel,Triskele
 triskelion>Dreierwirbel,Triskel,Triskele
 exess-three code>Dreiexzesscode,Stibitzcode
@@ -56335,7 +56333,7 @@ third-world countries>Drittweltländer
 third-party motion to vacat>Drittwiderspruchsklage
 horizontal effect>Drittwirkung
 perfect a provision>die Drittwirkung einer Bestimmung herbeiführen
-">Die „Herbeiführung der Drittwirkung“ bedeutet, einer Bestimmung auch in jenen Fällen Wirksamkeit zu verleihen, wo nur Privatpersonen betroffen sind.
+">Die �?Herbeiführung der Drittwirkung“ bedeutet, einer Bestimmung auch in jenen Fällen Wirksamkeit zu verleihen, wo nur Privatpersonen betroffen sind.
 drug sb.>jdn. unter Drogen setzen
 drugging sb.>jdn. unter Drogen setzend
 drugged sb.>jdn. unter Drogen gesetzt
@@ -56578,7 +56576,7 @@ pressure vessels>Druckbehälter,Kessel
 compressive load>Druckbelastung
 pressure load>Druckbelastung
 compressed concrete>Druckbeton
-mouseover>Drüberfahren mit der Maus,On mouseover, the message'Click to activate'appears.,Beim Drüberfahren mit der Maus erscheint die Meldung „Zur Aktivierung klicken“.
+mouseover>Drüberfahren mit der Maus,On mouseover, the message'Click to activate'appears.,Beim Drüberfahren mit der Maus erscheint die Meldung �?Zur Aktivierung klicken“.
 spinning lathe>Drückbank,Drückmaschine,Glattwalzmaschine
 chasing lathe>Drückbank,Drückmaschine,Glattwalzmaschine
 burnishing lathe>Drückbank,Drückmaschine,Glattwalzmaschine
@@ -60277,7 +60275,7 @@ Such a layout suggests competence.>So ein Layout suggeriert/vermittelt Kompetenz
 The choice of colours almost suggests El Greco.>Die Farbgebung erinnert fast an El Greco.
 The stage was bare, with only the lighting to suggest a prison.>Die Bühne war leer, nur die Beleuchtung erzeugte die Vorstellung eines Gefängnisses.
 Meats suggests to me something cooked and sliced.>Bei Fleisch denke ich an etwas Gekochtes und Aufgeschnittenes.
-The word >Das Wort „Wald“ hat für mich etwas Unheimliches, wie aus einem Grimm-Märchen.
+The word >Das Wort �?Wald“ hat für mich etwas Unheimliches, wie aus einem Grimm-Märchen.
 printing block>Eindruckform,Druckform
 printing blocks>Eindruckformen,Druckformen
 wallpaper block>Tapetendruckform
@@ -63529,7 +63527,6 @@ railway coach>Eisenbahnwaggon,Bahnwaggon,Zugswaggon,Waggon,Eisenbahnwagen,Wagen
 coach>Eisenbahnwaggon,Bahnwaggon,Zugswaggon,Waggon,Eisenbahnwagen,Wagen,side-door coach,Abteilwaggon mit Seitentüren,Abteilwagen mit Seitentüren,centre-door coach,Mitteleinstiegwagen,low-loader carriage low-loader coach,Tiefladewaggon,Tiefladewagen,Niederplattformwagen,Niederflurwaggon,Niederflurwagen,residential staff coach (service train),Wohn- und Schlafwagen (Bauzug)
 railroad car>Eisenbahnwaggon,Bahnwaggon,Zugswaggon,Waggon,Eisenbahnwagen,Wagen
 railcar>Eisenbahnwaggon,Bahnwaggon,Zugswaggon,Waggon,Eisenbahnwagen,Wagen,detach wagons / railcars,Waggons absetzen / ausstellen,pick up wagons / railcars,Waggons aufnehmen
-car>Eisenbahnwaggon,Bahnwaggon,Zugswaggon,Waggon,Eisenbahnwagen,Wagen,side-door car,Abteilwaggon mit Seitentüren,Abteilwagen mit Seitentüren,center-door car,Mitteleinstiegwagen,low-loader carriage low-loader coach,Tiefladewaggon,Tiefladewagen,Niederplattformwagen,Niederflurwaggon,Niederflurwagen,low-floor carriage,Tiefladewaggon,Tiefladewagen,Niederplattformwagen,Niederflurwaggon,Niederflurwagen,low-loading car,Tiefladewaggon,Tiefladewagen,Niederplattformwagen,Niederflurwaggon,Niederflurwagen,detach wagons / railcars,Waggons absetzen / ausstellen,pick up wagons / railcars,Waggons aufnehmen
 railway carriages>Eisenbahnwaggons,Bahnwaggons,Zugswaggons,Waggons,Eisenbahnwagen,Wagen
 carriages>Eisenbahnwaggons,Bahnwaggons,Zugswaggons,Waggons,Eisenbahnwagen,Wagen
 railway coaches>Eisenbahnwaggons,Bahnwaggons,Zugswaggons,Waggons,Eisenbahnwagen,Wagen
@@ -64902,7 +64899,7 @@ be on the rocks>am Ende sein
 My relationship is on the rocks.>Meine Beziehung ist am Ende.
 crack up>mit den Nerven am Ende / fertig sein,am Ende seiner Kräfte sein
 seed free time>Ende der Blankschmelze
-splitsville>Ende einer Partnerschaft,move to splitsville,auseinandergehen,sich trennen,getrennte Wege gehen,She caught her boyfriend in bed with another girl and it was splitsville for them.,Sie erwischte ihren Freund mit einem anderen Mädchen im Bett und das war das Ende ihrer Beziehung.,Fred Astaire and Ginger Rogers went splitsville after the film"Shall We Dance".,Nach dem Film „Tanz mit mir“ gingen Fred Astaire und Ginger Rogers getrennte Wege.
+splitsville>Ende einer Partnerschaft,move to splitsville,auseinandergehen,sich trennen,getrennte Wege gehen,She caught her boyfriend in bed with another girl and it was splitsville for them.,Sie erwischte ihren Freund mit einem anderen Mädchen im Bett und das war das Ende ihrer Beziehung.,Fred Astaire and Ginger Rogers went splitsville after the film"Shall We Dance".,Nach dem Film �?Tanz mit mir“ gingen Fred Astaire und Ginger Rogers getrennte Wege.
 go splitsville>auseinandergehen,sich trennen,getrennte Wege gehen
 Splitsville is just around the corner.>Die Trennung steht unmittelbar bevor.
 be dead in the water>am Ende sein,keine Chance haben,an einem toten Punkt sein
@@ -65419,7 +65416,7 @@ enclaves>Enklaven
 encomium>Enkomion
 enolisation>Enolisierung
 study commission>Enquete-Kommission
-Study Commission on the Internet and Digital Society>Enquete-Kommission „Internet und digitale Gesellschaft“
+Study Commission on the Internet and Digital Society>Enquete-Kommission �?Internet und digitale Gesellschaft“
 ensemble group>Ensemble,Formation
 ensemble>Ensemble,Formation
 formation>Ensemble,Formation
@@ -65555,8 +65552,8 @@ bottleheads>Entenwale
 steepheads>Entenwale
 flatheads>Entenwale
 disinheritance>Enterbung
-duckling>Entenküken,Entchen,Entlein,"All my little ducklings"(nursery rhyme),„Alle meine Entchen“ (Kinderlied)
-ducklings>Entenküken,Entchen,Entlein,"All my little ducklings"(nursery rhyme),„Alle meine Entchen“ (Kinderlied)
+duckling>Entenküken,Entchen,Entlein,"All my little ducklings"(nursery rhyme),�?Alle meine Entchen“ (Kinderlied)
+ducklings>Entenküken,Entchen,Entlein,"All my little ducklings"(nursery rhyme),�?Alle meine Entchen“ (Kinderlied)
 ugly duckling>hässliches Entlein
 duck liver pâté>Entenleberpastete
 pâté of duck liver>Entenleberpastete
@@ -66268,8 +66265,8 @@ decisions>Entscheide
 decidability>Entscheidbarkeit
 adjudicator>behördlicher Entscheider
 asylum adjudicator>Asylentscheider
-decision>Entscheidung,split-second decision,Augenblicksentscheidung,decision on a matter of conscience,Gewissensentscheidung,a business decision,eine geschäftliche / geschäftspolitische Entscheidung,make a decision,eine Entscheidung treffen,take a decision,eine Entscheidung treffen,adhere to your decision,bei seiner Entscheidung bleiben,made a conscious decision to do sth.,sich bewusst dafür entscheiden, etw. zu tun,The final decision is yours.,Die endgültige Entscheidung triffst du.,His decision is final.,Seine Entscheidung ist endgültig.,Do you ever wonder if you made the right decision?,Hast du dich je gefragt, ob du die richtige Entscheidung getroffen hast?,Everything hangs on your decision.,Es hängt alles von Ihrer Entscheidung ab.,'Decisions, decisions. I can't decide which to get.',„Die Qual der Wahl. Ich kann mich nicht entscheiden, welches ich nehmen soll.“
-decisions>Entscheidungen,'Decisions, decisions. I can't decide which to get.',„Die Qual der Wahl. Ich kann mich nicht entscheiden, welches ich nehmen soll.“
+decision>Entscheidung,split-second decision,Augenblicksentscheidung,decision on a matter of conscience,Gewissensentscheidung,a business decision,eine geschäftliche / geschäftspolitische Entscheidung,make a decision,eine Entscheidung treffen,take a decision,eine Entscheidung treffen,adhere to your decision,bei seiner Entscheidung bleiben,made a conscious decision to do sth.,sich bewusst dafür entscheiden, etw. zu tun,The final decision is yours.,Die endgültige Entscheidung triffst du.,His decision is final.,Seine Entscheidung ist endgültig.,Do you ever wonder if you made the right decision?,Hast du dich je gefragt, ob du die richtige Entscheidung getroffen hast?,Everything hangs on your decision.,Es hängt alles von Ihrer Entscheidung ab.,'Decisions, decisions. I can't decide which to get.',�?Die Qual der Wahl. Ich kann mich nicht entscheiden, welches ich nehmen soll.“
+decisions>Entscheidungen,'Decisions, decisions. I can't decide which to get.',�?Die Qual der Wahl. Ich kann mich nicht entscheiden, welches ich nehmen soll.“
 individual decision>Einzelentscheidung
 decision>Entscheidung,Beschluss,Anordnung,decision of the court,gerichtlicher Beschluss,Gerichtsbeschluss,gerichtliche Entscheidung,Entscheidung des Gerichts,decision appealed from,angefochtene Entscheidung,decision complained of,angefochtene Entscheidung,decision set aside,(von der Berufungsinstanz) aufgehobene Entscheidung,non-substantive decision,eine nicht in der Sache selbst ergehende Entscheidung,set aside a decision,einen Beschluss (als Berufungsinstanz) aufheben,reverse a decision,einen Beschluss (als Berufungsinstanz) aufheben,make a decision,einen Beschluss fällen,eine Anordnung treffen,eine Entscheidung fällen
 ruling>Entscheidung,Beschluss,Anordnung,no case ruling,Freispruchurteil ohne Anklageerwiderung,'No case to answer'ruling (in criminal law),Freispruchurteil ohne Anklageerwiderung,give/make a ruling,einen Beschluss fällen,eine Anordnung treffen,eine Entscheidung fällen,In this matter a ruling has already been issued.,In dieser Sache ist bereits ein Beschluss ergangen.
@@ -66423,7 +66420,7 @@ Sorry, I didn>Verzeihung, ich habe nicht recht verstanden.
 Sorry, Mac!>Bedaure, mein Freund!
 Sorry, but I disagree.>Es tut mit leid, aber da bin ich anderer Meinung.
 I forgot to pick up the dry cleaning. Sorry about that.>Ich hab vergessen, die Sachen von der Reinigung zu holen. Tut mir leid.
-Any football nut – sorry, >Jeder Fußballnarr – Entschuldigung: „Fan“ – weiß, was ich meine.
+Any football nut – sorry, >Jeder Fußballnarr – Entschuldigung: �?Fan“ – weiß, was ich meine.
 letter of apology>Entschuldigungsschreiben
 letters of apology>Entschuldigungsschreiben
 desulfurization>Entschwefelung
@@ -72140,7 +72137,6 @@ sale of tickets>Fahrkartenverkauf
 comfort>Fahrkomfort
 passenger comfort>Fahrkomfort
 drive comfort>Fahrkomfort,Schwingungskomfort
-car>Fahrkorb
 cars>Fahrkörbe
 travelling/traveling expenses>Fahrkosten,Fahrtkosten,Fahrtspesen,Reisekosten,Reisespesen
 travel expenses>Fahrkosten,Fahrtkosten,Fahrtspesen,Reisekosten,Reisespesen
@@ -76717,4 +76713,4 @@ spring festival>Frühlingsfest
 jamboree>großes öffentliches Fest,Festveranstaltung,Riesenfest,open-air jamboree,Freiluftfest
 World Scout Jamboree>Weltpfadfindertreffen
 feast>Fest,Schmaus,a feast of colors,ein Fest der Farben,a feast of goals,ein Fest der Tore,a feast for cinephiles,ein Fest für Cineasten,a feast for the palate,ein Gaumenschmaus,a feast for the eyes,ein Augenschmaus,eine Augenweide,a visual feast,ein Augenschmaus,eine Augenweide,provide a veritable feast of sights and sounds,ein wahres Fest für Augen und Ohren bieten
-festival of breaking of the fast>Fest des Fastenbrechens
+festival of breaking of the fast>Fest des Fastenbrechens

@@ -11,11 +11,11 @@
 <?import javafx.scene.layout.VBox?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane fx:id="root2" prefHeight="200.0" prefWidth="600.0" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.offlinedictionary.Controller">
+<AnchorPane fx:id="root2" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="500.0" prefWidth="700.0" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.offlinedictionary.Controller">
    <children>
       <VBox prefHeight="500.0" prefWidth="700.0">
          <children>
-            <TextArea editable="false" prefHeight="350.0" prefWidth="600.0" text="-This dictionary contains 7 languages : English, German, French, Italian, Turkish,Swedish&#10;and Modern Greek.&#10;&#10;-This is a prototype of the program , it is still being developed.&#10;&#10;-Edit button is not active. Our team is working on it.&#10;&#10;-New features will be on the next Milestone. &#10;">
+            <TextArea editable="false" prefHeight="350.0" prefWidth="600.0" text="-This dictionary contains 7 languages : English, German, French, Italian, Turkish,&#10;Swedish and Modern Greek.&#10;&#10;-The user can search a word in 7 languages.&#10;&#10;-The user can add, delete and edit the word in the &quot;SETTINGS&quot; section.&#10;&#10;-There are &quot;INFO&quot; buttons that show  user to use the program in the all sections. &#10;The user can get information about using the program by clicking  &quot;INFO&quot; buttons.">
                <VBox.margin>
                   <Insets left="20.0" right="20.0" top="20.0" />
                </VBox.margin>

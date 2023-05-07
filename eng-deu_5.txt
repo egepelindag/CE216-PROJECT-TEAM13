@@ -87,13 +87,13 @@ been provided>bekommen,erhalten,empfangen,gekriegt
 I receive>ich bekomme,ich erhalte,ich empfange,ich kriege
 I get>ich bekomme,ich erhalte,ich empfange,ich kriege
 you receive>du bekommst,du erhältst,du empfängst,du kriegst
-you get>du bekommst,du erhältst,du empfängst,du kriegst,'Did you get/receive the parcel?'–'No, I didn't.',„Hast du das Paket (je) bekommen?“, „Nein, habe ich nicht.“
+you get>du bekommst,du erhältst,du empfängst,du kriegst,'Did you get/receive the parcel?'–'No, I didn't.',�?Hast du das Paket (je) bekommen?“, �?Nein, habe ich nicht.“
 he/she receives>er/sie bekommt,er/sie erhält
 he/she gets>er/sie bekommt,er/sie erhält
 I/he/she got>ich/er/sie bekam,ich/er/sie erhielt
 he/she has/had got/gotten>er/sie hat/hatte bekommen,er/sie hat/hatte erhalten
 recently received>kürzlich erhalten
-'>„Hast du das Paket schon bekommen?“, „Nein, noch nicht.“
+'>�?Hast du das Paket schon bekommen?“, �?Nein, noch nicht.“
 I hope he gets/receives his just deserts.>Ich hoffe, er bekommt, was er verdient.,Er wird hoffentlich seinen gerechten Lohn erhalten.
 receive a pay increase>mehr Gehalt bekommen
 digestible>bekömmlich,verdaulich
@@ -2378,11 +2378,11 @@ especial>besondere,beosnderer,besonderes,spezielle,spezieller,spezielles
 especial difficulties>spezielle Probleme
 particular>besondere,besonderer,besonderes
 particular characteristics>besondere Kennzeichen
-particularly>besonders,sonderlich,This is not particularly impressive.,Das ist nicht sonderlich beeindruckend.,I'm not particularly/that well.,Mir geht es nicht sonderlich gut.,He is too indecisive to be particularly successful.,Er ist zu unentschlossen, um sonderlich erfolgreich zu sein.,'Do you like sushi?'–'Not particularly!',„Magst du Sushi?“ – „Nicht sonderlich!“
+particularly>besonders,sonderlich,This is not particularly impressive.,Das ist nicht sonderlich beeindruckend.,I'm not particularly/that well.,Mir geht es nicht sonderlich gut.,He is too indecisive to be particularly successful.,Er ist zu unentschlossen, um sonderlich erfolgreich zu sein.,'Do you like sushi?'–'Not particularly!',�?Magst du Sushi?“ – �?Nicht sonderlich!“
 especially>besonders,sonderlich,Her chances are not especially good/not all that good.,Sie hat keine sonderlich guten Chancen.,It didn't especially/really surprise me.,Das hat mich nicht sonderlich überrascht.
 not particularly>nicht sonderlich,nicht besonders,This is not particularly impressive.,Das ist nicht sonderlich beeindruckend.,I'm not particularly/that well.,Mir geht es nicht sonderlich gut.
 I wasn>Das hat mich nicht sonderlich überrascht.
-'>„Wie geht's ihr?“ – „Nicht besonders!“
+'>�?Wie geht's ihr?“ – �?Nicht besonders!“
 severally>besonders
 specially>besonders
 prudent>besonnen,klug,vernünftig,einsichtig
@@ -3864,7 +3864,7 @@ He let him/her/us/them off with a warning.>Er ließ es bei einer Verwarnung bewe
 Let>Lassen wir es dabei bewenden!,Wir wollen es dabei bewenden lassen!
 … and that was the end of that.>… und damit hatte es sein Bewenden.
 Everyone should realise that this won>Es sollte jedem klar sein, dass es dabei nicht sein Bewenden hat.
-advertise>bewerben,Werbung machen,advertise a drink as containing'real fruit juice',ein Getränk als „echten Fruchtsaft“ bewerben
+advertise>bewerben,Werbung machen,advertise a drink as containing'real fruit juice',ein Getränk als �?echten Fruchtsaft“ bewerben
 promote>bewerben,Werbung machen,On its website, the company promotes environmentally friendly investments.,Auf ihrer Homepage bewirbt die Firma umweltfreundliche Geldanlagen.,The actress is in Cape Town to promote her new book.,Die Schauspielerin ist in Kapstadt, um für ihr neues Buch Werbung zu machen.
 spruik>bewerben,Werbung machen
 advertising>bewerbend,Werbung machend
@@ -4137,7 +4137,7 @@ denoting>bezeichnend
 denoted>bezeichnet
 denotes>bezeichnet
 denoted>bezeichnete
-describe>bezeichnen,In English,"sharp"is the term used to describe someone who is very intelligent.,„Sharp“ ist die englische Bezeichnung für jemanden, der sehr intelligent ist.
+describe>bezeichnen,In English,"sharp"is the term used to describe someone who is very intelligent.,�?Sharp“ ist die englische Bezeichnung für jemanden, der sehr intelligent ist.
 describing>bezeichnend
 described>bezeichnet
 describes>bezeichnet
@@ -4148,15 +4148,15 @@ The university hospital now refers to patients by name, not case number.>Die Uni
 designate sb./sth.>jdn./etw. mit etw. bezeichnen
 designating>bezeichnend
 designated>bezeichnet
-I>Ich werde den ersten Teil mit „Alpha“ bezeichnen.
-The word >Nach und nach bezeichnete das Wort „bonus“ die finanzielle Zuwendung selbst.
+I>Ich werde den ersten Teil mit �?Alpha“ bezeichnen.
+The word >Nach und nach bezeichnete das Wort �?bonus“ die finanzielle Zuwendung selbst.
 distinctively>bezeichnend
 revealingly>bezeichnenderweise,was (wohl) bezeichnend ist,perhaps more revealingly,und was vielleicht noch aufschlussreicher ist
 significantly>bezeichnenderweise,was (wohl) bezeichnend ist,There was, perhaps significantly/tellingly, no mention of the problems with drinking water.,Die Trinkwasserprobleme blieben unerwähnt, was wohl bezeichnend ist.,But, perhaps more significantly, it was the first time I had ever travelled on my own.,Aber was vielleicht noch wichtiger war, ich war zum ersten Mal alleine auf Reisen.
 tellingly>bezeichnenderweise,was (wohl) bezeichnend ist,There was, perhaps significantly/tellingly, no mention of the problems with drinking water.,Die Trinkwasserprobleme blieben unerwähnt, was wohl bezeichnend ist.
 Significantly, she has refused to give a straight answer to this question.>Bezeichnenderweise hat sie sich um eine klare Antwort auf diese Frage gedrückt.
 refer to sb./sth. as sth.>jdn./etw. als etw. bezeichnen,jdn./etw. etw. nennen
-'>„Bezahlung nach Klicks“ wird auch als „Abrechnung nach Klicks“ bezeichnet.
+'>�?Bezahlung nach Klicks“ wird auch als �?Abrechnung nach Klicks“ bezeichnet.
 He likes to be referred to as >Er hört es gern, wenn man ihn'Herr Doktor'nennt.
 testify>bezeugen,testify the death,den Tod feststellen (Arzt)
 testifying>bezeugend
@@ -4749,7 +4749,7 @@ bistable>bistabil
 sometimes>bisweilen
 bit-oriented>bitorientiert
 bit-parallel>bitparallel
-please>bitte,wenn Sie so nett sind/wären,'Would you like another piece?''Yes, please.',„Möchten Sie noch ein Stück?“ „Ja, bitte.“,Can we have one, too? Please, pretty please!,Können wir auch eines haben? Bitte, bitte!,Please, pretty please. Just stay off the car.,Aber bitte, bitte, bleibt vom Auto weg.,Follow me, if you please.,Wenn Sie mir bitte folgen wollen.,He wants me to translate 20 pages in two day, if you please!,Er möchte, dass ich 20 Seiten in zwei Tagen übersetze, also bitte!,One moment, please!,Einen Augenblick bitte!,Einen Moment bitte!,Just a moment, please!,Einen Augenblick bitte!,Einen Moment bitte!,Come again, please.,Nochmal bitte!,Wie bitte?
+please>bitte,wenn Sie so nett sind/wären,'Would you like another piece?''Yes, please.',�?Möchten Sie noch ein Stück?“ �?Ja, bitte.“,Can we have one, too? Please, pretty please!,Können wir auch eines haben? Bitte, bitte!,Please, pretty please. Just stay off the car.,Aber bitte, bitte, bleibt vom Auto weg.,Follow me, if you please.,Wenn Sie mir bitte folgen wollen.,He wants me to translate 20 pages in two day, if you please!,Er möchte, dass ich 20 Seiten in zwei Tagen übersetze, also bitte!,One moment, please!,Einen Augenblick bitte!,Einen Moment bitte!,Just a moment, please!,Einen Augenblick bitte!,Einen Moment bitte!,Come again, please.,Nochmal bitte!,Wie bitte?
 if you please>bitte,wenn Sie so nett sind/wären,Follow me, if you please.,Wenn Sie mir bitte folgen wollen.,He wants me to translate 20 pages in two day, if you please!,Er möchte, dass ich 20 Seiten in zwei Tagen übersetze, also bitte!
 if you would be so good>bitte,wenn Sie so nett sind/wären
 if you wouldn>bitte,wenn Sie so nett sind/wären
@@ -6436,8 +6436,8 @@ hang tough>dabeibleiben,dranbleiben,durchhalten,sich gut/wacker halten
 The film starts off slow, but hanging in there pays off.>Der Film zieht sich anfangs, aber es lohnt sich, dabeizubleiben/dranzubleiben.
 The town council has held tough on limiting expenditure.>Der Stadtrat ist bei seinem Sparkurs geblieben.
 Canada held tough against the Australian team and went into halftime at 0-0.>Kanada hat sich gegen die australische Mannschaft gut gehalten und ist mit 0:0 in die Halbzeit gegangen.
-'>„Bleib dran!“,„Halte durch!“,„Gibt nicht auf!“
-Don>„Bleib dran!“,„Halte durch!“,„Gibt nicht auf!“
+'>�?Bleib dran!“,�?Halte durch!“,�?Gibt nicht auf!“
+Don>�?Bleib dran!“,�?Halte durch!“,�?Gibt nicht auf!“
 be there>dabei sein,etw. beiwohnen
 be present>dabei sein,etw. beiwohnen
 being there>dabei seiend,beiwohnend
@@ -8552,7 +8552,7 @@ exalted>dithyrambisch,exaltiert,begeistert
 impassioned>dithyrambisch,exaltiert,begeistert
 dto.>dito,detto
 Mallorca is too overrun by tourists for my liking. Ditto Ibiza.>Mallorca ist mir zu überlaufen. Ibiza dito/detto.
-'>„Ich mag keinen Spinat.“ „Geht mir genauso.“
+'>�?Ich mag keinen Spinat.“ �?Geht mir genauso.“
 divalent>divalent
 divergent>divergent
 diverge>divergieren,abweichen
@@ -8670,11 +8670,11 @@ thundered>gedonnert
 thunders>donnert
 thundered>donnerte
 thunder>donnern
-boom>donnern,'Silence,'boomed the class teacher.,„Ruhe“, donnerte der Klassenlehrer.
+boom>donnern,'Silence,'boomed the class teacher.,�?Ruhe“, donnerte der Klassenlehrer.
 thundering>donnernd
 booming>donnernd
 thundered>gedonnert
-boomed>gedonnert,'Silence,'boomed the class teacher.,„Ruhe“, donnerte der Klassenlehrer.
+boomed>gedonnert,'Silence,'boomed the class teacher.,�?Ruhe“, donnerte der Klassenlehrer.
 nerdy>doof
 on Thursdays>donnerstags,jeden Donnerstag
 each Thursday>donnerstags,jeden Donnerstag
@@ -10942,7 +10942,7 @@ likewise>ebenso,gleich,auch,likewise Bennet and Collins 2010 (bibliographic refe
 The soup was simply delicious. Likewise, the cottage loaf was excellent.>Die Suppe war einfach köstlich. Auch das Landbrot schmeckte ausgezeichnet.
 Likewise with me.>Mir geht es genauso.,Bei mir ist es auch so/genauso.
 It>Mir geht es genauso.,Bei mir ist es auch so/genauso.
-'>„Ich gehe morgen wählen.“ „Ich auch.“
+'>�?Ich gehe morgen wählen.“ �?Ich auch.“
 just as>ebenso,just as well,ebenso gut,just as little,ebenso wenig,be just as big as …,ebenso groß sein wie …
 as>ebenso,just as well,ebenso gut,just as little,ebenso wenig,be just as big as …,ebenso groß sein wie …
 no more than>ebenso wenig
@@ -11279,7 +11279,7 @@ be responsible for sth.>etw. eigenverantwortlich / in eigener Verantwortung tun
 work with a high degree of personal responsibility>eigenverantwortlich arbeiten
 self-regulatory>eigenveranwortlich,auf Selbstkontrolle beruhend,self-regulatory codes,freiwillige Selbstverpflichtungen
 self-regulating>eigenveranwortlich,auf Selbstkontrolle beruhend
-eigtl.>eigentlich,im Grunde,genau/streng genommen,There are actually/In essence there are only a few things you have to remember.,Im Grunde gibt es nur ein paar Dinge, die man sich merken muss.,He is not American, actually. He is Canadian.,Er ist eigentlich/genau genommen kein Amerikaner. Er ist Kanadier.,Spiders are actually not insects.,Streng genommen sind Spinnen keine Insekten,Spinnen sind eigentlich keine Insekten.,I've known Babsy for years. Since we were at school, actually.,Ich kenne Babsi seit Jahren. Eigentlich seit der Schule.,I didn't think I'd like this kind of concert, but it was actually pretty good.,Ich hätte nicht gedacht, dass mir so ein Konzert gefällt, aber es war eigentlich recht gut.,'I like your new haircut.''Thanks, but actually I've had it for a month.',„Ich mag deinen neuen Haarschnitt.“ „Danke, den hab ich aber eigentlich schon seit einem Monat.“
+eigtl.>eigentlich,im Grunde,genau/streng genommen,There are actually/In essence there are only a few things you have to remember.,Im Grunde gibt es nur ein paar Dinge, die man sich merken muss.,He is not American, actually. He is Canadian.,Er ist eigentlich/genau genommen kein Amerikaner. Er ist Kanadier.,Spiders are actually not insects.,Streng genommen sind Spinnen keine Insekten,Spinnen sind eigentlich keine Insekten.,I've known Babsy for years. Since we were at school, actually.,Ich kenne Babsi seit Jahren. Eigentlich seit der Schule.,I didn't think I'd like this kind of concert, but it was actually pretty good.,Ich hätte nicht gedacht, dass mir so ein Konzert gefällt, aber es war eigentlich recht gut.,'I like your new haircut.''Thanks, but actually I've had it for a month.',�?Ich mag deinen neuen Haarschnitt.“ �?Danke, den hab ich aber eigentlich schon seit einem Monat.“
 eigtl.>eigentlich,im Grunde,genau/streng genommen,Actually/in essence you are right.,Eigentlich/Im Grunde genommen hast du recht.
 eigtl.>eigentlich,im Grunde,genau/streng genommen
 eigtl.>eigentlich,im Grunde,genau/streng genommen
@@ -11329,7 +11329,7 @@ eigtl.>eigentlich,Well, not really, but …,Na ja, eigentlich nicht, aber …,I 
 as a matter of fact + do>eigentlich schon
 actually + do>eigentlich schon
 As a matter of fact/Actually I do think break dancing is a sport.>Ich bin eigentlich schon der Meinung, dass Breakdance ein Sport ist.
-'>„Das glaubst du doch nicht wirklich?“ „Eigentlich schon.“
+'>�?Das glaubst du doch nicht wirklich?“ �?Eigentlich schon.“
 strange>eigentümlich
 odd>eigentümlich
 curious>eigentümlich
@@ -11854,8 +11854,8 @@ press home sth.>etw. eindringlich vor Augen führen,in aller Deutlichkeit bewuss
 ram home sth.>etw. eindringlich vor Augen führen,in aller Deutlichkeit bewusst machen,nachdrücklich klarmachen
 a film ramming home the consequences of smoking>ein Film, der die Folgen des Rauchens in aller Deutlichkeit bewusst macht
 intone sth.>etw. eindringlich / würdevoll / gravitätisch sagen
-'>„Niemand steht über dem Gesetz.“, sagte der Richter eindringlich.
-'>„Erheben Sie sich bitte!“, sagte der Saaldiener gravitätisch.
+'>�?Niemand steht über dem Gesetz.“, sagte der Richter eindringlich.
+'>�?Erheben Sie sich bitte!“, sagte der Saaldiener gravitätisch.
 urgent>eindringlich,in an urgent tone,in eindringlichem Tonfall
 emphatically>eindringlich,nachdrücklich,mit Nachdruck
 urgently>eindringlich,nachdrücklich,urgently ask sb. to do sth.,jdn. eindringlich bitten, etw. zu tun,He whispered urgently in my ear.,Er flüsterte mir eindringlich ins Ohr.
@@ -13327,7 +13327,7 @@ classed>ordnete ein,stufte ein,klassifizierte,rubrizierte
 bracket sb./sth. and sb./sth. (together / with each other), to bracket sb./sth. (together) with sb./sth.>jdn./etw. in gleiche Kategorie einordnen wie jdn./etw.,jdn. mit jdm. in einer Gruppe zusammenfassen,jdn./etw. auf die gleiche Linie stellen wie jdn./etw.,jdn. in einem Atemzug nennen wie jdn.,etw. und etw. zusammenfassen,etw. und etw. zusammenziehen
 put sb./sth. and sb./sth. in the same category/group>jdn./etw. in gleiche Kategorie einordnen wie jdn./etw.,jdn. mit jdm. in einer Gruppe zusammenfassen,jdn./etw. auf die gleiche Linie stellen wie jdn./etw.,jdn. in einem Atemzug nennen wie jdn.,etw. und etw. zusammenfassen,etw. und etw. zusammenziehen
 be bracketed with France, Canada and Denmark in the qualifier>im Ausscheidungsbewerb in einer Gruppe mit Frankreich, Kanada und Dänemark spielen
-He is sometimes wrongly bracketed with the >Er wird oft fälschlich in die gleiche Kategorie eingeordnet wie die Filmregisseure der „Nouvelle vague“.
+He is sometimes wrongly bracketed with the >Er wird oft fälschlich in die gleiche Kategorie eingeordnet wie die Filmregisseure der �?Nouvelle vague“.
 She can now be bracketed with the great German-language singers.>Sie steht jetzt in einer Linie mit den großen Sängerinnen deutscher Zunge.
 He is often bracketed with the formative social democrats of this period.>Er wird oft in einem Atemzug mit den prägenden Sozialdemokraten dieser Ära genannt.
 The names of Schubert and Goethe are often bracketed together and yet they never met.>Die Namen Schubert und Goethe werden oft gemeinsam genannt, sie sind sich aber nie begegnet.
@@ -13914,7 +13914,7 @@ stinting yourself>sich einschränkend
 stinted yourself>sich eingeschränkt
 modify sth.>etw. einschränken,etw. näher bestimmen
 modifying>einschränkend,näher bestimmend
-modified>eingeschränkt,näher bestimmt,In the phrase'a big tree'the noun is modified by the adjective'big'.,In der Wendung „ein großer Baum“ wird das Substantiv durch das Adjektiv „groß“ näher bestimmt.
+modified>eingeschränkt,näher bestimmt,In the phrase'a big tree'the noun is modified by the adjective'big'.,In der Wendung �?ein großer Baum“ wird das Substantiv durch das Adjektiv �?groß“ näher bestimmt.
 abridge>einschränken,beschneiden
 cabin>einschränken,beschneiden
 abridging>einschränkend,beschneidend
@@ -14597,7 +14597,7 @@ put down sb. (on the list) for sth.>jdn. für etw. eintragen,jdn. für etw. vorm
 She put herself down for the training.>Sie hat sich für die Schulung eingetragen.
 Put your name down on the list for the event you are coming to.>Tragen Sie sich für die Veranstaltung ein, die Sie besuchen werden.
 We put our son down for Harvard.>Wir haben unseren Sohn für Harvard vormerken lassen.
-Can I put you down for a donation?>„Kann ich Sie als Spender vormerken?“, „Ja, Sie können mich mit 30 EUR eintragen.“
+Can I put you down for a donation?>�?Kann ich Sie als Spender vormerken?“, �?Ja, Sie können mich mit 30 EUR eintragen.“
 earn sb. sth.>jdm. etw. eintragen
 earning>eintragend
 earned>eingetragen,His victory in the tournament earned him $ 20,000.,Der Turniersieg trug ihm 20.000 $ ein.,That performance earned her a Grammy Award.,Diese Leistung trug ihr einen Grammy-Preis ein.
@@ -14793,7 +14793,7 @@ chip in>einwerfen,I'd just like to chime/chip in, if I might.,Ich möchte nur/ma
 chiming in>einwerfend
 chipping in>einwerfend
 chimed in>eingeworfen
-chipped in>eingeworfen,'He left hours ago'she chipped in.,„Der ist längst weg.“, warf sie ein.
+chipped in>eingeworfen,'He left hours ago'she chipped in.,�?Der ist längst weg.“, warf sie ein.
 interject>einwerfen
 interjecting>einwerfend
 interjected>eingeworfen
@@ -16716,7 +16716,7 @@ running away>entlaufend
 run away>entlaufen,The cat has run away from home.,Die Katze ist von zu Hause entlaufen.,The dog has run away from the animal shelter.,Der Hund ist aus dem Tierheim entlaufen.
 runs away>entläuft
 ran away>entlief
-">„Hund entlaufen“
+">�?Hund entlaufen“
 runaway>entlaufen,ausgerissen,entkommen,abgehauen,durchgebrannt
 runaway slave>entlaufener Sklave
 lost dog>entlaufener Hund
@@ -17087,7 +17087,7 @@ renunciated>entsagt,abgeschworen
 renounce a pleasure>einem Genuss entsagen
 forgo a pleasure>einem Genuss entsagen
 renounce the world>der Welt entsagen
-'>„Entsagst du dem Teufel und allen seinen Werken?“ – „Ich entsage.“
+'>�?Entsagst du dem Teufel und allen seinen Werken?“ – �?Ich entsage.“
 self-renunciatory>entsagungsvoll,selbstlos
 desaturate a colour>eine Farbe entsättigen
 desaturating>entsättigend
@@ -17242,7 +17242,7 @@ be set doing sth.>entschlossen sein, etw. zu tun
 be determined>entschlossen sein
 unflinchingly>entschlossen
 unbending>fest entschlossen
-decidedly>entschlossen,bestimmt,nachdrücklich,'I'm not going to do it', she said decidedly.,„Das werde ich nicht tun.“, sagte sie entschlossen/bestimmt/nachdrücklich.
+decidedly>entschlossen,bestimmt,nachdrücklich,'I'm not going to do it', she said decidedly.,�?Das werde ich nicht tun.“, sagte sie entschlossen/bestimmt/nachdrücklich.
 decisively>entschlossen,entschieden
 determinedly>entschlossen,entschieden
 resolutely>entschlossen,entschieden
@@ -19104,7 +19104,7 @@ he/she has/had caught (a) cold>er/sie hat/hatte sich erkältet
 catch a bad cold>sich eine schlimme Erkältung holen,sich schwer erkälten
 catch a serious cold>sich eine schlimme Erkältung holen,sich schwer erkälten
 She is confined to bed with a severe chill.>Sie liegt mit einer schweren Erkältung im Bett.
-His motto seems to be: >Er gehört wohl zum Erkälte-dich-täglich-Club.,Er gehört wohl zur Fraktion „Verkühle dich täglich“.
+His motto seems to be: >Er gehört wohl zum Erkälte-dich-täglich-Club.,Er gehört wohl zur Fraktion �?Verkühle dich täglich“.
 work hard/act/fight to secure sth.>sich etw. erkämpfen
 act to secure more rights>sich mehr Rechte erkämpfen
 work hard to access new markets>sich neue Märkte erkämpfen
@@ -19625,7 +19625,7 @@ ascertaining>ermittelnd,feststellend
 ascertained>ermittelt,festgestellt
 ascertains>ermittelt,stellt fest
 ascertained>ermittelte,stellte fest
-investigate>ermitteln,nachforschen,Ermittlungen/Nachforschungen anstellen,investigate a case,in einem Fall ermitteln,He is already being investigated by the police on suspicion of bodily injury.,Gegen ihn wird bereits wegen Körperverletzung polizeilich ermittelt.,'What was that noise?''I'll go and investigate.',„Was war das für ein Geräusch?“ „Ich gehe nachsehen.“
+investigate>ermitteln,nachforschen,Ermittlungen/Nachforschungen anstellen,investigate a case,in einem Fall ermitteln,He is already being investigated by the police on suspicion of bodily injury.,Gegen ihn wird bereits wegen Körperverletzung polizeilich ermittelt.,'What was that noise?''I'll go and investigate.',�?Was war das für ein Geräusch?“ �?Ich gehe nachsehen.“
 investigating>ermittelnd,nachforschend,Ermittlungen/Nachforschungen anstellend,The police are investigating the incident.,Die Polizei ermittelt wegen des Vorfalls.
 investigated>ermittelt,nachgeforscht,Ermittlungen/Nachforschungen angestellt,He is already being investigated by the police on suspicion of bodily injury.,Gegen ihn wird bereits wegen Körperverletzung polizeilich ermittelt.
 work undercover>verdeckt ermitteln
@@ -21112,7 +21112,7 @@ wrathful>erzürnt,ergrimmt
 wroth>erzürnt,ergrimmt
 wrathful deities>erzürnte Götter
 tellable>erzählbar
-told>etw. erzählen,berichten,sagen,he/she tells,er/sie erzählt,er/sie berichtet,er/sie sagt,tell sb. about sth.,jdm. von etw. erzählen,jdm. von etw. berichten,I must tell you about what happened today. I just need to get it off my chest.,Ich muss dir erzählen, was heute passiert ist. Ich muss das einfach loswerden.,What did I tell you?,Was habe ich gesagt?,Hab'ich's nicht gesagt?,Don't tell me he's sick.,Jetzt sag bloß, er ist krank.,You're telling me! (I'm well aware of it),Wem sagst Du das?,Wem sagen Sie das? (Ich kenne das nur allzu gut),tell sb. to get stuffed,jdm. sagen, dass er einen mal kann,'She can come any time to talk it out.''Okay. I'll tell her.',„Sie kann jederzeit kommen und sich aussprechen.“ „Gut. Ich sag's ihr.“
+told>etw. erzählen,berichten,sagen,he/she tells,er/sie erzählt,er/sie berichtet,er/sie sagt,tell sb. about sth.,jdm. von etw. erzählen,jdm. von etw. berichten,I must tell you about what happened today. I just need to get it off my chest.,Ich muss dir erzählen, was heute passiert ist. Ich muss das einfach loswerden.,What did I tell you?,Was habe ich gesagt?,Hab'ich's nicht gesagt?,Don't tell me he's sick.,Jetzt sag bloß, er ist krank.,You're telling me! (I'm well aware of it),Wem sagst Du das?,Wem sagen Sie das? (Ich kenne das nur allzu gut),tell sb. to get stuffed,jdm. sagen, dass er einen mal kann,'She can come any time to talk it out.''Okay. I'll tell her.',�?Sie kann jederzeit kommen und sich aussprechen.“ �?Gut. Ich sag's ihr.“
 telling>erzählend,berichtend,sagend,You're telling me! (I'm well aware of it),Wem sagst Du das?,Wem sagen Sie das? (Ich kenne das nur allzu gut)
 told>erzählt,berichtet,gesagt,I/he/she told,ich/er/sie erzählte,ich/er/sie berichtete,ich/er/sie sagte,he/she has/had told,er/sie hat/hatte erzählt,er/sie hat/hatte berichtet,er/sie hat/hatte gesagt
 untold>nicht erzählt,nicht berichtet
@@ -21200,7 +21200,7 @@ it is>es ist
 there is>es gibt
 there are>es sind
 AAMOF>es ist so, dass…,nämlich,I knew him when we were in university, as a matter of fact we were on the same course.,Ich kenne ihn von der Uni, wir waren nämlich im selben Lehrgang.,I do know her, as a matter of fact she's one of my best friends.,Und ob ich sie kenne, sie ist nämlich eine meiner besten Freundinnen.
-'>„Kennst du ihn persönlich?“ „Allerdings.“
+'>�?Kennst du ihn persönlich?“ �?Allerdings.“
 once upon a time>es war einmal,vor langer, langer Zeit
 escalate>eskalieren,sich ausweiten
 escalating>eskalierend
@@ -21951,7 +21951,7 @@ square>fair,ehrlich,fair and square,offen und ehrlich
 effectively>faktisch,de facto,praktisch,in der Praxis,It is effectively / in effect / de facto impossible to get tickets.,Es ist faktisch unmöglich, Karten zu bekommen.,The peace process is effectively dead.,Der Friedensprozess ist faktisch gestorben / so gut wie tot.,He was polite but effectively he was telling me that I had no chance of getting the job.,Er war höflich, hat mir aber de facto mitgeteilt, dass ich keine Aussicht habe, die Stelle zu bekommen.
 in effect>faktisch,de facto,praktisch,in der Praxis,It is effectively / in effect / de facto impossible to get tickets.,Es ist faktisch unmöglich, Karten zu bekommen.
 de facto>faktisch,de facto,praktisch,in der Praxis,It is effectively / in effect / de facto impossible to get tickets.,Es ist faktisch unmöglich, Karten zu bekommen.
-for all practical purposes>faktisch,de facto,praktisch,in der Praxis,'Over the radio'meant, for all practical purposes, the BBC.,„Im Radio“ war praktisch gleichbedeutend mit BBC.
+for all practical purposes>faktisch,de facto,praktisch,in der Praxis,'Over the radio'meant, for all practical purposes, the BBC.,�?Im Radio“ war praktisch gleichbedeutend mit BBC.
 Effectively, this means / In effect, this means that companies are able to avoid the regulation.>In der Praxis / De facto bedeutet das, dass die Firmen die Vorschrift umgehen können.
 factorial>faktoriell
 factorable>faktorisierbar,in Faktoren zerlegbar
@@ -22116,9 +22116,9 @@ misinforms>informiert falsch,unterrichtet falsch
 misinformed>informierte falsch,unterrichtete falsch
 misread sth.>etw. falsch lesen
 misreading>falsch lesend
-misread>falsch gelesen,A few misread'fiftieth'as'fifth'.,Einige haben „fünfzigste“ falsch gelesen als „fünfte“.
+misread>falsch gelesen,A few misread'fiftieth'as'fifth'.,Einige haben �?fünfzigste“ falsch gelesen als �?fünfte“.
 misreads>liest falsch
-misread>las falsch,A few misread'fiftieth'as'fifth'.,Einige haben „fünfzigste“ falsch gelesen als „fünfte“.
+misread>las falsch,A few misread'fiftieth'as'fifth'.,Einige haben �?fünfzigste“ falsch gelesen als �?fünfte“.
 miscall>falsch nennen
 miscalling>falsch nennend
 miscalled>falsch genannt
@@ -23185,7 +23185,7 @@ frozen>festgefressen
 seized>festgefressen
 clamped>festgeklemmt
 be under arrest>festgenommen sein,unter Arrest stehen
-'>„Sie sind festgenommen. Sie haben das Recht, zu schweigen.“
+'>�?Sie sind festgenommen. Sie haben das Recht, zu schweigen.“
 fixed>festgeschaltet,festbelegt,nicht vermittelt
 permanently connected>festgeschaltet,festbelegt,nicht vermittelt
 non-switched>festgeschaltet,festbelegt,nicht vermittelt,non-switched line,festgeschaltete Verbindung,Standverbindung
@@ -25136,12 +25136,12 @@ Ask me another.>Frag mich was Leichteres!
 You>Da bin ich überfragt!,Frag mich was Leichteres!
 I really couldn>Da bin ich überfragt!,Frag mich was Leichteres!
 If you ask her a question expect no less than a lecture.>Wenn man sie etwas fragt, bekommt man einen ganzen Vortrag (zu hören).
-ask>fragen,ask a question in return,zurückfragen,'Any chance of semi-final tickets?'he asked/queried hopefully.,„Kriegt man noch Karten fürs Halbfinale?“, fragte er zuversichtlich.
+ask>fragen,ask a question in return,zurückfragen,'Any chance of semi-final tickets?'he asked/queried hopefully.,�?Kriegt man noch Karten fürs Halbfinale?“, fragte er zuversichtlich.
 query>fragen
 asking>fragend
 querying>fragend
-asked>gefragt,'Any chance of semi-final tickets?'he asked/queried hopefully.,„Kriegt man noch Karten fürs Halbfinale?“, fragte er zuversichtlich.
-queried>gefragt,'Any chance of semi-final tickets?'he asked/queried hopefully.,„Kriegt man noch Karten fürs Halbfinale?“, fragte er zuversichtlich.
+asked>gefragt,'Any chance of semi-final tickets?'he asked/queried hopefully.,�?Kriegt man noch Karten fürs Halbfinale?“, fragte er zuversichtlich.
+queried>gefragt,'Any chance of semi-final tickets?'he asked/queried hopefully.,�?Kriegt man noch Karten fürs Halbfinale?“, fragte er zuversichtlich.
 check with sb. what/whether etc.>jdn. fragen,bei jdm. nachfragen,mit jdm. abklären, was/ob usw.
 checking>fragend,nachfragend,abklärens.
 checked>gefragt,nachgefragt,abgeklärt
@@ -25368,7 +25368,7 @@ keep free>freihalten,nicht besetzen
 keep clear>freihalten,nicht besetzen
 keeping free>freihaltend
 kept free>freigehalten
-'>„Ausfahrt freihalten!“
+'>�?Ausfahrt freihalten!“
 liberal>freiheitlich
 more liberal>freiheitlicher
 most liberal>am freiheitlichsten
@@ -26060,7 +26060,7 @@ filling>füllend,anfüllend
 filling up>füllend,anfüllend
 filled>gefüllt,angefüllt
 filled up>gefüllt,angefüllt
-populate>sich (mit Daten) füllen,The'summary'worksheet populates automatically from the'progress'worksheet.,Das Arbeitsblatt „Überblick“ füllt sich automatisch mit den Daten aus dem Arbeitsblatt „Fortschritt“.
+populate>sich (mit Daten) füllen,The'summary'worksheet populates automatically from the'progress'worksheet.,Das Arbeitsblatt �?Überblick“ füllt sich automatisch mit den Daten aus dem Arbeitsblatt �?Fortschritt“.
 charge a glass>ein Glas füllen
 voluminous>füllig,ausladend,voluminös
 full-figured>füllig,vollschlank,gut gepolstert
@@ -26553,7 +26553,7 @@ outright>ganz offen,freimütig,frei heraus,geradeheraus,unumwunden,ohne Umschwei
 obviously>ganz offensichtlich,ganz klar,sichtlich,He walked slowly down the road, obviously/evidently in pain.,Er ging langsam die Straße entlang und hatte ganz offensichtlich Schmerzen.,She was obviously/evidently uncomfortable.,Sie fühlte sich sichtlich unwohl.
 evidently>ganz offensichtlich,ganz klar,sichtlich,He walked slowly down the road, obviously/evidently in pain.,Er ging langsam die Straße entlang und hatte ganz offensichtlich Schmerzen.,She was obviously/evidently uncomfortable.,Sie fühlte sich sichtlich unwohl.
 clearly>ganz offensichtlich,ganz klar,sichtlich
-'>„Dazu haben wir offenbar unterschiedliche Ansichten.“ „Keine Frage!“
+'>�?Dazu haben wir offenbar unterschiedliche Ansichten.“ �?Keine Frage!“
 unmitigated>ganz,ungemildert,völlig,komplett
 unmitigatedly>ganz
 little by little>ganz allmählich
@@ -27397,8 +27397,8 @@ mysteriously>geheimnisvoll
 mysticly>geheimnisvoll
 inhibited>gehemmt,unterdrückt,verhindert
 uptight>gehemmt,verkrampft,verklemmt,unentspannt,be uptight about sex,sexuell verklemmt sein
-gone>gehen,he/she goes,er/sie geht,he/she has/had gone,er/sie ist/war gegangen,I/he/she would go,ich/er/sie ginge,Let's go!,Gehen wir!,Lass uns gehen!,go all out,aufs Ganze gehen,bis zum Äußersten treiben,go (the) whole hog,aufs Ganze gehen,bis zum Äußersten treiben,go too far,zu weit gehen,es zu weit treiben,I go home.,Ich gehe nach Hause.,I will go home.,Ich werde nach Hause gehen.,'Go to your room','All right, I'm going.',„Geh auf dein Zimmer!“, „Ich geh ja schon.“,It's hard to explain, but here goes / here goes nothing.,Es ist nicht leicht zu erklären, aber schauen wir mal.,I've never ridden a motorbike before, so here goes!,Ich bin noch nie Motorrad gefahren, also schaun wir mal wie das geht.
-going>gehend,'Go to your room','All right, I'm going.',„Geh auf dein Zimmer!“, „Ich geh ja schon.“
+gone>gehen,he/she goes,er/sie geht,he/she has/had gone,er/sie ist/war gegangen,I/he/she would go,ich/er/sie ginge,Let's go!,Gehen wir!,Lass uns gehen!,go all out,aufs Ganze gehen,bis zum Äußersten treiben,go (the) whole hog,aufs Ganze gehen,bis zum Äußersten treiben,go too far,zu weit gehen,es zu weit treiben,I go home.,Ich gehe nach Hause.,I will go home.,Ich werde nach Hause gehen.,'Go to your room','All right, I'm going.',�?Geh auf dein Zimmer!“, �?Ich geh ja schon.“,It's hard to explain, but here goes / here goes nothing.,Es ist nicht leicht zu erklären, aber schauen wir mal.,I've never ridden a motorbike before, so here goes!,Ich bin noch nie Motorrad gefahren, also schaun wir mal wie das geht.
+going>gehend,'Go to your room','All right, I'm going.',�?Geh auf dein Zimmer!“, �?Ich geh ja schon.“
 gone>gegangen,he/she has/had gone,er/sie ist/war gegangen
 I/he/she went>ich/er/sie ging
 we/they went>wir/sie gingen
@@ -29382,7 +29382,7 @@ sleek>gestylt,wie aus dem Ei geschält/gepellt,wie geleckt
 healthy>gesund,healthy new cells,neue, gesunde Zellen,keep your feet healthy,seine Füße gesund erhalten,stay bright and healthy,vital und gesund bleiben
 healthier>gesünder
 healthiest>am gesündesten
-'>Initiative „Gesunde Städte“
+'>Initiative �?Gesunde Städte“
 healthy>gesund,a healthy appetite,ein gesunder Appetit,a healthy environment,eine gesunde Umwelt
 healthy eating>eine gesunde Ernährung
 healthily>gesund
@@ -30210,9 +30210,9 @@ Do you honestly believe that I>Glaubst du im Ernst, dass ich so dumm bin, dass i
 At least, so I believe.>Glaube ich zumindest. / Ich glaube zumindest.
 Believe me, he can really play the game.>Glaub mir, der kann spielen.
 You won>Du wirst es nicht brauchen, glaube es mir.
-'>„Sind sie schon eingetroffen?“, „Ja, ich glaube.“
-'>„Hat er die Stelle genommen?“, „Ich glaube nicht.“
-'>„Lebt sie noch?“, „Ich glaube kaum.“
+'>�?Sind sie schon eingetroffen?“, �?Ja, ich glaube.“
+'>�?Hat er die Stelle genommen?“, �?Ich glaube nicht.“
+'>�?Lebt sie noch?“, �?Ich glaube kaum.“
 believe in sb./sth.>an jdn./etw. glauben
 believing>glaubend
 believed>geglaubt,I/he/she believed,ich/er/sie glaubte,he/she has/had believed,er/sie hat/hatte geglaubt
@@ -30235,9 +30235,9 @@ I don>Ich bin damit nicht einverstanden, aber es ist wahrscheinlich besser so.
 I don>Du hast nicht zufällig mein Ladegerät gefunden?
 Do you suppose you could help me change my tyres?>Kannst du mir vielleicht helfen, meine Reifen zu wechseln?
 I don>Kannst du mir vielleicht helfen, meine Reifen zu wechseln?
-'>„Kann ich heute abend ausgehen?“ „Na gut.“
-'>„Das grüne ist hübscher, nicht?“ „Ja, kann man sagen.“.
-'>„Das war nicht sehr klug, oder?“ „Nicht unbedingt.“
+'>�?Kann ich heute abend ausgehen?“ �?Na gut.“
+'>�?Das grüne ist hübscher, nicht?“ �?Ja, kann man sagen.“.
+'>�?Das war nicht sehr klug, oder?“ �?Nicht unbedingt.“
 be very hard to believe>kaum zu glauben sein, fast nicht zu glauben sein,unglaublich sein
 beggar belief>kaum zu glauben sein, fast nicht zu glauben sein,unglaublich sein
 It is very hard to believe / It beggars belief that anyone can be so cruel.>Es ist fast nicht zu glauben, dass jemand so grausam sein kann.
@@ -30344,9 +30344,9 @@ as much as>gleichermaßen,gleicherweise,The report concerns Member States as muc
 in the same way>gleichermaßen,gleicherweise,These factors do, however, not affect all users in the same way.,Diese Faktoren wirken sich jedoch nicht auf alle Nutzer gleichermaßen aus.
 The text is authentic under the same conditions as the text of the 1990 Convention.>Der Wortlaut ist gleichermaßen verbindlich wie der Wortlaut des Übereinkommens von 1990.
 likewise>gleichfalls
-'>„Noch einen schönen Tag.“ „Danke, gleichfalls!“
-'>„Freut mich, Sie kennenzulernen.“ „Ganz meinerseits!“
-You>„Ihr seid uns jederzeit willkommen.“ „Ihr uns auch.“
+'>�?Noch einen schönen Tag.“ �?Danke, gleichfalls!“
+'>�?Freut mich, Sie kennenzulernen.“ �?Ganz meinerseits!“
+You>�?Ihr seid uns jederzeit willkommen.“ �?Ihr uns auch.“
 equably>gleichförmig
 regular>gleichförmig,gleichmäßig
 uniform>gleichförmig,gleichbleibend
@@ -31656,7 +31656,7 @@ being fine>gut gehend
 feeling fine>gut gehend
 been fine>gut gegangen
 felt fine>gut gegangen
-'>„Hast du dir weh getan?“ „Nein, mir geht's gut.“
+'>�?Hast du dir weh getan?“ �?Nein, mir geht's gut.“
 indulge yourself>es sich gut gehen lassen,sich einmal etwas gönnen,You can indulge yourself once in a while.,Hie und da kann man sich schon etwas gönnen.
 indulge>es sich gut gehen lassen,sich einmal etwas gönnen,It's my birthday. I'm going to indulge myself and …,Es ist mein Geburtstag. Ich werde es mir gut gehen lassen und …,You can indulge yourself once in a while.,Hie und da kann man sich schon etwas gönnen.,You can indulge every now and again.,Hie und da kann man sich schon etwas gönnen.
 be well located>gut gelegen sein,eine gute Lage haben
@@ -31879,7 +31879,7 @@ anti-haemorrhoidal>hämorrhoidenhemmend
 manually>händisch,von Hand,mit der Hand,manuell
 by hand>händisch,von Hand,mit der Hand,manuell
 longhand>händisches Schreiben,Handschrift,something written in longhand,etwas Handgeschriebenes,write sth. (out) in longhand,etw. mit der Hand schreiben
-hung>hängen,he/she hangs,er/sie hängt,he/she/it has/had hanged,er/sie/es hat/hatte gehangen,Is the washing still hanging on the line?,Hängt die Wäsche noch an der Leine?,The program hangs when'Cancel'is clicked.,Das Programm hängt beim Klicken auf „Abbrechen“.
+hung>hängen,he/she hangs,er/sie hängt,he/she/it has/had hanged,er/sie/es hat/hatte gehangen,Is the washing still hanging on the line?,Hängt die Wäsche noch an der Leine?,The program hangs when'Cancel'is clicked.,Das Programm hängt beim Klicken auf �?Abbrechen“.
 hanging>hängend,Is the washing still hanging on the line?,Hängt die Wäsche noch an der Leine?
 hung>gehangen,I/he/she hung,ich/er/sie hing,he/she/it has/had hung,er/sie/es hat/hatte gehangen
 The picture is crooked / tilted / slanted / not level.>Das Bild hängt schief.
@@ -32692,7 +32692,7 @@ economical>haushälterisch,wirtschaftlich,ökonomisch,sparsam
 as high as a house>haushoch,sehr hoch
 gigantic flames>haushohe Flammen
 huge flames>haushohe Flammen
-hawk>hausieren,hawk/peddle a lie/theory etc.,mit einer Lüge/Theorie usw. hausieren gehen,"No hawkers!",„Hausieren verboten!“
+hawk>hausieren,hawk/peddle a lie/theory etc.,mit einer Lüge/Theorie usw. hausieren gehen,"No hawkers!",�?Hausieren verboten!“
 peddle sth.>hausieren
 hawking>hausierend
 peddling>hausierend
@@ -33054,7 +33054,7 @@ hoarsely>heiser
 say/utter hoarsely>heiser sagen,krächzend sagen,krächzen
 croak>heiser sagen,krächzend sagen,krächzen
 grate>heiser sagen,krächzend sagen,krächzen
-rasp>heiser sagen,krächzend sagen,krächzen,a rasping voice,eine krächzende Stimme,'Stay where you are', he rasped.,„Bleib, wo du bist!“ krächzte er.
+rasp>heiser sagen,krächzend sagen,krächzen,a rasping voice,eine krächzende Stimme,'Stay where you are', he rasped.,�?Bleib, wo du bist!“ krächzte er.
 saying/uttering hoarsely>heiser sagend,krächzend
 croaking>heiser sagend,krächzend
 grating>heiser sagend,krächzend
@@ -33062,7 +33062,7 @@ rasping>heiser sagend,krächzend,a rasping voice,eine krächzende Stimme
 said/utterred hoarsely>heiser gesagt,gekrächzt
 croaked>heiser gesagt,gekrächzt
 grated>heiser gesagt,gekrächzt
-rasped>heiser gesagt,gekrächzt,'Stay where you are', he rasped.,„Bleib, wo du bist!“ krächzte er.
+rasped>heiser gesagt,gekrächzt,'Stay where you are', he rasped.,�?Bleib, wo du bist!“ krächzte er.
 hot>heiß,sehr warm
 hotter>heißer
 hottest>am heißesten
@@ -33089,7 +33089,7 @@ My name is …>Ich heiße …
 What are they called?>Wie werden sie / die bezeichnet?
 What>Wie heißt er noch (mal)?
 What>Wie heißt dieser Ort?
-The center building is called the >Das Gebäude in der Mitte trägt den Namen „Regenturm“.
+The center building is called the >Das Gebäude in der Mitte trägt den Namen �?Regenturm“.
 a hot potato>ein heißes Eisen,eine heiße Kartoffel
 a tricky subject>ein heißes Eisen,eine heiße Kartoffel
 thermoset sth.>etw. heißfixieren,thermofixieren
@@ -33100,9 +33100,9 @@ overheating>heißlaufend
 overheated>heißgelaufen
 heat-sealable>heißsiegelfähig
 heat-sealing>heißsiegelfähig
-as the saying goes>wie es so schön heißt,wie man so schön sagt,wie man zu sagen pflegt,I am, as the saying goes,'burnt out',Ich bin, wie man so schön sagt „ausgebrannt“.
+as the saying goes>wie es so schön heißt,wie man so schön sagt,wie man zu sagen pflegt,I am, as the saying goes,'burnt out',Ich bin, wie man so schön sagt �?ausgebrannt“.
 so the saying goes>wie es so schön heißt,wie man so schön sagt,wie man zu sagen pflegt,Desperate times call for desperate measures, or so the saying goes.,Außergewöhnliche Umstände erfordern außergewöhnliche Maßnahmen, wie man zu sagen pflegt.
-as the phrase goes>wie es so schön heißt,wie man so schön sagt,wie man zu sagen pflegt,He was, as the phrase goes,'on their radar'.,Er war, wie es so schön heißt, „auf ihrem Radar“.
+as the phrase goes>wie es so schön heißt,wie man so schön sagt,wie man zu sagen pflegt,He was, as the phrase goes,'on their radar'.,Er war, wie es so schön heißt, �?auf ihrem Radar“.
 as they say>heißt es,so sagt man
 so they say>heißt es,so sagt man
 they say>heißt es,so sagt man,Love, they say, is a many splendored thing.,Die Liebe, heißt es, hat viele Gesichter.
@@ -34557,10 +34557,10 @@ monkeyed>herumgepfuscht,herumgefummelt
 thump around>herumpoltern
 thumping around>herumpolternd
 thumped around>herumgepoltert
-hedge>herumreden,ausweichen,sich herumdrücken,sich nicht festlegen,hedge around a subject,um ein Thema herumreden,He continues to hedge on whether …,Er lässt weiterhin offen, ob …,'That depends on the circumstances'she hedged.,„Das hängt von den Umständen ab.“, sagte sie ausweichend.,She hedged her earlier statement/promise.,Sie relativierte ihre frühere Aussage/Zusage.
+hedge>herumreden,ausweichen,sich herumdrücken,sich nicht festlegen,hedge around a subject,um ein Thema herumreden,He continues to hedge on whether …,Er lässt weiterhin offen, ob …,'That depends on the circumstances'she hedged.,�?Das hängt von den Umständen ab.“, sagte sie ausweichend.,She hedged her earlier statement/promise.,Sie relativierte ihre frühere Aussage/Zusage.
 hedge sth./on sth./around sth.>herumreden,ausweichen,sich herumdrücken,sich nicht festlegen
 hedging>herumredend,ausweichend,sich herumdrückend,sich nicht festlegend,Stop hedging and tell me what you really think!,Red nicht herum und sag mir, was du wirklich denkst!
-hedged>herumgeredet,ausgewichen,sich herumgedrückt,sich nicht festgelegt,'That depends on the circumstances'she hedged.,„Das hängt von den Umständen ab.“, sagte sie ausweichend.,She hedged her earlier statement/promise.,Sie relativierte ihre frühere Aussage/Zusage.
+hedged>herumgeredet,ausgewichen,sich herumgedrückt,sich nicht festgelegt,'That depends on the circumstances'she hedged.,�?Das hängt von den Umständen ab.“, sagte sie ausweichend.,She hedged her earlier statement/promise.,Sie relativierte ihre frühere Aussage/Zusage.
 beat around the bush>um den heißen Brei herumreden,wie die Katze um den heißen Brei (herum)schleichen,Don't beat around the bush!,Reden Sie nicht um den heißen Brei herum!
 beat about the bush>um den heißen Brei herumreden,wie die Katze um den heißen Brei (herum)schleichen
 Come on, stop beating around the bush!>Komm, schleich nicht wie die Katze um den heißen Brei!
@@ -34899,7 +34899,7 @@ descended>heruntergekommen,heruntergegangen,herabgekommen,herabgestiegen,hinabge
 descends>kommt herunter
 descended>kam herunter,Silence descended upon the crowd.,Stille legte sich über die versammelte Menge.
 redescend>wieder absteigen,wieder hinabsteigen
-">„O sink hernieder Nacht der Liebe“
+">�?O sink hernieder Nacht der Liebe“
 come down>herunterkommen,heruntergehen
 coming down>herunterkommend,heruntergehend
 come down>heruntergekommen,heruntergegangen
@@ -35194,7 +35194,7 @@ gasp out sth.>etw. (atemlos) hervorstoßen
 gasping out>hervorstoßend
 gasped out>hervorgestoßen
 sputter>hervorstoßen
-splutter>hervorstoßen,'How dare you?'she spluttered.,„Wie kannst du es nur wagen!“, stieß sie hervor.
+splutter>hervorstoßen,'How dare you?'she spluttered.,�?Wie kannst du es nur wagen!“, stieß sie hervor.
 spluttering>hervorstoßend
 splutterred>hervorgestoßen
 jetting>hervorstoßend,Strahl…
@@ -37082,7 +37082,7 @@ rising>hochsteigend,sich nach oben bewegend
 risen>hochgestiegen,sich nach oben bewegt
 upgrade sth.>etw. hochstufen,aufwerten
 upgrading>hochstufend,aufwertend
-upgraded>hochgestuft,aufgewertet,The shares were / stock was upgraded to"hold".,Die Aktien wurden auf „Halten“ hochgestuft.,Two of the regions were upgraded to the status of Republic.,Zwei der Regionen wurden zur Republik aufgewertet.
+upgraded>hochgestuft,aufgewertet,The shares were / stock was upgraded to"hold".,Die Aktien wurden auf �?Halten“ hochgestuft.,Two of the regions were upgraded to the status of Republic.,Zwei der Regionen wurden zur Republik aufgewertet.
 high-technology>hochtechnisch,Hochtechnologie…
 high-titre …>hochtitrig
 high-titer…>hochtitrig
@@ -37837,9 +37837,9 @@ iatrogenic>iatrogen,durch den Arzt verursacht,durch eine ärztliche Behandlung b
 caused by medical treatment>iatrogen,durch den Arzt verursacht,durch eine ärztliche Behandlung bewirkt
 iatrogenic complication>iatrogene Komplikation
 Ibero-American>iberoamerikanisch
-I>ich,icke,I'm,ich bin,It's/That's me.,Ich bin's.,My sister and I,meine Schwester und ich,I and my friends,ich und meine Freunde,Not I!,Ich nicht!,Why am I always the one who has to do the work?,Warum muss immer ich die ganze Arbeit machen?,'Who's there?''I am.'/'It's me.',„Wer ist da?“ „Ich“,'I'm hungry.''Me too.',„Ich habe Hunger.“ „Ich auch.“
-me>ich,icke,It's/That's me.,Ich bin's.,my sister and me,meine Schwester und ich,me and my friends,ich und meine Freunde,Not me!,Ich nicht!,Always me!,Immer ich!,Why me?,Warum ich?,Why is it always me who has to do the work?,Warum muss immer ich die ganze Arbeit machen?,'Who's there?''I am.'/'It's me.',„Wer ist da?“ „Ich“,'Come here!''Who? Me?',„Komm her!“ „Wer? Ich?“,'Who did it?''Not me!',„Wer war das?“ „Ich nicht!“
-I am>ich bin,'Who's there?''I am.'/'It's me.',„Wer ist da?“ „Ich“
+I>ich,icke,I'm,ich bin,It's/That's me.,Ich bin's.,My sister and I,meine Schwester und ich,I and my friends,ich und meine Freunde,Not I!,Ich nicht!,Why am I always the one who has to do the work?,Warum muss immer ich die ganze Arbeit machen?,'Who's there?''I am.'/'It's me.',�?Wer ist da?“ �?Ich“,'I'm hungry.''Me too.',�?Ich habe Hunger.“ �?Ich auch.“
+me>ich,icke,It's/That's me.,Ich bin's.,my sister and me,meine Schwester und ich,me and my friends,ich und meine Freunde,Not me!,Ich nicht!,Always me!,Immer ich!,Why me?,Warum ich?,Why is it always me who has to do the work?,Warum muss immer ich die ganze Arbeit machen?,'Who's there?''I am.'/'It's me.',�?Wer ist da?“ �?Ich“,'Come here!''Who? Me?',�?Komm her!“ �?Wer? Ich?“,'Who did it?''Not me!',�?Wer war das?“ �?Ich nicht!“
+I am>ich bin,'Who's there?''I am.'/'It's me.',�?Wer ist da?“ �?Ich“
 I myself>ich selbst
 self-aware>ichbewusst,sich seiner selbst bewusst
 self-centred>ichbezogen,selbstzentriert,egozentrisch
@@ -38575,7 +38575,7 @@ stopping short>innehaltend
 stopped short>innegehalten,Seeing her tears, he stopped short.,Als er sah, dass sie weinte, hielt er inne.,I began to speak, but stopped short at the look on her face.,Ich begann zu reden, hielt jedoch inne, als ich den Blick auf/in ihrem Gesicht sah.
 stop short sb.>jdn. innehalten lassen
 I was about to reply when a sudden thought stopped me short.>Ich wollte schon antworten, als mich ein plötzlicher Gedanke innehalten ließ.
-'>„Ich bin schwanger“, sagte sie. Da hielt er inne.
+'>�?Ich bin schwanger“, sagte sie. Da hielt er inne.
 holdover>jemand, der seine frühere Stellung weiterhin innehat,holdovers from the previous cabinet,Minister aus dem früheren Kabinett,holdovers from the previous staff,Mitarbeiter aus der früheren Belegschaft
 inside>innen,drinnen,innen drin,drin,binnen,dinne,im Inneren,It can be left inside.,Es kann drinnen bleiben.
 deep inside>tief im Inneren
@@ -39388,7 +39388,7 @@ somehow or other>irgendwie
 anything>irgendwie,in irgendeiner Art,überhaupt,It isn't anything like her.,Das sieht ihr überhaupt nicht ähnlich.
 by some means or other>irgendwie,in irgendeiner Art,überhaupt
 sort of>irgendwie,so,mehr oder weniger,I sort of expected it.,Ich habe es irgendwie erwartet.,He looks sort of like my cousin.,Er sieht ein bisschen wie mein Cousin aus.,I feel sort of foolish.,Ich komme mir etwas albern vor.,The walls are sort of greeny-blue.,Die Wände sind so grünlich-blau.,I sort of promised it.,Ich hab's mehr oder weniger versprochen.,I'm sort of glad.,Ich bin eigentlich froh.
-'>„Weißt du was ich meine?“ „So ungefähr.“
+'>�?Weißt du was ich meine?“ �?So ungefähr.“
 kind of>irgendwie,ziemlich,gewissermaßen,kind of mad,ziemlich verrückt,kind of funny,irgendwie witzig
 kinda>irgendwie,ziemlich,gewissermaßen
 someway>irgendwie,We'll get it done someway or another.,Irgendwie schaffen wir das schon.
@@ -39622,13 +39622,13 @@ yea/yeah>ja,jo,jau
 yep>ja,jo,jau
 yup>ja,jo,jau
 yus>ja,jo,jau
-'>„Schaffst du das?“ „Ich glaube ja. / Ich glaube schon.“
+'>�?Schaffst du das?“ �?Ich glaube ja. / Ich glaube schon.“
 Yes you>Ja schon, aber vergiss nicht, dass …
-'>„Hilfst du mir?“ „ Dir ja / Dir schon, deinem Bruder nicht.“
-">„Thomas!“ „Ja, Viviana?“
+'>�?Hilfst du mir?“ �? Dir ja / Dir schon, deinem Bruder nicht.“
+">�?Thomas!“ �?Ja, Viviana?“
 Yes?>Ja, bitte?,Ja?
 Hello?>Ja, bitte?,Ja?
-'>„Wollen Sie Silvia zu Ihrer rechtmäßig angetrauten Frau nehmen?“ „Ja.“
+'>�?Wollen Sie Silvia zu Ihrer rechtmäßig angetrauten Frau nehmen?“ �?Ja.“
 really>ja,Did you check the door to make sure it is really locked?,Hast du kontrolliert, ob die Tür auch ja abgeschlossen ist?,She called to see if everything is really all right.,Sie hat angerufen, um zu hören, ob auch ja alles in Ordnung ist.,He made a chart of it on the board to make sure that really everybody understands it.,Er hat es an die Tafel gezeichnet, damit es auch ja jeder versteht.
 be sure>ja
 make sure>ja,Did you check the door to make sure it is really locked?,Hast du kontrolliert, ob die Tür auch ja abgeschlossen ist?,He made a chart of it on the board to make sure that really everybody understands it.,Er hat es an die Tafel gezeichnet, damit es auch ja jeder versteht.
@@ -39645,7 +39645,7 @@ Don>Aber lach ja nicht, wenn ich das anziehe!
 You>Aber lach ja nicht, wenn ich das anziehe!
 You>Halt ja den Mund!
 You>Halt ja den Mund!
-'>„Soll ich ihn einfach fragen?“, „Tu das ja nicht!“
+'>�?Soll ich ihn einfach fragen?“, �?Tu das ja nicht!“
 for goodness>ja nicht
 for heaven>ja nicht
 for pity>ja nicht
@@ -41769,7 +41769,7 @@ tinkled>klingelte
 ting>klingeln
 tinging>klingelnd
 tings>klingelt
-go ting>„bing“ machen
+go ting>�?bing“ machen
 jingle>klingeln,klimpern,klirren,bimmeln
 jingling>klingelnd,klimpernd,klirrend,bimmelnd
 jingled>geklingelt,geklimpert,geklirrt,gebimmelt
@@ -42293,8 +42293,8 @@ growls>knurrt
 snarls>knurrt
 growled>knurrte
 snarled>knurrte
-growl>knurren,'Keep out of this', he growled/snarled.,„Halt du dich da'raus!“, knurrte er.
-snarl>knurren,'Keep out of this', he growled/snarled.,„Halt du dich da'raus!“, knurrte er.
+growl>knurren,'Keep out of this', he growled/snarled.,�?Halt du dich da'raus!“, knurrte er.
+snarl>knurren,'Keep out of this', he growled/snarled.,�?Halt du dich da'raus!“, knurrte er.
 crisp>knusprig,rösch,kross
 crispy>knusprig,rösch,kross
 crisper>knusperiger,knuspriger
@@ -42831,7 +42831,7 @@ most tricky>am kompliziertesten,am verzwicktesten,am kniffeligsten
 complicated>kompliziert,diffizil,umständlich,It really couldn't be more complicated!,Umständlicher geht's wohl nicht!,Why make it complicated?,Warum so kompliziert?
 more complicated>komplizierter,It really couldn't be more complicated!,Umständlicher geht's wohl nicht!
 most complicated>am kompliziertesten
-a mouthful>ein kompliziertes Wort,eine komplizierte Formulierung,eine lange Wurst,ein Bandwurmsatz,Its full title is a bit of a mouthful.,Der vollständige Titel ist ein bisschen lang.,My name's Zacharias, but you can call me Zach if it's too much of a mouthful.,Ich heiße Zacharias, du kannst mich aber Zach nennen, wenn dir das zu lang ist.,I call her'Henny'because it's less of a mouthful than'Henrietta'.,Ich nenne sie „Henni“, das geht leichter über die Lippen als „Henrietta“,The plant does not have a common name, which is a shame as its scientific name is a bit of a mouthful.,Die Pflanze hat keinen volkstümlichen Namen, was schade ist, denn die wissenschaftliche Bezeichnung ist kompliziert.,The workshop is called'Dr. Grove's Toolkit for Effective Presentations to Nationally Mixed Audiences'. What a mouthful!/That's a mouthful to say!,Das Seminar heißt „Dr. Grove's Toolkit for Effective Presentations to Nationally Mixed Audiences“. So eine lange Wurst!/Ist das kompliziert!
+a mouthful>ein kompliziertes Wort,eine komplizierte Formulierung,eine lange Wurst,ein Bandwurmsatz,Its full title is a bit of a mouthful.,Der vollständige Titel ist ein bisschen lang.,My name's Zacharias, but you can call me Zach if it's too much of a mouthful.,Ich heiße Zacharias, du kannst mich aber Zach nennen, wenn dir das zu lang ist.,I call her'Henny'because it's less of a mouthful than'Henrietta'.,Ich nenne sie �?Henni“, das geht leichter über die Lippen als �?Henrietta“,The plant does not have a common name, which is a shame as its scientific name is a bit of a mouthful.,Die Pflanze hat keinen volkstümlichen Namen, was schade ist, denn die wissenschaftliche Bezeichnung ist kompliziert.,The workshop is called'Dr. Grove's Toolkit for Effective Presentations to Nationally Mixed Audiences'. What a mouthful!/That's a mouthful to say!,Das Seminar heißt �?Dr. Grove's Toolkit for Effective Presentations to Nationally Mixed Audiences“. So eine lange Wurst!/Ist das kompliziert!
 a bit of a mouthful>ein kompliziertes Wort,eine komplizierte Formulierung,eine lange Wurst,ein Bandwurmsatz,Its full title is a bit of a mouthful.,Der vollständige Titel ist ein bisschen lang.,The plant does not have a common name, which is a shame as its scientific name is a bit of a mouthful.,Die Pflanze hat keinen volkstümlichen Namen, was schade ist, denn die wissenschaftliche Bezeichnung ist kompliziert.
 compose>etw. komponieren
 composing>komponierend
@@ -45465,7 +45465,7 @@ leave sb./sth.>jdn./etw. in einem bestimmten Zustand zurücklassen
 The incident left her feeling hurt.>Der Vorfall hinterließ bei ihr ein Gefühl der Kränkung.
 This leaves me free to go shopping.>Dann habe ich ja Zeit zum Einkaufen.
 I had a cold last week and was left with a cough.>Vorige Woche hatte ich eine Erkältung, von der ein Husten zurückblieb / von der ich den Husten behielt.
-The menu describes this dish as medium hot, which leaves me wondering what a very hot dish would taste like.>Auf der Speisekarte ist dieses Gericht als mäßig scharf beschrieben, sodass ich mich frage, wie dann wohl „sehr scharf“ schmecken würde.
+The menu describes this dish as medium hot, which leaves me wondering what a very hot dish would taste like.>Auf der Speisekarte ist dieses Gericht als mäßig scharf beschrieben, sodass ich mich frage, wie dann wohl �?sehr scharf“ schmecken würde.
 His death left her with financial problems.>Durch seinen Tod geriet sie in finanzielle Schwierigkeiten.
 The new law has left many people worse off.>Durch das neue Gesetz hat sich die Lage für viele Leute verschlechtert.
 The explosion left one worker dead and four injured.>Bei der Explosion kam ein Arbeiter ums Leben und vier wurden verletzt.
@@ -45619,7 +45619,7 @@ bonds denominated in euros>auf Euro lautende Schuldverschreibungen
 The answer is:>Die Antwort lautet:
 In view of this development the question is: how can we prevent any further damage?>In Anbetracht dieser Entwicklung lautet die Frage: wie können wir weiteren Schaden abwenden?
 What is the previous sentence?>Wie lautet der vorhergehende Satz?
-'>„Dem südeuropäischen Land droht der Bankrott“, lautete die Schlagzeile.
+'>�?Dem südeuropäischen Land droht der Bankrott“, lautete die Schlagzeile.
 The wording of the petition is as follows:>Die Petition lautet folgendermaßen:
 Section 5 of the Staff Regulations is worded as follows:>Paragraph 5 der Dienstordnung lautet:
 The bank account was in a different name.>Das Bankkonto lautete auf einen anderen Namen.
@@ -46073,7 +46073,7 @@ dispassionate>leidenschaftslos
 passionless>leidenschaftslos
 dispassionately>leidenschaftslos
 have a high tolerance for suffering>leidensfähig sein
-more>ist leider so,You can't take photographs, more's the pity.,Fotografieren darf man nicht, ist leider so.,'Was the e-bike insured?''No, more's the pity!',„War das Elektrorad versichert?“ „Leider nicht!“,The end is near, and more's the pity.,Jetzt geht es langsam dem Ende zu und das ist jammerschade.
+more>ist leider so,You can't take photographs, more's the pity.,Fotografieren darf man nicht, ist leider so.,'Was the e-bike insured?''No, more's the pity!',�?War das Elektrorad versichert?“ �?Leider nicht!“,The end is near, and more's the pity.,Jetzt geht es langsam dem Ende zu und das ist jammerschade.
 sadly>leider,leider Gottes,bedauerlicherweise,fatalerweise,unerfreulicherweise,unglücklicherweise,unseligerweise,zu meinem Leidwesen,Gott sei's geklagt,I tried to help but, sadly, nothing could be done.,Ich versuchte zu helfen, aber leider war nichts zu machen.
 sad to say>leider,leider Gottes,bedauerlicherweise,fatalerweise,unerfreulicherweise,unglücklicherweise,unseligerweise,zu meinem Leidwesen,Gott sei's geklagt
 sad to relate>leider,leider Gottes,bedauerlicherweise,fatalerweise,unerfreulicherweise,unglücklicherweise,unseligerweise,zu meinem Leidwesen,Gott sei's geklagt,sad to relate (used as a parenthesis),man muss es leider sagen (Einschub)
@@ -46514,7 +46514,7 @@ I>Ich möchte lieber nicht hingehen.
 No, thanks. I>Nein danke. Lieber nicht.
 If you>Wenn es dir lieber ist, gehen wir hinaus.
 Which concert would you rather go to?>In welches Konzert möchtest du lieber (gehen)?
-'>„Stört es Sie, wenn ich rauche?“ „Also mir wär's eigentlich lieber, wenn Sie's nicht tun.“
+'>�?Stört es Sie, wenn ich rauche?“ �?Also mir wär's eigentlich lieber, wenn Sie's nicht tun.“
 prefer sth.>etw. lieber wollen,etw. lieber haben,etw. vorziehen
 preferring>lieber wollend,lieber habend,vorziehend
 preferred>lieber gewollt,lieber gehabt,vorgezogen
@@ -48710,9 +48710,9 @@ meant>meinen,sagen wollen,he/she means,er/sie meint,I/he/she meant,ich/er/sie me
 meaning>meinend,This is probably the intended meaning.,Das ist wahrscheinlich damit gemeint.,The intended meaning is entirely different.,Gemeint ist etwas ganz anderes.
 meant>gemeint,I/he/she meant,ich/er/sie meinte,he/she has/had meant,er/sie hat/hatte gemeint
 What are you implying (by that)?>Was meinen Sie (damit)?
-opine>seine Meinung kundtun,die Ansicht/Meinung vertreten/äußern, dass,feststellen, dass,dafürhalten, dass,fans who love to opine about/on the national league,Fans, die gerne ihre Meinung über die Bundesliga kundtun,Many people opine that …,Viele Leute vertreten die Ansicht, dass …,In some countries, it is opined that …,In einigen Ländern wird die Meinung vertreten, dass …,She opined on TV last week that …,Sie hat vorige Woche im Fernsehen geäußert, dass …,Some people in the music scene opined that …,In der Musikszene wurden Stimmen laut, wonach/die (da) meinten …,proposals that were opined,Vorschläge, zu denen Stellung genommen wurde,The court has opined that …,Das Gericht hat festgestellt, dass …,'The man is a genius', she opined.,„Der Mann ist genial“, stellte sie fest.
+opine>seine Meinung kundtun,die Ansicht/Meinung vertreten/äußern, dass,feststellen, dass,dafürhalten, dass,fans who love to opine about/on the national league,Fans, die gerne ihre Meinung über die Bundesliga kundtun,Many people opine that …,Viele Leute vertreten die Ansicht, dass …,In some countries, it is opined that …,In einigen Ländern wird die Meinung vertreten, dass …,She opined on TV last week that …,Sie hat vorige Woche im Fernsehen geäußert, dass …,Some people in the music scene opined that …,In der Musikszene wurden Stimmen laut, wonach/die (da) meinten …,proposals that were opined,Vorschläge, zu denen Stellung genommen wurde,The court has opined that …,Das Gericht hat festgestellt, dass …,'The man is a genius', she opined.,�?Der Mann ist genial“, stellte sie fest.
 opining>seine Meinung kundtuend,die Ansicht/Meinung vertretend/äußernd,feststellend,dafürhaltend
-opined>seine Meinung kundgetan,die Ansicht/Meinung vertreten/geäußert,festgestellt,dafürgehalten,In some countries, it is opined that …,In einigen Ländern wird die Meinung vertreten, dass …,She opined on TV last week that …,Sie hat vorige Woche im Fernsehen geäußert, dass …,Some people in the music scene opined that …,In der Musikszene wurden Stimmen laut, wonach/die (da) meinten …,proposals that were opined,Vorschläge, zu denen Stellung genommen wurde,The court has opined that …,Das Gericht hat festgestellt, dass …,'The man is a genius', she opined.,„Der Mann ist genial“, stellte sie fest.
+opined>seine Meinung kundgetan,die Ansicht/Meinung vertreten/geäußert,festgestellt,dafürgehalten,In some countries, it is opined that …,In einigen Ländern wird die Meinung vertreten, dass …,She opined on TV last week that …,Sie hat vorige Woche im Fernsehen geäußert, dass …,Some people in the music scene opined that …,In der Musikszene wurden Stimmen laut, wonach/die (da) meinten …,proposals that were opined,Vorschläge, zu denen Stellung genommen wurde,The court has opined that …,Das Gericht hat festgestellt, dass …,'The man is a genius', she opined.,�?Der Mann ist genial“, stellte sie fest.
 guess>meinen,glauben,annehmen,I guess …,ich glaube, …,I guess so!,Vermutlich!
 guessing>meinend,glaubend,annehmend
 guessed>gemeint,geglaubt,angenommen
@@ -48733,7 +48733,7 @@ As far as I>Sie können meinetwegen sofort gehen.
 on my part>meinesteils
 as for me>meinesteils
 Suit yourself!>Wie du meinst!,Mach, was du willst!,Das kannst du halten wie du willst!
-'>„Ich werde dir nicht helfen.“ „Mach was du willst.“
+'>�?Ich werde dir nicht helfen.“ �?Mach was du willst.“
 chisel sth.>etw. meißeln
 chiseling>meißelnd
 chiseled>gemeißelt
@@ -48757,7 +48757,7 @@ most>das meiste,die meisten,most of my friends,die meisten meiner Freunde,make t
 most …>meist…
 most>am meisten,the most widely used treatment,die meistpraktizierte Behandlung,What matters most to young people?,Was ist der Jugend am wichtigsten?,What annoys me most is that they didn't inform me.,Was mich am meisten ärgert, ist, dass sie mich nicht informiert haben.,You'll benefit most from the exercises if you do them every day.,Man profitiert am meisten von den Übungen, wenn man sie täglich macht.,Tea is the second most consumed beverage in the world after water.,Nach Wasser ist Tee das am zweitmeisten konsumierte Getränk der Welt.
 most of the time>die meiste Zeit,meistens,meist,zumeist
-mostly>die meiste Zeit,meistens,meist,zumeist,We are mostly out on Sundays.,Sonntags sind wir meistens unterwegs.,He mostly uses the car.,Er fährt meistens mit dem Auto.,'What did you do this weekend?''I worked in the garden, mostly.',„Was hast du am Wochenende getrieben?“ „Ich habe die meiste Zeit im Garten gearbeitet.“
+mostly>die meiste Zeit,meistens,meist,zumeist,We are mostly out on Sundays.,Sonntags sind wir meistens unterwegs.,He mostly uses the car.,Er fährt meistens mit dem Auto.,'What did you do this weekend?''I worked in the garden, mostly.',�?Was hast du am Wochenende getrieben?“ �?Ich habe die meiste Zeit im Garten gearbeitet.“
 most of all>am allermeisten
 Most of the time it>Die meiste Zeit ist es hier sehr ruhig.
 busiest, most traveled>meistbefahren
@@ -51355,9 +51355,9 @@ going into it>nachhakend
 broaching the subject again>nachhakend
 gone into it>nachgehakt
 broached the subject again>nachgehakt
-prompt>nachhaken,'And then what happened?'he prompted.,„Und was ist dann passiert?“, hakte er nach.
+prompt>nachhaken,'And then what happened?'he prompted.,�?Und was ist dann passiert?“, hakte er nach.
 prompting>nachhakend
-prompted>nachgehakt,'And then what happened?'he prompted.,„Und was ist dann passiert?“, hakte er nach.
+prompted>nachgehakt,'And then what happened?'he prompted.,�?Und was ist dann passiert?“, hakte er nach.
 follow up with sb.>bei jdm. (wegen etw.) nachhaken,nachbohren,nachkarten,nachwassern
 following up with>nachhakend,nachbohrend,nachkartend,nachwassernd
 followed up with>nachgehakt,nachgebohrt,nachgekartet,nachgewassert
@@ -51764,7 +51764,7 @@ The following is a list of all credit card transactions.>Nachstehend eine Aufste
 A description follows of the asymmetric encryption method.>Nachstehend eine Beschreibung der asymmetrischen Verschlüsselungsmethode.
 In the following / In what follows, we will analyse each stage in greater detail.>Im Folgenden werden wir jedes Stadium genauer analysieren.
 hereafter>nachstehend
-hereinafter>nachstehend,the Company hereinafter referred to as'the Seller'(contractual phrase),Das Unternehmen, nachstehend als „der Verkäufer“ bezeichnet. (Vertragsformel)
+hereinafter>nachstehend,the Company hereinafter referred to as'the Seller'(contractual phrase),Das Unternehmen, nachstehend als �?der Verkäufer“ bezeichnet. (Vertragsformel)
 follow>jdm. nachstellen
 pester>jdm. nachstellen
 hunt sb.>jdm. nachstellen
@@ -51819,7 +51819,7 @@ after the event>nachträglich,nachher,hinterher,im Nachhinein,It is easy to be w
 with/in hindsight>nachträglich,nachher,hinterher,im Nachhinein
 With hindsight, I should have reacted more quickly.>Im Nachhinein betrachtet hätte ich schneller reagieren müssen.
 With the benefit of hindsight, it>Hinterher/Im Nachhinein ist man immer klüger/schlauer/gescheiter (als vorher).
-afterthought>nachträglicher Gedanke,nachträgliche Idee,as an afterthought,erst nachträglich,im Nachhinein,noch,He invited her as an afterthought.,Er hat sie erst nachträglich eingeladen.,'Bring your sister, too'he added as an afterthought.,„Bring auch deine Schwester mit!“, fügte er noch hinzu.
+afterthought>nachträglicher Gedanke,nachträgliche Idee,as an afterthought,erst nachträglich,im Nachhinein,noch,He invited her as an afterthought.,Er hat sie erst nachträglich eingeladen.,'Bring your sister, too'he added as an afterthought.,�?Bring auch deine Schwester mit!“, fügte er noch hinzu.
 hold sth. against sb.>jdm. etw. nachtragen
 hold a grudge against sb. for sth.>jdm. etw. nachtragen
 bear sb. a grudge for sth.>jdm. etw. nachtragen
@@ -53371,7 +53371,7 @@ not ever>nie,niemals,nimmer,nimmermehr
 never again>nie wieder
 nevermore>nie wieder
 never before>nie zuvor,noch nie,noch niemals,as never before,wie nie zuvor
-'>„Bist du enttäuscht?“ „Durchaus nicht!“
+'>�?Bist du enttäuscht?“ �?Durchaus nicht!“
 Never!>Im Leben nicht!
 I don>Ich möchte nie Kinder haben.
 ignoble>nieder,unedel,gemein
@@ -53417,7 +53417,7 @@ be hangdog>gedrückt wirken,geknickt wirken
 be dejected>ein Häufchen Elend sein,die Flügel hängen lassen
 be despondent>ein Häufchen Elend sein,die Flügel hängen lassen
 downheartedly>niedergeschlagen,mutlos,entmutigt,gedrückt,geknickt,gedeftet,verzagt
-hopelessly>niedergeschlagen,mutlos,entmutigt,gedrückt,geknickt,gedeftet,verzagt,'I'll never manage it,'he said hopelessly.,„Das schaffe ich nie.“, sagte er niedergeschlagen.
+hopelessly>niedergeschlagen,mutlos,entmutigt,gedrückt,geknickt,gedeftet,verzagt,'I'll never manage it,'he said hopelessly.,�?Das schaffe ich nie.“, sagte er niedergeschlagen.
 despairingly>niedergeschlagen,mutlos,entmutigt,gedrückt,geknickt,gedeftet,verzagt
 dispiritedly>niedergeschlagen,mutlos,entmutigt,gedrückt,geknickt,gedeftet,verzagt
 dejectedly>niedergeschlagen,mutlos,entmutigt,gedrückt,geknickt,gedeftet,verzagt
@@ -54344,7 +54344,7 @@ Regular teeth are de rigueur for film stars.>Regelmäßige Zähne sind für Film
 compulsory>obligatorisch,verpflichtend,Pflicht…,Zwangs…
 compulsorily>obligatorisch
 obligatory>obligatorisch,obligat,obligatory on topic comment,obligatorischer Kommentar zum Thema
-mandatory>obligatorisch,zwingend,Pflicht…,be mandatory for sb.,für jdn. zwingend vorgeschrieben sein,für jdn. verpflichtend sein,In German a comma is mandatory before the conjunction'that'.,Im Deutschen muss vor „dass“ zwingend ein Komma stehen.
+mandatory>obligatorisch,zwingend,Pflicht…,be mandatory for sb.,für jdn. zwingend vorgeschrieben sein,für jdn. verpflichtend sein,In German a comma is mandatory before the conjunction'that'.,Im Deutschen muss vor �?dass“ zwingend ein Komma stehen.
 blindly accept authority>obrigkeitsgläubig sein
 blindly submit to authority>obrigkeitshörig sein
 of the authoritarian state>obrigkeitsstaatlich
@@ -59320,7 +59320,7 @@ raster>rastern
 restless>rastlos,ruhelos,unermüdlich,a restless night,eine ruhelose Nacht
 unresting>rastlos,ruhelos,unermüdlich,an unresting traveller,ein rastloser Reisender
 sleepless>rastlos,ruhelos,unermüdlich,the sleepless river,der rastlose Fluss,the sleepless city,die Stadt, die keinen Stillstand/Schlaf kennt
-guess>raten,he/she guesses,er/sie rät,I/he/she guessed,ich/er/sie riet,guess right/wrong,richtig/falsch raten,Have a guess!,Rate mal!,Well guessed!,Gut geraten!,I'll give you three guesses.,Dreimal darfst du raten.,You can have three guesses.,Dreimal darfst du raten.,If you can't think of an answer, guess.,Wenn dir keine Antwort einfällt, rate.,I can only guess at what made her do this.,Ich kann nur raten, was sie dazu getrieben hat.,'Yesterday she told me what's bothering her.''Let me guess – it's about her boyfriend.',„Sie hat mir gestern gesagt, was sie bedrückt.“ „Lass mich raten - es geht um ihren Freund.“,No, don't tell me, I'm keen to guess.,Nein, sag's nicht. Lass mich raten.
+guess>raten,he/she guesses,er/sie rät,I/he/she guessed,ich/er/sie riet,guess right/wrong,richtig/falsch raten,Have a guess!,Rate mal!,Well guessed!,Gut geraten!,I'll give you three guesses.,Dreimal darfst du raten.,You can have three guesses.,Dreimal darfst du raten.,If you can't think of an answer, guess.,Wenn dir keine Antwort einfällt, rate.,I can only guess at what made her do this.,Ich kann nur raten, was sie dazu getrieben hat.,'Yesterday she told me what's bothering her.''Let me guess – it's about her boyfriend.',�?Sie hat mir gestern gesagt, was sie bedrückt.“ �?Lass mich raten - es geht um ihren Freund.“,No, don't tell me, I'm keen to guess.,Nein, sag's nicht. Lass mich raten.
 guessing>ratend
 guessed>geraten,I/he/she guessed,ich/er/sie riet,Well guessed!,Gut geraten!
 advise sth.>zu etw. raten
@@ -59740,7 +59740,7 @@ been right>recht gehabt,Recht gehabt,richtig gelegen
 be proved right>Recht behalten,recht behalten
 be proved correct>Recht behalten,recht behalten
 You>Du hast recht, wenn du vorsichtig bist.
-'>„Es ist nicht leicht.“ „Ja, da hast du Recht.“
+'>�?Es ist nicht leicht.“ �?Ja, da hast du Recht.“
 Am I right in thinking/assuming that …?>Gehe ich recht in der Annahme, dass …?
 right>rechte,rechter,rechtes,in my right inside pocket,in meiner rechten Innentasche,in the near right corner of the hall,in der rechten vorderen Ecke des Saales,the rightmost switch,der äußerst rechte Schalter,der ganz rechte Schalter,der Schalter ganz rechts,the far right switch,der äußerst rechte Schalter,der ganz rechte Schalter,der Schalter ganz rechts
 right-hand>rechte,rechter,rechtes
@@ -62622,7 +62622,7 @@ a whopping>sage und schreibe,It sold for a whopping/whacking 3 millions.,Es wurd
 a staggering>sage und schreibe
 a shacking>sage und schreibe
 said>etw. sagen,etw. äußern,say sth. out loud,etw. laut sagen,say sth. in a roundabout way to sb.,jdm. etw. durch die Blume sagen
-saying>sagend,äußernd,'Do you know something about it?''I'm saying nothing.',„Wissen Sie etwas darüber?“ „Ich sage nichts.“
+saying>sagend,äußernd,'Do you know something about it?''I'm saying nothing.',�?Wissen Sie etwas darüber?“ �?Ich sage nichts.“
 said>gesagt,geäußert,I/he/she said,ich/er/sie sagte,he/she has/had said,er/sie hat/hatte gesagt,That's easier said than done.,Das ist leichter gesagt als getan.,Nothing was said between them.,Sie wechselten keine Worte.
 he/she says>er/sie sagt
 I/he/she would say>ich/er/sie sagte
@@ -62642,7 +62642,7 @@ Say when stop!>Sag Halt!
 Did I say anything different?>Hab ich (denn) etwas anderes gesagt?,Hab ich etwas anderes behauptet?
 state sth.>etw. sagen,äußern,erklären,angeben,ausführen,darlegen
 stating>sagend,äußernd,erklärend,angebend,ausführend,darlegend,He accused me of stating the obvious.,Er hat mir vorgeworfen, Dinge anzuführen, die ohnehin auf der Hand liegen.
-stated>gesagt,geäußert,erklärt,angegeben,ausgeführt,dargelegt,be the stated objective of sb.,das erklärte Ziel von jdm. sein,'I'm not corruptible', she stated firmly.,„Ich bin nicht bestechlich.“, erklärte sie nachdrücklich.
+stated>gesagt,geäußert,erklärt,angegeben,ausgeführt,dargelegt,be the stated objective of sb.,das erklärte Ziel von jdm. sein,'I'm not corruptible', she stated firmly.,�?Ich bin nicht bestechlich.“, erklärte sie nachdrücklich.
 simply stated>einfach gesagt,in einfachen Worten
 state your view>seinen Standpunkt darlegen
 state an opinion>eine Meinung äußern
@@ -62660,7 +62660,7 @@ A little bird told me you have been wishing for this CD.>Ein Vöglein hat mir ve
 Are you going to tell me when your birthday is?>Verrätst du mir deinen Geburtstag?
 Can you tell me how I>Kannst du mir verraten, wie ich das anstellen soll?
 We>Wir machen eine Überraschungsparty. Aber du darfst nichts verraten!
-'>„Was ist da drinnen?“ „Das verrate ich nicht!“
+'>�?Was ist da drinnen?“ �?Das verrate ich nicht!“
 be able to tell sth.>etw. sagen können,etw. sehen,etw. erkennen
 telling>sagen könnend,ersehend,erkennend
 told>sagen gekonnt,ersehen,erkannt
@@ -62703,7 +62703,7 @@ steeped in legend>sagenumwoben
 … of many legends>sagenumwoben
 storied>sagenumwoben
 You don>Was du nicht sagst!,Sag bloß!
-You don>Was du nicht sagst!,Sag bloß!,'You are unable to log in? There must be something wrong.''You don't say!',„Du kannst dich nicht einloggen? Da kann etwas nicht stimmen.“ „Sag bloß!“
+You don>Was du nicht sagst!,Sag bloß!,'You are unable to log in? There must be something wrong.''You don't say!',�?Du kannst dich nicht einloggen? Da kann etwas nicht stimmen.“ �?Sag bloß!“
 Well, duh!>Was du nicht sagst!,Sag bloß!
 cream>sahnig werden
 seasonal>saisonabhängig,jahreszeitlich,saisonal,buy regional and seasonal products,regional und saisonal einkaufen
@@ -64071,7 +64071,7 @@ rocket>schießen,rasen,The train rocketed through the tunnel.,Der Zug schoss/ras
 surge>schießen,rasen,The book rocketed/surged to the top of the best-seller lists.,Das Buch schaffte den Sprung / gelangte auf Anhieb an die Spitze der Bestsellerlisten.,He rocketed/surged to stardom overnight.,Er wurde über Nacht zum Star.
 bolt>vorzeitig Samen bilden,vorzeitig in Samen schießen
 plink>auf ein (improvisertes) Ziel schießen
-'>„Darf ich dich was fragen?“ „Schieß los!“
+'>�?Darf ich dich was fragen?“ �?Schieß los!“
 trigger-happy>schießfreudig,schießwütig
 be eager to shoot>schießfreudig sein
 navigable>schiffbar,beschiffbar,befahrbar
@@ -64199,7 +64199,7 @@ inveigh against the press>über die Presse herziehen
 knock sb./sth.>über jdn./etw. (ungerechtfertigt) schimpfen,meckern,über jdn. herziehen,auf jdn. losgehen
 knocking>schimpfend,meckernd,herziehend,losgehend,He's always knocking the government.,Er schimpft ständig auf die Regierung.
 knocked>geschimpft,gemeckert,hergezogen,losgegangen
-'>„Ich hasse Werbung.“ „Sag nichts (Schlechtes) über Werbung, sie ist ein wichtiger Wirtschaftsfaktor.“
+'>�?Ich hasse Werbung.“ �?Sag nichts (Schlechtes) über Werbung, sie ist ein wichtiger Wirtschaftsfaktor.“
 Don>Mecker nicht, bevor du's versucht hast.
 blusterous>schimpfend
 blusterously>schimpfend
@@ -64304,7 +64304,7 @@ be dead to the world>tief und fest schlafen,schlafen wie ein Murmeltier
 The cats are asleep on the carpet.>Die Katzen liegen auf dem Teppich und schlafen.
 She was still asleep at noon.>Zu Mittag schlief sie immer noch.,Zu Mittag war sie immer noch nicht wach.
 I>Ich werde die Küche aufwischen solange die Kinder schlafen.
-'>„Schläfst du schon?“ „Nein, Ich bin noch wach.“
+'>�?Schläfst du schon?“ �?Nein, Ich bin noch wach.“
 crash>schlafen,pennen,crash on the couch,auf der Couch schlafen
 doss>schlafen,pennen,doss on friends'floors,bei Freunden auf dem Boden schlafen
 crashing>schlafend,pennend
@@ -64697,7 +64697,7 @@ hard done by>schlecht behandelt,have been hard done by,schlecht behandelt worden
 absolutely>schlechthin
 THE dictionary>das Wörterbuch schlechthin
 … is the archetypical American provincial town.>… ist die amerikanische Provinzstadt schlechthin.
-">„Der Freischütz“ ist die romantische Oper schlechthin.
+">�?Der Freischütz“ ist die romantische Oper schlechthin.
 My remark referred to slipshod work as such.>Meine Bemerkung bezog sich auf schlampiges Arbeiten schlechthin.
 dis sb./sth.>jdn./etw. schlechtmachen, jdn./etw. runtermachen,jdn. abkanzeln,jdn. dissen,etw. miesmachen
 diss sb./sth.>jdn./etw. schlechtmachen, jdn./etw. runtermachen,jdn. abkanzeln,jdn. dissen,etw. miesmachen
@@ -64816,7 +64816,7 @@ It beats me how you manage to work in this heat.>Es ist mir schleierhaft, wie du
 Beats me why he bought such a big car.>Es ist mir schleierhaft, warum er sich so ein großes Auto gekauft hat.
 It beats me/It>Es ist mir ein Rätsel, wie sie die Stelle bekommen hat.
 What beats me is why she stays with him.>Was ich nicht kapiere, ist, wieso bleibt sie bei ihm?
-'>„Was sagt er?“ „Das frage ich mich auch.“
+'>�?Was sagt er?“ �?Das frage ich mich auch.“
 ground>schleifen,wetzen,schärfen,he/she grinds,er/sie schleift
 grinding>schleifend,wetzend,schärfend
 ground>geschliffen,gewetzt,geschärft,I/he/she ground,ich/er/sie schliff,he/she has/had ground,er/sie hat/hatte geschliffen
@@ -65749,9 +65749,9 @@ snorting>schnaubend
 snorted>geschnaubt
 snorts>schnaubt
 snorted>schnaubte
-snort>schnauben,fauchen,pfauchen,snort with rage,wütend schnauben,'Certainly not'she snorted.,„Sicher nicht.“, schnaubte sie.
+snort>schnauben,fauchen,pfauchen,snort with rage,wütend schnauben,'Certainly not'she snorted.,�?Sicher nicht.“, schnaubte sie.
 snorting>schnaubend,fauchend,pfauchend
-snorted>geschnaubt,gefaucht,gepfaucht,'Certainly not'she snorted.,„Sicher nicht.“, schnaubte sie.
+snorted>geschnaubt,gefaucht,gepfaucht,'Certainly not'she snorted.,�?Sicher nicht.“, schnaubte sie.
 wheeze>schnaufen,keuchen
 wheezing>schnaufend,keuchend
 wheezed>geschnauft,gekeucht
@@ -65763,9 +65763,9 @@ huffed>geschnauft
 harrumph>etw. schnauben,etw. schnaubend sprechen
 harrumphing>schnaubend,schnaubend sprechend
 harrumphed>geschnaubt,schnaubend gesprochen
-snap>schnauzen,blaffen,keifen,keppeln,'I really don't much care', she snapped.,„Das ist mir ziemlich wurscht!“ keifte sie.
+snap>schnauzen,blaffen,keifen,keppeln,'I really don't much care', she snapped.,�?Das ist mir ziemlich wurscht!“ keifte sie.
 snapping>schnauzend,blaffend,keifend,keppelnd
-snapped>geschnauzt,geblafft,gekeift,gekeppelt,'I really don't much care', she snapped.,„Das ist mir ziemlich wurscht!“ keifte sie.
+snapped>geschnauzt,geblafft,gekeift,gekeppelt,'I really don't much care', she snapped.,�?Das ist mir ziemlich wurscht!“ keifte sie.
 blow one>schnäuzen,schneuzen,sich die Nase schnäuzen/schnauben
 blowing one>schnäuzend,schneuzend,schnaubend
 blown one>geschnäuzt,geschneuzt,geschnaubt
@@ -66115,7 +66115,7 @@ cloddy>schollig,klumpig
 clumped>schollig,klumpig
 already>schon,bereits,My sister is already sleeping.,Meine Schwester schläft schon.,Oh look, they've already started.,Da schau, sie haben schon angefangen.,It was already 6 o'clock in the evening, quite dark.,Es war bereits 6 Uhr am Abend und schon dunkel.,It's already Wednesday and there is still so much to do.,Es ist schon Mittwoch und es ist noch so viel zu tun.,When I arrived she had already left quite a while ago.,Als ich eintraf, war sie bereits eine ganze Weile fort.,The fight had hardly begun when it was already decided.,Der Kampf hatte kaum begonnen, da war er auch schon entschieden.,She's so young and already a widow!,So jung und schon Witwe!
 as soon as the day broke>schon am frühen Morgen
-'>„Wir müssen aufhören.“ „Jetzt schon?“ / „Schon?“
+'>�?Wir müssen aufhören.“ �?Jetzt schon?“ / �?Schon?“
 for goodness>schon,doch um Himmels willen
 Will you hurry up, for goodness>Nun mach schon!,So mach doch schon!,Jetzt komm schon!
 Will you stop it, for pity>Jetzt hör schon auf damit!
@@ -66135,8 +66135,8 @@ Experience is not important but enthusiasm is.>Erfahrung ist nicht wichtig, Bege
 He didn>Er konnte nicht schwimmen, ich schon.
 I do think that it>Ich glaube schon, dass das möglich ist.
 I do think (that) this ought to be thoroughly examined.>Ich würde schon meinen, dass das genau geprüft werden sollte.
-'>„Das ist doch recht preiswert?“ „Das schon, / Schon, aber ich mag die Farbe nicht.“
-'>„Das geht mich nichts an.“ „Jetzt schon!“
+'>�?Das ist doch recht preiswert?“ �?Das schon, / Schon, aber ich mag die Farbe nicht.“
+'>�?Das geht mich nichts an.“ �?Jetzt schon!“
 even>schon allein,allein schon,schon
 alone>schon allein,allein schon,schon,for this reason alone,(allein) schon aus diesem Grund
 the very …>schon allein,allein schon,schon
@@ -66152,11 +66152,11 @@ for the simple reason that …>schon allein deswegen, weil …
 That will not work for the simple reason that there is not enough staff to do it.>Das geht schon allein deswegen nicht, weil nicht genug Personal dafür da ist.
 The project will fail for the simple reason that there is no funding for it.>Das Projekt scheitert schon daran, dass es keine Förderung dafür gibt.
 This proposal has to be rejected if only for the reason that …>Dieser Vorschlag ist schon (allein) deshalb abzulehnen, weil …
-right away>und schon,She just said'No'and right away she was gone.,Sie sagte nur „Nein“ und schon war sie weg.,Some critical remarks were made and right away his good mood changed.,Es fielen einige kritische Bemerkungen und schon schlug seine gute Laune um.
+right away>und schon,She just said'No'and right away she was gone.,Sie sagte nur �?Nein“ und schon war sie weg.,Some critical remarks were made and right away his good mood changed.,Es fielen einige kritische Bemerkungen und schon schlug seine gute Laune um.
 yet again>schon wieder,He is ill yet again.,Er ist schon wieder krank.
 yet>schon wieder,He is ill yet again.,Er ist schon wieder krank.,They've had yet another power outage.,Sie hatten schon wieder einen Stromausfall.
 again>schon wieder,He is ill yet again.,Er ist schon wieder krank.,Oh no, not again! (chat jargon),Nein, nicht schon wieder! (Chat-Jargon),Oh no, not you again! (chat jargon),Nein, nicht Du schon wieder! (Chat-Jargon),Oh no, not this again! (chat jargon),Nein, nicht das schon wieder! (Chat-Jargon)
-'>„Ich habe mich aus meinem Online-Konto ausgesperrt.“ „Schon wieder!“
+'>�?Ich habe mich aus meinem Online-Konto ausgesperrt.“ �?Schon wieder!“
 now>schon wieder,She is now refusing to come along.,Sie will schon wieder nicht mitkommen.,What's the matter now?,Was ist denn schon wieder los?,What do you want now?,Was willst du denn schon wieder?
 take it easy>sich schonen
 taking it easy>sich schonend
@@ -66428,8 +66428,8 @@ bleeding>schröpfend
 cupping>schröpfend
 bled>geschröpft
 cupped>geschröpft
-shortly>schroff,'Is there a problem?'he asked shortly/sharply.,„Gibt's ein Problem?“, fragte er schroff.
-sharply>schroff,'Is there a problem?'he asked shortly/sharply.,„Gibt's ein Problem?“, fragte er schroff.
+shortly>schroff,'Is there a problem?'he asked shortly/sharply.,�?Gibt's ein Problem?“, fragte er schroff.
+sharply>schroff,'Is there a problem?'he asked shortly/sharply.,�?Gibt's ein Problem?“, fragte er schroff.
 craggily>schroff
 gruff>schroff,grob,barsch,ruppig,unwirsch
 gruffer>schroffer,gröber,barscher,ruppiger,unwirscher
@@ -66897,19 +66897,19 @@ enthuse>schwärmen
 enthusing>schwärmend
 enthused>geschwärmt
 be enthusiastic>schwärmen
-rhapsodize>schwärmen,'His style is phantastic'she rhapsodized.,„Er hat einen fantastischen Stil“, schwärmte sie.
+rhapsodize>schwärmen,'His style is phantastic'she rhapsodized.,�?Er hat einen fantastischen Stil“, schwärmte sie.
 rhapsodise>schwärmen
 being enthusiastic>schwärmend
 rhapsodizing>schwärmend
 rhapsodising>schwärmend
 been enthusiastic>geschwärmt
-rhapsodized>geschwärmt,'His style is phantastic'she rhapsodized.,„Er hat einen fantastischen Stil“, schwärmte sie.
+rhapsodized>geschwärmt,'His style is phantastic'she rhapsodized.,�?Er hat einen fantastischen Stil“, schwärmte sie.
 rhapsodised>geschwärmt
 is enthusiastic>schwärmt
 rhapsodizes>schwärmt
 rhapsodises>schwärmt
 was enthusiastic>schwärmte,As a university student Dimitri was enthusiastic about symbolist style poetry.,Als Student schwärmte Dimitri für Gedichte im Stil des Symbolismus.
-rhapsodized>schwärmte,'His style is phantastic'she rhapsodized.,„Er hat einen fantastischen Stil“, schwärmte sie.
+rhapsodized>schwärmte,'His style is phantastic'she rhapsodized.,�?Er hat einen fantastischen Stil“, schwärmte sie.
 rhapsodised>schwärmte
 romanticize>schwärmen
 romanticise>schwärmen
@@ -67808,7 +67808,7 @@ Looked at in that light, …>So gesehen …
 AISI>So wie ich die Sache sehe,So wie ich das sehe
 It may be looked at this way.>Man kann es so sehen.
 What>Was ist daran so lustig? Ich kann hier nicht Witziges erkennen.
-'>„Können wir das so machen?“ „Von mir aus spricht nichts dagegen.“
+'>�?Können wir das so machen?“ �?Von mir aus spricht nichts dagegen.“
 They can>Sie sehen keinen anderen Weg.,Sie sehen keine andere Möglichkeit.
 We see this partnership as a great opportunity.>Wir sehen diese Partnerschaft als große Chance.
 I see myself to be an understanding person.>Ich schätze mich als durchaus verständnisvollen Zeitgenossen ein.
@@ -68029,7 +68029,7 @@ in living memory>seit man denken kann/konnte,solange man denken kann/konnte,sola
 within living memory>seit man denken kann/konnte,solange man denken kann/konnte,solange die Leute denken können/konnten,während unserer Lebenszeit,at some time not within living memory,irgendwann vor unserer Zeit,It has doubled within living memory.,Während unserer Lebenszeit hat sich ihre Zahl verdoppelt.,This sort of crisis is not within living memory.,Diese Art von Krise hat niemand von uns erlebt.
 since>seit,seitdem,since I've been living here,seit ich hier wohne,since he knows that,seit er das weiß
 since when>seit wann
-'>„Ich bin Vegetarier.“ „Seit wann denn das?“
+'>�?Ich bin Vegetarier.“ �?Seit wann denn das?“
 Since when do you have to be a professor to have an opinion?>Seit wann muss man Professor sein, um eine Meinung zu haben?
 ever since>seitdem,seit,von … an,ever since I have lived here,seit ich hier lebe
 Ever since I>Das Gerät ließ sich vom ersten Tag an nur mühsam in Betrieb nehmen.
@@ -68552,7 +68552,7 @@ I>Ich bin mir sicher.
 securely>sicher,store sth. securely,etw. sicher aufbewahren,be securely employed,eine sichere Anstellung haben
 surely>sicher
 assuredly>sicher
-all right>ganz sicher,ganz genau,und ob …,'Are you sure it's her?''It's her all right.',„Bist du sicher, dass sie es ist?“ „Sie ist es ganz sicher.“,'Is this the one you wanted?''Yes, that's it all right.',„Ist das das, was du wolltest?“ „Ja, genau das ist es.“,'He seems pretty clever to me.''Oh, he's clever all right. A little too clever, if you ask me.',„Er dürfte ziemlich clever sein.“ „Na und ob der clever ist. Ein bisschen zu clever, wenn du mich fragst.“
+all right>ganz sicher,ganz genau,und ob …,'Are you sure it's her?''It's her all right.',�?Bist du sicher, dass sie es ist?“ �?Sie ist es ganz sicher.“,'Is this the one you wanted?''Yes, that's it all right.',�?Ist das das, was du wolltest?“ �?Ja, genau das ist es.“,'He seems pretty clever to me.''Oh, he's clever all right. A little too clever, if you ask me.',�?Er dürfte ziemlich clever sein.“ �?Na und ob der clever ist. Ein bisschen zu clever, wenn du mich fragst.“
 tuck away sth.>etw. sicher aufbewahren,sicher unterbringen,bunkern
 stash away sth.>etw. sicher aufbewahren,sicher unterbringen,bunkern
 tucking away>sicher aufbewahrend,sicher unterbringend,bunkernd
@@ -68578,9 +68578,9 @@ She was confident that she would win.>Sie war zuversichtlich, dass sie gewinnen 
 It makes him feel more confident.>Es gibt ihm mehr Sicherheit.
 It gives him more confidence.>Es gibt ihm mehr Sicherheit.
 I am confident about my ability to turn this situation around.>Ich bin optimistisch, dass ich da noch gegensteuern kann.
-'>„Sind Sie sich sicher?“, fragte der Quizmoderator den Kandidaten.
+'>�?Sind Sie sich sicher?“, fragte der Quizmoderator den Kandidaten.
 be undecided>sich nicht sicher sein,nicht (so recht) wissen,schwanken,überlegen,unschlüssig sein
-hesitate>sich nicht sicher sein,nicht (so recht) wissen,schwanken,überlegen,unschlüssig sein,I hesitate to say it, but …,Ich sage das nur ungern, aber …,I hesitate to ask our neighbours round.,Ich bin mir nicht sicher, ob ich unsere Nachbarn zu uns einladen soll.,I'd hesitate to call it"management".,Ich würde das nicht unbedingt „Management“ nennen.,I sometimes hesitate to say what I am really thinking.,Manchmal schwanke ich, ob ich sagen soll, was ich wirklich denke.,I didn't hesitate about working with Ben.,Als es darum ging, mit Ben zu arbeiten, musste ich nicht lange überlegen.,I'd hesitate to take my children there.,Ich würde es mir gut überlegen, meine Kinder dorthin mitzunehmen.,I hesitate to ask but could you possibly help me again?,Ich trau mich gar nicht zu fragen, aber könntest du mir eventuell noch einmal helfen?,'I'm not sure,'she hesitated.,„Ich bin mir da nicht so sicher“, meinte sie unschlüssig.
+hesitate>sich nicht sicher sein,nicht (so recht) wissen,schwanken,überlegen,unschlüssig sein,I hesitate to say it, but …,Ich sage das nur ungern, aber …,I hesitate to ask our neighbours round.,Ich bin mir nicht sicher, ob ich unsere Nachbarn zu uns einladen soll.,I'd hesitate to call it"management".,Ich würde das nicht unbedingt �?Management“ nennen.,I sometimes hesitate to say what I am really thinking.,Manchmal schwanke ich, ob ich sagen soll, was ich wirklich denke.,I didn't hesitate about working with Ben.,Als es darum ging, mit Ben zu arbeiten, musste ich nicht lange überlegen.,I'd hesitate to take my children there.,Ich würde es mir gut überlegen, meine Kinder dorthin mitzunehmen.,I hesitate to ask but could you possibly help me again?,Ich trau mich gar nicht zu fragen, aber könntest du mir eventuell noch einmal helfen?,'I'm not sure,'she hesitated.,�?Ich bin mir da nicht so sicher“, meinte sie unschlüssig.
 Karanka is still hesitating / undecided whether it is the right job to take on.>Karanka ist sich noch nicht sicher / schwankt noch, ob er das Stellenangebot annehmen soll.
 I>Ich bin mir nicht sicher, ob ich unsere Nachbarn zu uns einladen soll.
 I am still undecided about what to do.>Ich weiß immer noch nicht so recht, was ich tun soll.
@@ -69094,7 +69094,7 @@ skeptical>skeptisch,kritisch
 sceptically>skeptisch,kritisch
 skeptically>skeptisch,kritisch
 iffy>skeptisch
-demur>sich skeptisch zeigen/äußern,sich ablehnend zeigen/äußern,The board continues to demur at her appointment.,Der Vorstand steht ihrer Bestellung weiterhin skeptisch gegenüber.,'I don't think it will ever happen again', she demurred.,„Ich glaube nicht, dass es das je wieder geben wird“, meinte sie skeptisch.
+demur>sich skeptisch zeigen/äußern,sich ablehnend zeigen/äußern,The board continues to demur at her appointment.,Der Vorstand steht ihrer Bestellung weiterhin skeptisch gegenüber.,'I don't think it will ever happen again', she demurred.,�?Ich glaube nicht, dass es das je wieder geben wird“, meinte sie skeptisch.
 sketchy>skizzenartig,skizzenhaft
 sketchily>skizzenhaft,skizzenartig,a sketchily drawn figure,eine skizzenhaft gezeichnete Figur
 sketchiness>skizzenhafter Charakter,The sketchiness of Monet's'View of Rouen'suggests he painted it entirely in the open air.,Der skizzenhafte Charakter von Monets'Blick auf Rouen'lässt darauf schließen, dass er das Bild zur Gänze im Freien gemalt hat.
@@ -70121,9 +70121,9 @@ without a stitch on>splitternackt,splitterfasernackt,pudelnackt,füdliblutt
 starkers>splitternackt,splitterfasernackt,pudelnackt,füdliblutt
 buck-naked>splitternackt,splitterfasernackt,pudelnackt,füdliblutt
 strip stark-naked>sich splitterfasernackt ausziehen
-taunt>spötteln,sticheln,höhnen,taunt sb.,gegen jdn. sticheln,'And he'll believe you, will he?'she taunted.,„Und das wird er dir sicher glauben?“, spöttelte sie.
+taunt>spötteln,sticheln,höhnen,taunt sb.,gegen jdn. sticheln,'And he'll believe you, will he?'she taunted.,�?Und das wird er dir sicher glauben?“, spöttelte sie.
 taunting>spöttelnd,stichelnd,höhnend
-taunted>gespöttelt,gestichelt,gehöhnt,'And he'll believe you, will he?'she taunted.,„Und das wird er dir sicher glauben?“, spöttelte sie.
+taunted>gespöttelt,gestichelt,gehöhnt,'And he'll believe you, will he?'she taunted.,�?Und das wird er dir sicher glauben?“, spöttelte sie.
 mocking>spöttisch
 taunting>spöttisch,höhnisch
 quizzical>spöttisch,schelmisch
@@ -73268,7 +73268,7 @@ substantival>substantivisch
 inane>substanzlos,gehaltlos
 subsume sth. under sth.>etw. unter etw. subsumieren,zusammenfassen
 subsuming>subsumierend,zusammenfassend
-subsumed>subsumiert,zusammengefasst,Red, green, and yellow are subsumed under the term"color"/"colour".,Rot, Grün und Gelb werden unter dem Begriff Farbe zusammengefasst.,All the statistics have been subsumed under the heading"Facts and Figures".,Sämtliche Statistiken wurden unter der Überschrift „Zahlen und Fakten“ zusammengefasst.,Ethnic cleansing can thus be subsumed under the category of genocide, even if the victims survive.,Ethnische Säuberungen kann man daher unter „Völkermord“ subsumieren, auch wenn die Opfer überleben.
+subsumed>subsumiert,zusammengefasst,Red, green, and yellow are subsumed under the term"color"/"colour".,Rot, Grün und Gelb werden unter dem Begriff Farbe zusammengefasst.,All the statistics have been subsumed under the heading"Facts and Figures".,Sämtliche Statistiken wurden unter der Überschrift �?Zahlen und Fakten“ zusammengefasst.,Ethnic cleansing can thus be subsumed under the category of genocide, even if the victims survive.,Ethnische Säuberungen kann man daher unter �?Völkermord“ subsumieren, auch wenn die Opfer überleben.
 subsume the facts of a case / a case under a legal rule>einen Sachverhalt / Fall subsumieren,in einen gesetzlichen Tatbestand einordnen, prüfen, ob er den Merkmalen einer Rechtsnorm entspricht
 subtle>subtil
 subtarsal>subtarsal,unter dem Augenlidknorpel
@@ -73316,7 +73316,7 @@ Drivers are advised to seek alternative routes.>Den Autofahrern wird geraten, si
 search on a search term>nach einem Suchbegriff suchen
 searching on a search term>nach einem Suchbegriff suchend
 searched on a search term>nach einem Suchbegriff gesucht
-Did you search on >Hast du nach „Zoe“ oder nach „Zoë“ gesucht?
+Did you search on >Hast du nach �?Zoe“ oder nach �?Zoë“ gesucht?
 quest for/after b/sth.>nach jdn./etw. suchen,forschen
 questing>suchend,forschend
 quested>gesucht,geforscht
@@ -74060,7 +74060,7 @@ The crisis was self-fulfilling.>Die Krise wurde herbeigeredet.
 Expecting something to be bad/go wrong can turn out to be a self-fulfilling prophecy.>Eine negative Erwartungshaltung kann das Befürchtete tatsächlich herbeiführen.
 He has said he is to be a one-term president, which may prove to be a self-fulfilling prophecy.>Er hat gesagt, dass er ein Präsident für eine Amtszeit ist, und das könnte sich nun tatsächlich bewahrheiten.
 sure enough>und tatsächlich,dann auch,I said she'd forget, and sure enough she did.,Ich habe gesagt, sie wird das vergessen, und so war es dann auch.
-'>„Halt“, sagte er, „ich höre etwas“, und tatsächlich hörten wir in der Ferne ein Auto, das näherkam.
+'>�?Halt“, sagte er, �?ich höre etwas“, und tatsächlich hörten wir in der Ferne ein Auto, das näherkam.
 doddery>tattrig,tatterig
 deaf>taub,gehörlos,deaf, hard of hearing, and hearing individuals,gehörlose, schwerhörige und hörende Personen,turn a deaf ear (to),nichts hören wollen (von),be deaf in one ear,auf einem Ohr taub sein
 numb>taub,gefühllos,empfindungslos,My feet were numb with cold.,Meine Füße waren vor Kälte wie abgestorben.
@@ -74141,7 +74141,7 @@ labeling>taufend,abstempelnd,titulierend
 dubbing>taufend,abstempelnd,titulierend
 named>getauft,abgestempelt,tituliert
 labeled>getauft,abgestempelt,tituliert
-dubbed>getauft,abgestempelt,tituliert,The skeleton was found in the Alps and dubbed"The Iceman".,Das Skelett wurde in den Alpen gefunden und „Eismann“ getauft.
+dubbed>getauft,abgestempelt,tituliert,The skeleton was found in the Alps and dubbed"The Iceman".,Das Skelett wurde in den Alpen gefunden und �?Eismann“ getauft.
 be labelled a criminal>als Verbrecher abgestempelt werden
 moist with dew>taufeucht
 dewy>taufeucht,tauig
@@ -74848,7 +74848,7 @@ raving mad>tobsüchtig
 daughterly>töchterlich
 deadly serious>todernst
 po-faced>todernst,say sth., po-faced,etw. mit todernster Miene sagen,Don't be so po-faced about everything!,Nimm das doch nicht alles so fürchterlich ernst!
-unhumorously>todernst,humorlos,'No'he said unhumorously.,„Nein“, sagte er todernst.
+unhumorously>todernst,humorlos,'No'he said unhumorously.,�?Nein“, sagte er todernst.
 unhumorosly>todernst,humorlos
 deathlike>todesähnlich,Todes…,Toten…,a deathlike state,ein todesähnlicher Zustand
 deathly>todesähnlich,Todes…,Toten…,in deathly fear,in Todesangst,There was a deathly silence/deathly hush.,Es herrschte Totenstille.

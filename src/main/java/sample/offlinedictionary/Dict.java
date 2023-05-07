@@ -12,7 +12,6 @@ import java.util.Scanner;
 public class Dict {
 
     HashMap<String, Words> turEngMap = new HashMap<String, Words>();
-
     HashMap<String, Words> engTurMap = new HashMap<String, Words>();
     HashMap<String, Words> engItaMap = new HashMap<String, Words>();
     HashMap<String, Words> itaEngMap = new HashMap<String, Words>();
@@ -27,13 +26,14 @@ public class Dict {
 
 
 
-
-
-
     public void turEng() throws Exception {
+        turEngMap.clear();
 
         BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("tur-eng.txt"), "UTF-8"));
         for (String line = br.readLine(); line != null; line = br.readLine()) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("tr", "TR"));
             String meaning = parsedLine[1].toLowerCase(new Locale("tr", "TR"));
@@ -53,18 +53,42 @@ public class Dict {
         return null;
     }
 
-    public void turEngSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : turEngMap.keySet()) {
-            Words w = turEngMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
-        }
-        bw.close();
+
+    public void turEngAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("tur-eng.txt", StandardCharsets.UTF_8,  true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord.toLowerCase(Locale.ROOT));
+        bufferedWriter.newLine();
+        bufferedWriter.close();
     }
 
+    public void turEngDeleteWord(String deleteWord) throws Exception{
+
+
+        File inputFile = new File("tur-eng.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord)) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("tr", "TR"));
+                String meaning = words[1].toLowerCase(new Locale("tr", "TR"));
+
+                turEngMap.remove(wordName);
+            }
+        }
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
+    }
     //
     //
     //
@@ -72,9 +96,14 @@ public class Dict {
     //
     //
     public void engTur() throws Exception {
+        engTurMap.clear();
 
         BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("eng-tur.txt"), "UTF-8"));
         for (String line = br.readLine(); line != null; line = br.readLine()) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
+
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("tr", "TR"));
             String meaning = parsedLine[1].toLowerCase(new Locale("tr", "TR"));
@@ -94,16 +123,38 @@ public class Dict {
         return null;
     }
 
-    public void engTurSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : engTurMap.keySet()) {
-            Words w = engTurMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void engTurAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("eng-tur.txt",StandardCharsets.UTF_8, true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord);
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+    }
+
+    public void engTurDeleteWord(String deleteWord) throws Exception{
+        File inputFile = new File("eng-tur.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord)) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("tr", "TR"));
+
+                engTurMap.remove(wordName);
+            }
         }
-        bw.close();
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
     }
 
 
@@ -114,8 +165,13 @@ public class Dict {
     //
     //
     public void engIta() throws Exception {
+        engItaMap.clear();
+
         BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("eng-ita.txt"), "UTF-8"));
         for (String line = br.readLine(); line != null; line = br.readLine()) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("tr", "TR"));
             String meaning = parsedLine[1].toLowerCase(new Locale("tr", "TR"));
@@ -135,16 +191,40 @@ public class Dict {
         return null;
     }
 
-    public void engItaSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : engItaMap.keySet()) {
-            Words w = engItaMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void engItaAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("eng-ita.txt",StandardCharsets.UTF_8, true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord);
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+    }
+
+    public void engItaDeleteWord(String deleteWord) throws Exception{
+
+
+        File inputFile = new File("eng-ita.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord)) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("tr", "TR"));
+
+                engItaMap.remove(wordName);
+            }
         }
-        bw.close();
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
     }
 
     //
@@ -154,8 +234,13 @@ public class Dict {
     //
     //
     public void itaEng() throws Exception {
+        itaEngMap.clear();
+
         BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("ita-eng.txt"), "UTF-8"));
         for (String line = br.readLine(); line != null; line = br.readLine()) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("tr", "TR"));
             String meaning = parsedLine[1].toLowerCase(new Locale("tr", "TR"));
@@ -175,16 +260,40 @@ public class Dict {
         return null;
     }
 
-    public void itaEngSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : itaEngMap.keySet()) {
-            Words w = itaEngMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void itaEngAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("ita-eng.txt", StandardCharsets.UTF_8,true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord);
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+    }
+
+    public void itaEngDeleteWord(String deleteWord) throws Exception{
+
+
+        File inputFile = new File("ita-eng.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord)) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("tr", "TR"));
+
+               itaEngMap.remove(wordName);
+            }
         }
-        bw.close();
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
     }
 
     //
@@ -194,11 +303,15 @@ public class Dict {
     //
     //
     public void engGre() throws Exception {
+        engGreMap.clear();
 
         BufferedReader br1 = new BufferedReader(new InputStreamReader(new FileInputStream("eng-ell.txt"), StandardCharsets.UTF_8));
         String line;
 
         while ((line = br1.readLine()) != null) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             if (parsedLine.length >= 2) {
                 String wordName = parsedLine[0].toLowerCase(new Locale("el", "GR"));
@@ -221,16 +334,42 @@ public class Dict {
         return null;
     }
 
-    public void engGreSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : engGreMap.keySet()) {
-            Words w = engGreMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void engGreAddWord(String addWord) throws Exception{
+
+        FileOutputStream outputStream = new FileOutputStream("eng-ell.txt",  true);
+        OutputStreamWriter writer = new OutputStreamWriter(outputStream, "UTF-8");
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord.toLowerCase(new Locale("el", "GR")));
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+
+    }
+
+    public void engGreDeleteWord(String deleteWord) throws Exception{
+
+
+        File inputFile = new File("eng-ell.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord.toLowerCase(new Locale("el", "GR")))) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("el", "GR"));
+
+                engGreMap.remove(wordName);
+            }
         }
-        bw.close();
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
     }
 
     //
@@ -240,12 +379,17 @@ public class Dict {
     //
     //
     public void greEng() throws Exception {
+        greEngMap.clear();
 
         FileInputStream fis = new FileInputStream("ell-eng.txt");
         InputStreamReader isr = new InputStreamReader(fis, StandardCharsets.UTF_8);
         BufferedReader br = new BufferedReader(isr);
 
         for (String line = br.readLine(); line != null; line = br.readLine()) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
+
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("el", "GR"));
             String meaning = parsedLine[1].toLowerCase(new Locale("el", "GR"));
@@ -265,16 +409,41 @@ public class Dict {
         return null;
     }
 
-    public void greEngSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : greEngMap.keySet()) {
-            Words w = greEngMap.get(i);
-            bw.write(w.wordName.toLowerCase(new Locale("el", "GR")));
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void greEngAddWord(String addWord) throws Exception{
+
+        FileOutputStream outputStream = new FileOutputStream("ell-eng.txt", true);
+        OutputStreamWriter writer = new OutputStreamWriter(outputStream, "UTF-8");
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord.toLowerCase(new Locale("el", "GR")));
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+
+    }
+
+    public void greEngDeleteWord(String deleteWord) throws Exception{
+
+        File inputFile = new File("ell-eng.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord.toLowerCase(new Locale("el", "GR")))) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("el", "GR"));
+
+                greEngMap.remove(wordName);
+            }
         }
-        bw.close();
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
     }
 
 
@@ -285,8 +454,13 @@ public class Dict {
     //
     //
     public void engFre() throws Exception {
+        engFreMap.clear();
+
         BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("eng-fra.txt"), "UTF-8"));
         for (String line = br.readLine(); line != null; line = br.readLine()) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("tr", "TR"));
             String meaning = parsedLine[1].toLowerCase(new Locale("tr", "TR"));
@@ -306,16 +480,40 @@ public class Dict {
         return null;
     }
 
-    public void engFraSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : engFreMap.keySet()) {
-            Words w = engFreMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void engFreAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("eng-fra.txt",StandardCharsets.UTF_8,  true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord);
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+    }
+
+    public void engFreDeleteWord(String deleteWord) throws Exception{
+
+
+        File inputFile = new File("eng-fra.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord)) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("fr", "FR"));
+
+                engFreMap.remove(wordName);
+            }
         }
-        bw.close();
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
     }
 
     //
@@ -325,8 +523,13 @@ public class Dict {
     //
     //
     public void freEng() throws Exception {
+        freEngMap.clear();
+
         BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("fra-eng.txt"), "UTF-8"));
         for (String line = br.readLine(); line != null; line = br.readLine()) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("tr", "TR"));
             String meaning = parsedLine[1].toLowerCase(new Locale("tr", "TR"));
@@ -346,16 +549,40 @@ public class Dict {
         return null;
     }
 
-    public void freEngSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : freEngMap.keySet()) {
-            Words w = freEngMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void freEngAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("fra-eng.txt", StandardCharsets.UTF_8,true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord);
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+    }
+
+    public void freEngDeleteWord(String deleteWord) throws Exception{
+
+
+        File inputFile = new File("fra-eng.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord)) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("tr", "TR"));
+
+                freEngMap.remove(wordName);
+            }
         }
-        bw.close();
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
     }
 
     //
@@ -365,8 +592,13 @@ public class Dict {
     //
     //
     public void engSwe() throws Exception {
+        engSweMap.clear();
+
         BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("eng-swe.txt"), "UTF-8"));
         for (String line = br.readLine(); line != null; line = br.readLine()) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("tr", "TR"));
             String meaning = parsedLine[1].toLowerCase(new Locale("tr", "TR"));
@@ -386,16 +618,40 @@ public class Dict {
         return null;
     }
 
-    public void engSweSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : engSweMap.keySet()) {
-            Words w = engSweMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void engSweAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("eng-swe.txt", StandardCharsets.UTF_8,true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord.toLowerCase(Locale.ROOT));
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+    }
+
+    public void engSweDeleteWord(String deleteWord) throws Exception{
+
+
+        File inputFile = new File("eng-swe.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord)) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("tr", "TR"));
+
+                engSweMap.remove(wordName);
+            }
         }
-        bw.close();
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
     }
 
     //
@@ -405,8 +661,13 @@ public class Dict {
     //
     //
     public void sweEng() throws Exception {
+        sweEngMap.clear();
+
         BufferedReader br = new BufferedReader(new InputStreamReader(new FileInputStream("swe-eng.txt"), "UTF-8"));
         for (String line = br.readLine(); line != null; line = br.readLine()) {
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("tr", "TR"));
             String meaning = parsedLine[1].toLowerCase(new Locale("tr", "TR"));
@@ -426,16 +687,40 @@ public class Dict {
         return null;
     }
 
-    public void sweEngSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : sweEngMap.keySet()) {
-            Words w = sweEngMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void sweEngAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("swe-eng.txt",StandardCharsets.UTF_8, true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord);
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+    }
+
+    public void sweEngDeleteWord(String deleteWord) throws Exception{
+
+
+        File inputFile = new File("swe-eng.txt");
+        File tempFile = new File("temp.txt");
+        BufferedReader reader = new BufferedReader(new FileReader(inputFile,Charset.forName("UTF-8")));
+        BufferedWriter writer = new BufferedWriter(new FileWriter(tempFile,Charset.forName("UTF-8")));
+        String line;
+        while ((line = reader.readLine()) != null) {
+            String[] words = line.split(">");
+            if (words.length > 0 && !words[0].equals(deleteWord)) {
+                writer.write(line + System.lineSeparator());
+                String wordName = words[0].toLowerCase(new Locale("tr", "TR"));
+
+                sweEngMap.remove(wordName);
+            }
         }
-        bw.close();
+        reader.close();
+        writer.flush();
+        writer.close();
+
+        inputFile.delete();
+        tempFile.renameTo(inputFile);
+
     }
 
 
@@ -446,19 +731,24 @@ public class Dict {
     //
     //
     public void engDeu() throws Exception {
+        engDeuMap.clear();
+
         Scanner scanner1 = new Scanner(Paths.get("eng-deu_1.txt"), "UTF-8");
         Scanner scanner2 = new Scanner(Paths.get("eng-deu_2.txt"), "UTF-8");
         Scanner scanner3 = new Scanner(Paths.get("eng-deu_3.txt"), "UTF-8");
         Scanner scanner4 = new Scanner(Paths.get("eng-deu_4.txt"), "UTF-8");
         Scanner scanner5 = new Scanner(Paths.get("eng-deu_5.txt"), "UTF-8");
-        BufferedReader br6 = new BufferedReader(new InputStreamReader(new FileInputStream("eng-deu_6.txt"), StandardCharsets.UTF_8));
+        BufferedReader br6 = new BufferedReader(new InputStreamReader(new FileInputStream("eng-deu_6.txt"), "UTF-8"));
 
 
         while (scanner1.hasNextLine()) {
             String line = scanner1.nextLine();
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("de", "AT"));
-            String meaning = parsedLine[parsedLine.length-2].toLowerCase(new Locale("de", "AT"));
+            String meaning = parsedLine[1].toLowerCase(new Locale("de", "AT"));
             Words word = new Words(wordName, meaning);
             engDeuMap.put(wordName, word);
         }
@@ -466,9 +756,12 @@ public class Dict {
 
         while (scanner2.hasNextLine()) {
             String line = scanner2.nextLine();
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("de", "AT"));
-            String meaning = parsedLine[parsedLine.length-2].toLowerCase(new Locale("de", "AT"));
+            String meaning = parsedLine[1].toLowerCase(new Locale("de", "AT"));
             Words word = new Words(wordName, meaning);
             engDeuMap.put(wordName, word);
         }
@@ -476,9 +769,12 @@ public class Dict {
 
         while (scanner3.hasNextLine()) {
             String line = scanner3.nextLine();
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("de", "AT"));
-            String meaning = parsedLine[parsedLine.length-2].toLowerCase(new Locale("de", "AT"));
+            String meaning = parsedLine[1].toLowerCase(new Locale("de", "AT"));
             Words word = new Words(wordName, meaning);
             engDeuMap.put(wordName, word);
         }
@@ -486,9 +782,12 @@ public class Dict {
 
         while (scanner4.hasNextLine()) {
             String line = scanner4.nextLine();
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("de", "AT"));
-            String meaning = parsedLine[parsedLine.length-2].toLowerCase(new Locale("de", "AT"));
+            String meaning = parsedLine[1].toLowerCase(new Locale("de", "AT"));
             Words word = new Words(wordName, meaning);
             engDeuMap.put(wordName, word);
         }
@@ -496,19 +795,25 @@ public class Dict {
 
         while (scanner5.hasNextLine()) {
             String line = scanner5.nextLine();
+            if (!line.contains(">")) {
+                continue; // skip this line
+            }
             String[] parsedLine = line.split(">");
             String wordName = parsedLine[0].toLowerCase(new Locale("de", "AT"));
-            String meaning = parsedLine[parsedLine.length-2].toLowerCase(new Locale("de", "AT"));
+            String meaning = parsedLine[1].toLowerCase(new Locale("de", "AT"));
             Words word = new Words(wordName, meaning);
             engDeuMap.put(wordName, word);
         }
 
 
-        String satir;
-        while ((satir = br6.readLine()) != null) {
-            int aIndeksi = satir.indexOf(">");
-            String wordName = satir.substring(0, aIndeksi).toLowerCase(new Locale("de", "AT")); // 0. indeks'ten > karakterinin öncesini al
-            String meaning = satir.substring(aIndeksi+1).toLowerCase(new Locale("de", "AT"));
+        String satir6;
+        while ((satir6 = br6.readLine()) != null) {
+            if (!satir6.contains(">")) {
+                continue; // skip this line
+            }
+            int aIndeksi = satir6.indexOf(">");
+            String wordName = satir6.substring(0, aIndeksi).toLowerCase(new Locale("de", "AT")); // 0. indeks'ten > karakterinin öncesini al
+            String meaning = satir6.substring(aIndeksi + 1).toLowerCase(new Locale("de", "AT"));
             Words word = new Words(wordName, meaning);
             engDeuMap.put(wordName, word);
         }
@@ -527,17 +832,53 @@ public class Dict {
         return null;
     }
 
-    public void engDeuSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : engDeuMap.keySet()) {
-            Words w = engDeuMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
-        }
-        bw.close();
+
+    public void engDeuAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("eng-deu_6.txt",StandardCharsets.UTF_8, true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord);
+        bufferedWriter.newLine();
+        bufferedWriter.close();
     }
+
+    public void engDeuDeleteWord(String deleteWord)throws Exception {
+        String[] fileNames = new String[6];
+
+        fileNames[0] = "eng-deu_1.txt";
+        fileNames[1] = "eng-deu_2.txt";
+        fileNames[2] = "eng-deu_3.txt";
+        fileNames[3] = "eng-deu_4.txt";
+        fileNames[4] = "eng-deu_5.txt";
+        fileNames[5] = "eng-deu_6.txt";
+
+        for (String fileName : fileNames) {
+            File inputFile1 = new File(fileName);
+            File tempFile1 = new File("temp.txt");
+            BufferedReader reader1 = new BufferedReader(new FileReader(inputFile1,Charset.forName("UTF-8")));
+            BufferedWriter writer1 = new BufferedWriter(new FileWriter(tempFile1,Charset.forName("UTF-8")));
+            String line1;
+            while ((line1 = reader1.readLine()) != null) {
+                String[] words = line1.split(">");
+                if (words.length > 0 && !words[0].equals(deleteWord)) {
+                    writer1.write(line1 + System.lineSeparator());
+                    String wordName = words[0].toLowerCase(new Locale("tr", "TR"));
+
+                    deuEngMap.remove(wordName);
+                }
+            }
+            reader1.close();
+            writer1.flush();
+            writer1.close();
+
+            inputFile1.delete();
+            tempFile1.renameTo(inputFile1);
+
+
+        }
+    }
+
+
 
     //
     //
@@ -546,10 +887,14 @@ public class Dict {
     //
     //
     public void deuEng() throws Exception {
+        deuEngMap.clear();
 
         BufferedReader br1 = new BufferedReader(new InputStreamReader(new FileInputStream("deu-eng_11.txt"), StandardCharsets.UTF_8));
         String satir;
         while ((satir = br1.readLine()) != null) {
+            if (!satir.contains(">")) {
+                continue; // skip this line
+            }
             int aIndeksi = satir.indexOf(">");
             String wordName = satir.substring(0, aIndeksi).toLowerCase(new Locale("de", "AT")); // 0. indeks'ten > karakterinin öncesini al
             String meaning = satir.substring(aIndeksi+1).toLowerCase(new Locale("de", "AT"));
@@ -561,6 +906,9 @@ public class Dict {
         BufferedReader br2 = new BufferedReader(new InputStreamReader(new FileInputStream("deu-eng_22.txt"), StandardCharsets.UTF_8));
         String satir2;
         while ((satir2 = br2.readLine()) != null) {
+            if (!satir2.contains(">")) {
+                continue; // skip this line
+            }
             int aIndeksi = satir2.indexOf(">");
             String wordName = satir2.substring(0, aIndeksi).toLowerCase(new Locale("de", "AT")); // 0. indeks'ten > karakterinin öncesini al
             String meaning = satir2.substring(aIndeksi+1).toLowerCase(new Locale("de", "AT"));
@@ -572,6 +920,9 @@ public class Dict {
         BufferedReader br3 = new BufferedReader(new InputStreamReader(new FileInputStream("deu-eng_33.txt"), StandardCharsets.UTF_8));
         String satir3;
         while ((satir3 = br3.readLine()) != null) {
+            if (!satir3.contains(">")) {
+                continue; // skip this line
+            }
             int aIndeksi = satir3.indexOf(">");
             String wordName = satir3.substring(0, aIndeksi).toLowerCase(new Locale("de", "AT")); // 0. indeks'ten > karakterinin öncesini al
             String meaning = satir3.substring(aIndeksi+1).toLowerCase(new Locale("de", "AT"));
@@ -583,6 +934,9 @@ public class Dict {
         BufferedReader br4 = new BufferedReader(new InputStreamReader(new FileInputStream("deu-eng_44.txt"), StandardCharsets.UTF_8));
         String satir4;
         while ((satir4 = br4.readLine()) != null) {
+            if (!satir4.contains(">")) {
+                continue; // skip this line
+            }
             int aIndeksi = satir4.indexOf(">");
             String wordName = satir4.substring(0, aIndeksi).toLowerCase(new Locale("de", "AT")); // 0. indeks'ten > karakterinin öncesini al
             String meaning = satir4.substring(aIndeksi+1).toLowerCase(new Locale("de", "AT"));
@@ -594,6 +948,9 @@ public class Dict {
         BufferedReader br5 = new BufferedReader(new InputStreamReader(new FileInputStream("deu-eng_55.txt"), StandardCharsets.UTF_8));
         String satir5;
         while ((satir5 = br5.readLine()) != null) {
+            if (!satir5.contains(">")) {
+                continue; // skip this line
+            }
             int aIndeksi = satir5.indexOf(">");
             String wordName = satir5.substring(0, aIndeksi).toLowerCase(new Locale("de", "AT")); // 0. indeks'ten > karakterinin öncesini al
             String meaning = satir5.substring(aIndeksi+1).toLowerCase(new Locale("de", "AT"));
@@ -614,16 +971,50 @@ public class Dict {
         return null;
     }
 
-    public void deuEngSaveRecords() throws Exception {
-        BufferedWriter bw = new BufferedWriter(new FileWriter("newDictionary.txt"));
-        for (String i : deuEngMap.keySet()) {
-            Words w = deuEngMap.get(i);
-            bw.write(w.wordName);
-            bw.write(",");
-            bw.write(w.meaning);
-            bw.write("\n");
+
+    public void deuEngAddWord(String addWord) throws Exception{
+
+        FileWriter writer = new FileWriter("deu-eng_55.txt", StandardCharsets.UTF_8,true);
+        BufferedWriter bufferedWriter = new BufferedWriter(writer);
+        bufferedWriter.write(addWord);
+        bufferedWriter.newLine();
+        bufferedWriter.close();
+
+    }
+
+    public void deuEngDeleteWord(String deleteWord)throws Exception{
+        String[] fileNames=new String[5];
+
+        fileNames[0]="deu-eng_11.txt";
+        fileNames[1]="deu-eng_22.txt";
+        fileNames[2]="deu-eng_33.txt";
+        fileNames[3]="deu-eng_44.txt";
+        fileNames[4]="deu-eng_55.txt";
+
+        for (String fileName : fileNames) {
+            File inputFile1 = new File(fileName);
+            File tempFile1 = new File("temp.txt");
+            BufferedReader reader1 = new BufferedReader(new FileReader(inputFile1,Charset.forName("UTF-8")));
+            BufferedWriter writer1 = new BufferedWriter(new FileWriter(tempFile1,Charset.forName("UTF-8")));
+            String line1;
+            while ((line1 = reader1.readLine()) != null) {
+                String[] words = line1.split(">");
+                if (words.length > 0 && !words[0].equals(deleteWord)) {
+                    writer1.write(line1 + System.lineSeparator());
+                    String wordName = words[0].toLowerCase(new Locale("tr", "TR"));
+
+                    deuEngMap.remove(wordName);
+                }
+            }
+            reader1.close();
+            writer1.flush();
+            writer1.close();
+
+            inputFile1.delete();
+            tempFile1.renameTo(inputFile1);
+
+
         }
-        bw.close();
     }
 }
 

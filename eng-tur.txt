@@ -885,7 +885,7 @@ amomum>(bot.) kakule.
 among>(edat.) arasına,arasında
 amoral>ahlâkdışı,ahlâk ile ilgisi  olmayan
 amorous>aşka meyilli,aşk izhar  eden
-amorphous>Sekişsiz,özelliği olmayan.  amorphism  Şekilsizlik.
+amorphous>Sekişsiz,özelliği olmayan.  amorphism  �?ekilsizlik.
 amortize>(-ing) (-tise)  (tic.) bir borcun anaparasını taksitlerle ödemek,amortize etmek. amortiza'tion  itfa
 amount>to ile,olmak
 amount>meblâğ,miktar
@@ -1028,7 +1028,7 @@ anglophone>İngilizce konuşan (Afrikada devlet veya şahıs)
 angora>Ankara. Angora cat  Ankara kedisi. Angora goat Ankara keçisi. Angora wool tiftik,moher.
 angry>öfkeli,hiddetli
 angstrom>(fiz.) radyo kısa dalga  ölçülerinde kullanılan santimin yüz milyonda  biri.
-anguish>Şiddetli ıstırap,acı
+anguish>�?iddetli ıstırap,acı
 angular>köşeli,zaviyeli
 angularity>açılı veya köşeli olma.
 anhelation>nefes darlığı.
@@ -1174,7 +1174,7 @@ antifebrile>ateş düşürücü.
 antifreeze>bir sıvının donmasını önleyen alaşım,antifriz.
 antifriction>sürtünmeye karşı.
 antigen>(tıb.) antijen.
-antihero>kibarlık ve Şereften uzak olan baş kahraman.
+antihero>kibarlık ve �?ereften uzak olan baş kahraman.
 antihistamine>(tıb.) antıhistamin.
 antiknock>(oto.) vuruntu kesici  yakıt ilâvesi.
 antilogarithm>(mat.) Logaritma oranında olan sayı.
@@ -4674,7 +4674,6 @@ captor>esir eden kimse ele geçiren kimse.
 capture>zaptetmek,zorla ele geçirmek
 caput>(çoğ.) capita) (anat.) herhangi bir maddenin üzerinde baş şeklinde bir çıkıntı teşkil eden kısım.
 capybara>Güney Amerika'ya mahsus kobaya benzer bir kemirgen.
-car>otomobil,araba
 carabineer>karabina denilen tüfeği kullanan asker.
 carabiniere>(çoğ.) -ri) italyan polisi.
 caracal>bir cins vaşak,karakulak
@@ -4904,8 +4903,6 @@ casual>tesadüfen olan,kasıtlı olmayan
 casualty>kazaya uğrayan kimse,(ask.) şehit
 casuist>ahlâk meseleleriyle ugraşan kimse. ahlâk kurallarını kendi isteğine göre yorumlamaya gayret eden kimse. casuis'(tic.)  ahlâk kurallarıyla ilgili,ahlak kurallarınl kendi çıkanna göre yorumlayan. casuis'tically  kendi çıkarına göre yorumlayarak.
 casus belli>(Lat.) savaşı gerektiren olay.
-cat>(kıs.) catalogue,catechism.
-cat>kedi,(zool.) Felis domestica
 cat-o'-nine-tails>dokuz kamçılı kırbaç.
 catabasis>iniş,(tıb.) bir hastalığın geçişi.
 catabolism>(biyol.) dokularda maddelerin karışımının bozularak daha basit maddeler haline gelmesi,anabolizmin karşıtı.
@@ -5456,7 +5453,7 @@ chiaroscuro>resimde ve tabiatta ışık ve gölge oyunu,ışık ve gölge sanat�
 chiasm>(anat.) kiyasma.
 chibouk>(T) çubuk.
 chic>şık,modaya uygun
-chicago>Şikago şehri.
+chicago>�?ikago şehri.
 chicane>hile,oyun
 chick>civciv,piliç
 chickadee>Kuzey Amerika'ya mahsus bir cins baştankara. (zool.) Parus.
@@ -5480,7 +5477,7 @@ childish>çocuksu,çocuğumsu
 childless>çocuksuz,çocuğu olmayan. childlessness  çocuksuzluk.
 childlike>çocuk ruhlu,masum
 children>(bak.) child.
-chile>Şili.
+chile>�?ili.
 chili>kırmızı biber,(bot.) Capsicum frutescens. chili con carne kıyma
 chiliad>bin,bin yıllık devre
 chiliasm>(ilah) isa'nın yeryüyüzünde bin yıl hüküm süreceği doktrini.
@@ -7891,8 +7888,8 @@ dam>(-med,-ming) baraj
 dam>ana hayvan.
 damage>zarar,ziyan
 damascene>hareli çizgilerle süslemek,kakma iş ile süslemek.
-damascus>Şam,Şam çeliği.
-damask>Şam'da dokunan çiçekli ipek kumaş,damasko (kumaş)
+damascus>�?am,�?am çeliği.
+damask>�?am'da dokunan çiçekli ipek kumaş,damasko (kumaş)
 dame>(ing) kadınlara verilen şövalyelik ayarında bir asalet unvanı,(eskiden) hanım
 damn>lanet etmek,takbih etmek
 damnation>Iânet,mahkumiyet
@@ -16630,7 +16627,7 @@ jealous>(kıs.)kanç,günücü
 jean>bir çeşit kaba pamuklu bez. jeans  bu bezden yapılan pantolon,blucin.
 jeep>cip.
 jeer>alay etmek,eğlenmek
-jehovah>Yehova,Allah (Tanrının İbraniceden İngilizceye geçen bir ismi) Jehovah' Witnesses Yehova Şahitleri.
+jehovah>Yehova,Allah (Tanrının İbraniceden İngilizceye geçen bir ismi) Jehovah' Witnesses Yehova �?ahitleri.
 jehu>eski İsrail kralı Yehu,atları çılgınca süren arabacı sürücü
 jejune>besleyici olmayan,kuvvetsiz
 jejunum>(anat.) incebağırsağın üst yarısı,boş bağırsak.
@@ -18397,7 +18394,7 @@ lymphatic>lenfatik,içinde lenf bulunan
 lynch>yargılamadan öldürmek,linç etmek. Iynch law linç kanunu.
 lynx>vaşak,kara kulak
 lyonaise>ince dilinmiş soğan ile pişirilmiş (patates)
-lyra>(astr.) Şilyak takım yıldızı.
+lyra>(astr.) �?ilyak takım yıldızı.
 lyre>(müz.) çenk,bir çeşit harp. lyre bird (zool.) Avustralya'ya mahsus ve kuyruğu çenk şeklinde bir çeşit kuş. lyrist çenk çalan kimse
 lyric>lirik,gazel
 lyse>(tıb.) kaybolmak,yok olmak (hastalık belirtisi
@@ -21967,7 +21964,7 @@ paisley>şal deseni,iskoçya'da bir şehir.
 pajamas>(çoğ.) pijama.
 pal>(-led,-ling) (k. dili) arkadaş dost
 palace>saray,saray gibi bina
-paladin>imparator Şarlman'ın maiyetinde bulunan on iki efsanevi asilzadeden biri,macera peşinde koşan şovalye
+paladin>imparator �?arlman'ın maiyetinde bulunan on iki efsanevi asilzadeden biri,macera peşinde koşan şovalye
 palanquin palankeen>tahtırevan.
 palatable>lezzetli,damak lezzeti veren
 palatal>damağa ait,(dilb.) dilin damağa dokunmasıyle çıkarılan (ses)
@@ -26559,7 +26556,7 @@ rogue>derbeder kimse,çapkın veya sefil kimse
 roguish>çapkın,derbeder
 roil>bulandırmak,sinirlendirmek
 roister>cümbüş etmek,gürültü etmek. roisterer cümbüşçü.
-roland>.imparator Şarlmanın efsanevi yeğeni ve en yiğit şövalyelerinden biri.
+roland>.imparator �?arlmanın efsanevi yeğeni ve en yiğit şövalyelerinden biri.
 role>.rol.
 roll>yuvarlamak,çevirmek
 roll>yuvarlanış,yuvarlayış
@@ -28278,7 +28275,7 @@ sherif>şerif.
 sheriff>kasabada polis şefi.
 sherlock>(argo.) detektif.
 sherry>beyaz İspanyol şarabı.
-shetland islands>Şetland adaları. Shetland pony midilli. Shetland wool Şetland yünü.
+shetland islands>�?etland adaları. Shetland pony midilli. Shetland wool �?etland yünü.
 shew>(İng.),(bak.) show.
 shewbread>mayasız ekmek,hamursuz.
 shewolf>dişi kurt.
@@ -28291,7 +28288,7 @@ shift>değişme,değişilen şey
 shift>yer değiştirmek,değiştirmek
 shiftless>uyuşuk,miskin
 shifty>hilekâr,aldatıcı. shiftily  hilekarlıkla. shiftiness  hilekarlık
-shiite , shiah>Şii. Şhiism  Şiilik.
+shiite , shiah>�?ii. �?hiism  �?iilik.
 shikar>avlanma,av
 shill>(argo.) sokak satıcısının veya kumarbazın müşteri çekmek için yanında bulundurduğu işlerini kızıştıran kimse,yem.
 shillalah, shillelagh>(İrl.) sopa,değnek.
@@ -28314,7 +28311,7 @@ shining>parlak,ışıltılı
 shinny>ABD,(k. dili) tırmanmak.
 shinny>bir çeşit hokey.
 shinplaster>(A.B.D.) marka,pul
-shinto>Şinto dini,Japonların ulusal dini. Shintoism  Şinto dini
+shinto>�?into dini,Japonların ulusal dini. Shintoism  �?into dini
 shiny>parlak,açık
 ship>(ped,ping) gemi
 ship>(sonek) lik: friendship.
@@ -29195,7 +29192,7 @@ sod>(-ded,-ding) çim
 soda>soda,karbonat
 sodality>arkadaşlık,cemiyet
 sodden>iyice ıslanmış,sırılsıklam
-sodium>(kim.) sodyum. sodium bicarbonate karbonat,sodyum bikarbonat. sodium carbonate adi soda. sodium hydroxide sodyum hidroksit. sodium nitrate Şili güherçilesi
+sodium>(kim.) sodyum. sodium bicarbonate karbonat,sodyum bikarbonat. sodium carbonate adi soda. sodium hydroxide sodyum hidroksit. sodium nitrate �?ili güherçilesi
 sodom>Tevrat'ın ilk kitabında bahsedilen kötülüğü ile meşhur Sodom şehri. Sodomite  Sodomlu,(k. h.) homoseksuel erkek
 soever>herhangi,her ne
 sofa>sedir,kanepe.
@@ -36585,4 +36582,5 @@ zymosis>fermantasyon,(tıb.) eskiden bulaşıcı hastalık meydana getirdiği fa
 zymotic>mayalanmadan ileri gelen,(tıb.) bulaşıcı hastalığa ait.
 zymurgy>kimyanın fermantasyyon dalı.
 zythum>eski Mısırlılara mahsus ve arpa suyundan yapılmış bira,boza.
-zzz>(ünlem) Horrr!
+cat>kedi
+car>araba

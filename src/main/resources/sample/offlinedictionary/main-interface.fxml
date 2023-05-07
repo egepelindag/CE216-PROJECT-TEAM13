@@ -12,7 +12,7 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="620.0" prefWidth="1000.0" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.offlinedictionary.Controller">
+<AnchorPane id="root" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" nodeOrientation="LEFT_TO_RIGHT" prefHeight="620.0" prefWidth="1000.0" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.offlinedictionary.Controller">
    <children>
       <HBox alignment="TOP_RIGHT" opacity="0.4" prefHeight="107.0" prefWidth="1000.0" style="-fx-background-color: black;">
          <children>
@@ -42,7 +42,7 @@
                   <Bloom />
                </effect>
             </Button>
-            <Button id="developersBtn" fx:id="developersBtn" alignment="CENTER" layoutX="470.0" layoutY="10.0" mnemonicParsing="false" onAction="#showDevs" prefHeight="107.0" prefWidth="264.0" stylesheets="@Style.css" text="DEVELOPERS" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+            <Button id="developersBtn" fx:id="developersBtn" alignment="CENTER" layoutX="470.0" layoutY="10.0" mnemonicParsing="false" onAction="#showDevs" prefHeight="107.0" prefWidth="264.0" stylesheets="@Style.css" text="DEVELOPERS" textFill="WHITE" wrapText="true">
                <font>
                   <Font name="Microsoft JhengHei" size="20.0" />
                </font>
@@ -50,7 +50,7 @@
                   <Bloom threshold="0.0" />
                </effect>
             </Button>
-            <Button id="editBtn" fx:id="editBtn" alignment="CENTER" mnemonicParsing="false" prefHeight="107.0" prefWidth="228.0" stylesheets="@Style.css" text="EDIT" textAlignment="CENTER" textFill="WHITE" wrapText="true">
+            <Button id="editBtn" fx:id="editBtn" alignment="CENTER" mnemonicParsing="false" onAction="#editSection" prefHeight="107.0" prefWidth="228.0" stylesheets="@Style.css" text="SETTINGS" textAlignment="CENTER" textFill="WHITE" wrapText="true">
                <font>
                   <Font name="Microsoft JhengHei" size="20.0" />
                </font>
@@ -76,12 +76,12 @@
             </Button>
          </children>
       </HBox>
-      <Label fx:id="helpMenu" alignment="TOP_LEFT" layoutX="775.0" layoutY="174.0" prefHeight="240.0" prefWidth="210.0" textFill="WHITE">
+      <Label fx:id="helpMenu" alignment="TOP_LEFT" layoutX="732.0" layoutY="174.0" prefHeight="255.0" prefWidth="253.0" textFill="WHITE">
          <font>
             <Font size="18.0" />
          </font>
       </Label>
-      <Label fx:id="devsMenu" alignment="TOP_LEFT" layoutX="775.0" layoutY="426.0" prefHeight="180.0" prefWidth="210.0" textFill="WHITE">
+      <Label fx:id="devsMenu" alignment="TOP_LEFT" layoutX="732.0" layoutY="426.0" prefHeight="180.0" prefWidth="253.0" textFill="WHITE">
          <font>
             <Font size="18.0" />
          </font>
@@ -99,7 +99,7 @@
          </children>
       </Pane>
       <TextField fx:id="searchText" layoutX="33.0" layoutY="116.0" prefHeight="32.0" prefWidth="253.0" promptText="Enter Text" />
-      <TextArea fx:id="translateArea" editable="false" layoutX="21.0" layoutY="161.0" prefHeight="442.0" prefWidth="750.0">
+      <TextArea fx:id="translateArea" editable="false" layoutX="21.0" layoutY="161.0" prefHeight="442.0" prefWidth="700.0">
          <font>
             <Font size="21.0" />
          </font></TextArea>

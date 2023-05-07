@@ -2081,7 +2081,7 @@ see eye to eye with sb.>mit jdm. einer Meinung sein,jdm. zustimmen,mit jdm. übe
 I quite agree.>Da bin ich ganz/völlig deiner Meinung.,Da bin ich ganz bei dir.
 I agree completely.>Da bin ich ganz/völlig deiner Meinung.,Da bin ich ganz bei dir.,He says that things can't go on like this, and I agree completely.,Wenn er sagt, dass es so nicht weitergehen kann, dann bin ich ganz bei ihm.
 I couldn>Da bin ich ganz/völlig deiner Meinung.,Da bin ich ganz bei dir.
-'>„Ganz meine Meinung“, sagte er zustimmend / stimmte er zu.
+'>�?Ganz meine Meinung“, sagte er zustimmend / stimmte er zu.
 I concur.>Ich schließe mich an.
 Are we agreed then?>Sind also alle einverstanden?
 Teenagers and their parents rarely agree.>Jugendliche und ihre Eltern sind selten einer Meinung.
@@ -7223,8 +7223,8 @@ mononuclear leucocytosis>Monozytenanstieg,Monozytenvermehrung im Blut,Monozytose
 monster>Monster
 monsters>Monster
 grue>Monster
-bigfoot>mysteriöses behaartes „Monster“ Nordamerikas
-sasquatch>mysteriöses behaartes „Monster“ Nordamerikas
+bigfoot>mysteriöses behaartes �?Monster“ Nordamerikas
+sasquatch>mysteriöses behaartes �?Monster“ Nordamerikas
 monster film>Monsterfilm,Mammutfilm
 monster hunt>Monsterjagd
 monster hunts>Monsterjagden
@@ -9750,9 +9750,9 @@ tuplet>N-Tole
 Now, now!>Na, na, na!
 Now now, Tommy, stop hitting Annika.>Na, na, na! Tommy, hör auf, Annika zu schlagen.
 So what?>Na und?,Was soll's?
-Big deal!>Na und?,Was soll's?,'He's going to be angry.''Big deal!',„Er wird sauer sein“. „Na und?“
+Big deal!>Na und?,Was soll's?,'He's going to be angry.''Big deal!',�?Er wird sauer sein“. �?Na und?“
 Well, so what!>Na wenn schon!,So he earns more than me. Well, so what!,Er verdient also mehr als ich. Na wenn schon!
-Big deal!>Na wenn schon!,'I did 9,000 steps today'.'Big deal! I did 12,000.',„Ich bin heute 9.000 Schritte gegangen.“ „Na wenn schon! Ich bin 12.000 gegangen.“
+Big deal!>Na wenn schon!,'I did 9,000 steps today'.'Big deal! I did 12,000.',�?Ich bin heute 9.000 Schritte gegangen.“ �?Na wenn schon! Ich bin 12.000 gegangen.“
 hub>Nabe,Radnabe,three-speed hub,Dreigang-Nabe,fixed sprocket hub,starre Nabe
 umbilical>Nabel…
 hub of the world>Nabel der Welt
@@ -11870,7 +11870,7 @@ go outside>die Nase hinausstecken
 peek out>die Nase hinausstecken
 tut/tut-tut about sth./sb.>über jdn./etw. die Nase rümpfen,sich über jdn./etw. das Maul zerreißen
 the tut-tutting about the excesses of political correctness>das Naserümpfen über die Auswüchse politischer Korrektheit
-'>„Immer noch nicht aus dem Bett heraußen?“, sagte sie naserümpfend.
+'>�?Immer noch nicht aus dem Bett heraußen?“, sagte sie naserümpfend.
 They are tut-tutted about behind their backs.>Hinter ihrem Rücken zerreißt man sich das Maul über sie.
 string along sb.>jdn. die ganze Zeit an der Nase herumführen,jdm. die ganze Zeit etwas vormachen
 nose fin>Nasen-Finne
@@ -13941,7 +13941,7 @@ disuse>Nichtgebrauch,Nichtanwendung,Nichtnutzung,Verzicht auf den Einsatz
 non-use>Nichtgebrauch,Nichtanwendung,Nichtnutzung,Verzicht auf den Einsatz,non-use of chemical weapons,Verzicht auf den Einsatz von Chemiewaffen,non-use of force,Verzicht auf Gewaltanwendung
 Go to the bottom of the class!>Nichtgenügend, setzen!,Ab, in die Ecke!,Ab ins Winkerl!
 feel like you need to go to the bottom of the class>sich wie der letzte Idiot vorkommen
-Go to the bottom of the class and do 50 lines: >Nichtgenügend, setzen und und 50 Mal den Satz schreiben: „Ich soll nicht solche Sachen anziehen.“
+Go to the bottom of the class and do 50 lines: >Nichtgenügend, setzen und und 50 Mal den Satz schreiben: �?Ich soll nicht solche Sachen anziehen.“
 If you don>Wenn Sie nicht wissen, was eine Ringdrossel ist, dann ab in die Ecke und schämen!
 Go to the bottom of the class for being such a narrow-minded person.>Bei so viel Engstirnigkeit kann man nur sagen: Ab ins Winkerl und schämen Sie sich!
 Compared to all you lot I>Gegen euch bin ich ein blutiger Anfänger.
@@ -14314,7 +14314,7 @@ drizzle>Nieselregen,Sprühregen
 mizzle>Nieselregen,Sprühregen
 fits of sneezing>Niesanfall
 fits of sternutation>Niesanfall
-sneeze>Niesen,Nieser,at every sneeze,bei jedem Nieser,say"Bless you"in response to a sneeze,auf einen Nieser „Gesundheit“ sagen
+sneeze>Niesen,Nieser,at every sneeze,bei jedem Nieser,say"Bless you"in response to a sneeze,auf einen Nieser �?Gesundheit“ sagen
 sneezing>Niesen
 sternutation>Niesen
 sneezing hygiene>Nieshygiene,Niesetikette
@@ -14499,7 +14499,7 @@ brain up>das (geistige) Niveau heben/hinaufschrauben
 be on a par with sb./sth.>auf dem gleichen Niveau sein wie jd./etw.,auf der gleichen Stufe stehen wie jd./etw.
 a road network on a par with that of a third world country>ein Straßennetz, das auf dem gleichen Niveau ist wie das eines Entwicklungslandes
 Messi has shown he is on a par with the best players in the world.>Messi hat gezeigt, dass er mit den besten Spielern der Welt mithalten kann.
-The film is on a par with Fellini>Der Film steht auf einer Stufe mit Fellinis „8 ½“, was die emotionale Wirkung angeht.
+The film is on a par with Fellini>Der Film steht auf einer Stufe mit Fellinis �?8 ½“, was die emotionale Wirkung angeht.
 uncouthness>Nivaulosigkeit,Provinzialität,Primitivität,Proletenhaftigkeit,the uncouthness of the town,die Provinzialität der Stadt
 levelling bottle>Niveauflasche
 level sensor>Niveaugeber
@@ -15766,7 +15766,7 @@ net living area>Wohnnutzfläche
 timber>Nutzholz,Bauholz
 construction timber>Nutzholz,Bauholz
 structural timber>Nutzholz,Bauholz
-He shouted >Er rief „Baum fällt“, als sich die Fichte zu Boden neigte.
+He shouted >Er rief �?Baum fällt“, als sich die Fichte zu Boden neigte.
 information channel>Nutzkanal
 information channels>Nutzkanäle
 traffic channel in mobile communications>Nutzkanal im Mobilfunk
@@ -15955,9 +15955,9 @@ wall cupboards>Oberbauschränke,Oberschränke,Oberbaukasterl
 permanent-way staff>Oberbauüberwachungspersonal,Personal des Bahnüberwachungs- und -instandhaltungsdiensts
 generic term>Oberbegriff,Überbegriff,übergeordneter Begriff,Hyperonym
 broader term>Oberbegriff,Überbegriff,übergeordneter Begriff,Hyperonym
-superordinate>Oberbegriff,Überbegriff,übergeordneter Begriff,Hyperonym,'Injury'is the superordinate/hypernym of'wound'.,„Verletzung“ ist der Überbegriff zu „Wunde“.
+superordinate>Oberbegriff,Überbegriff,übergeordneter Begriff,Hyperonym,'Injury'is the superordinate/hypernym of'wound'.,�?Verletzung“ ist der Überbegriff zu �?Wunde“.
 hyperonym>Oberbegriff,Überbegriff,übergeordneter Begriff,Hyperonym
-hypernym>Oberbegriff,Überbegriff,übergeordneter Begriff,Hyperonym,'Injury'is the superordinate/hypernym of'wound'.,„Verletzung“ ist der Überbegriff zu „Wunde“.
+hypernym>Oberbegriff,Überbegriff,übergeordneter Begriff,Hyperonym,'Injury'is the superordinate/hypernym of'wound'.,�?Verletzung“ ist der Überbegriff zu �?Wunde“.
 generic terms>Oberbegriffe,Überbegriffe,übergeordneter Begriffe,Hyperonyme
 broader terms>Oberbegriffe,Überbegriffe,übergeordneter Begriffe,Hyperonyme
 superordinates>Oberbegriffe,Überbegriffe,übergeordneter Begriffe,Hyperonyme
@@ -16427,7 +16427,7 @@ care>Obhut,in the care of sb.,in der Obhut von jdm.,in jds. Obhut,in sb.'s care,
 charge>Obhut,in the charge of sb.,in der Obhut von jdm.,in jds. Obhut,in sb.'s charge,in der Obhut von jdm.,in jds. Obhut
 custody>Obhut,in the custody of sb.,in der Obhut von jdm.,in jds. Obhut,in sb.'s custody,in der Obhut von jdm.,in jds. Obhut
 position of trust>Obhutsverhältnis,be in a position of trust towards a charge,in einem Obhutsverhältnis zu einem Schutzbefohlenen stehen
-object>Objekt,In'He gave me the money'the direct object is'money'and the indirect object is'me'.,Bei „Er gab mir das Geld“ ist „Geld“ das Akkusativobjekt und „mir“ das Dativobjekt.
+object>Objekt,In'He gave me the money'the direct object is'money'and the indirect object is'me'.,Bei �?Er gab mir das Geld“ ist �?Geld“ das Akkusativobjekt und �?mir“ das Dativobjekt.
 cathexis>Objektbesetzung,Besetzung,Kathexis,anti-cathexis,Gegenbesetzung
 object relation>Objekbeziehung
 object relations>Objekbeziehungen
@@ -17278,7 +17278,7 @@ protruding ears>abstehende Ohren
 jug ears>abstehende Ohren
 keep one>die Ohren steif halten
 nag sb. about sth.>jdm. mit etw. in den Ohren liegen
-ear>Ohr,have an ear for rhythm and melody,ein (gutes) Ohr für Rhythmus und Melodie haben,The sentence sounds odd to my ears without the"it.",Ohne das „es“ klingt der Satz in meinen Ohren komisch.,This is music to my ears.,Das ist Musik in meinen Ohren.
+ear>Ohr,have an ear for rhythm and melody,ein (gutes) Ohr für Rhythmus und Melodie haben,The sentence sounds odd to my ears without the"it.",Ohne das �?es“ klingt der Satz in meinen Ohren komisch.,This is music to my ears.,Das ist Musik in meinen Ohren.
 perk up your ears>die Ohren spitzen
 talk sb.s>jdm. ein Ohr abkauen,jdn. vollsülzen
 bend sb.s>jdm. ein Ohr abkauen,jdn. vollsülzen
@@ -18112,7 +18112,7 @@ neatening>Ordnung machend
 neatened>Ordnung gemacht
 neatens>macht Ordnung
 neatened>machte Ordnung
-all right>in Ordnung,ok,Is it all right to bring my dog?,Geht es in Ordnung, wenn ich meinen Hund mitbringe?,'Thanks for your help.''That's quite all right.',„Danke für deine Hilfe!“ „Das ist schon in Ordnung.“,Are you all right?,Ist alles in Ordnung mit dir?,Geht es dir gut?,Everything is all right.,Es ist alles in Ordnung.,Es ist alles paletti.,That's all right.,Das geht schon in Ordnung.
+all right>in Ordnung,ok,Is it all right to bring my dog?,Geht es in Ordnung, wenn ich meinen Hund mitbringe?,'Thanks for your help.''That's quite all right.',�?Danke für deine Hilfe!“ �?Das ist schon in Ordnung.“,Are you all right?,Ist alles in Ordnung mit dir?,Geht es dir gut?,Everything is all right.,Es ist alles in Ordnung.,Es ist alles paletti.,That's all right.,Das geht schon in Ordnung.
 ok>in Ordnung,ok
 All right!>In Ordnung!,Ist recht!
 Okey!>In Ordnung!,Ist recht!
@@ -18814,7 +18814,7 @@ turnout gear>Einsatzkleidung
 bunker gear>Einsatzkleidung
 running togs>Laufsachen
 sb.>jds. Outing als Homosexueller
-outplacement>Outplacement,„Umsetzung“ von Führungskräften
+outplacement>Outplacement,�?Umsetzung“ von Führungskräften
 interlocking kernel output value>Outputwert des Stellwerkskerns
 overactor>Outrant
 ham actor>Outrant
@@ -19963,7 +19963,7 @@ parabola>Parabel,vertex of the parabola,Scheitelpunkt der Parabel
 parabolas>Parabeln
 parable>Parabel,Gleichnis,the biblical parable of the prodigal son,das biblische Gleichnis vom verlorenen Sohn
 parables>Parabeln,Gleichnisse
-the famous Ring Parable in >die berühmte Ringparabel in „Nathan der Weise“ von Lessing
+the famous Ring Parable in >die berühmte Ringparabel in �?Nathan der Weise“ von Lessing
 parabolic arc>Parabelbogen
 parabolic arcs>Parabelbögen
 dish antenna>Parabolantenne
@@ -20462,7 +20462,7 @@ the parties to a dispute>die streitenden Parteien
 contracting parties>vertragsschließende Parteien
 Both parties are confident an agreement can be reached.>Beide Seiten sind zuversichtlich, dass eine Vereinbarung möglich ist.
 PDS>Partei des Demokratischen Sozialismus
-WASG>Partei „Arbeit&soziale Gerechtigkeit - Die Wahlalternative“
+WASG>Partei �?Arbeit&soziale Gerechtigkeit - Die Wahlalternative“
 take sides>Partei ergreifen
 side with>Partei ergreifen
 take sb.>jds. Partei ergreifen
@@ -21367,7 +21367,7 @@ be hard lines/hard cheese on sb.>Pech gehabt haben
 If the weather should be bad, then hard luck.>Sollte das Wetter schlecht sein, haben wir Pech gehabt.
 It>Für die, die's nicht geschafft haben, ist es Pech.
 If he doesn>Wenn's ihm nicht gefällt, dann hat er halt Pech gehabt!
-'>„Nur eine Minute weniger und wir hätten den Rekord eingestellt.“ „Da habt ihr aber wirklich Pech gehabt!“.
+'>�?Nur eine Minute weniger und wir hätten den Rekord eingestellt.“ �?Da habt ihr aber wirklich Pech gehabt!“.
 pitchblende>Pechblende
 black blende>Pechblende
 nasturan>Pechblende
@@ -23658,7 +23658,7 @@ compulsory subjects>Pflichtfächer
 common core>Pflichtfächer
 mandatory field>Pflichtfeld
 mandatory fields>Pflichtfelder
-required reading>Pflichtlektüre,'Hamlet'is required reading in this course.,„Hamlet“ ist Pflichtlektüre in dieser Lehrveranstaltung.
+required reading>Pflichtlektüre,'Hamlet'is required reading in this course.,�?Hamlet“ ist Pflichtlektüre in dieser Lehrveranstaltung.
 obligatory reinsurance>Pflichtrückversicherung
 compulsory schooling age>Pflichtschulalter
 compulsory school>Pflichtschule,Schulobligatorium,after completing/leaving compulsory school(ing),nach Abschluss der Pflichtschule,people whose highest completed level of education is compulsory schooling,Personen, deren höchste abgeschlossene Ausbildung die Pflichtschule ist,leave compulsory school with incomplete certificates,die Pflichtschule ohne Abschluss verlassen
@@ -26908,7 +26908,7 @@ postulates>Postulate
 demands>Postulate
 posit>Postulat
 posits>Postulate
-postal note>Postvermerk,The parcel came back to us with the postal note'not claimed'.,Das Päckchen kam mit dem Postvermerk „nicht abgeholt“ zurück.
+postal note>Postvermerk,The parcel came back to us with the postal note'not claimed'.,Das Päckchen kam mit dem Postvermerk �?nicht abgeholt“ zurück.
 postal notes>Postvermerke
 postage>Postversand,depending on postage times,je nach Dauer des Postversands,Proof of postage is required.,Nachweis des Postversands erforderlich.
 postal shipping>Postversand
@@ -30315,7 +30315,7 @@ scripted reality>Pseudo-Dokumentation
 pseudocereals>Pseudocerealien,Pseudogetreide
 pseudoinverse>Pseudoinverse
 pseudocode>Pseudokode
-pseudonym>Pseudonym,angenommener Name,under the pseudonym'Sanchez',unter dem Pseudonym „Sanchez“,under the pseudonym of'Sanchez',unter dem Pseudonym „Sanchez“,use a pseudonym,ein Pseudonym benutzen
+pseudonym>Pseudonym,angenommener Name,under the pseudonym'Sanchez',unter dem Pseudonym �?Sanchez“,under the pseudonym of'Sanchez',unter dem Pseudonym �?Sanchez“,use a pseudonym,ein Pseudonym benutzen
 assumed name>Pseudonym,angenommener Name
 pseudonyms>Pseudonyme
 pseudonymously>unter einem Pseudonym
@@ -30917,7 +30917,7 @@ a chip in sb.>jds. wunder Punkt
 have a chip in your shoulder>überaus empfindlich wegen etw. sein,einen Komplex (wegen etw.) haben
 speck>schwarzer Punkt,kleiner schwarzer Fleck
 get to the heart of sth.>etw. auf den Punkt bringen
-the name of the game>der springende Punkt,das Entscheidende,das, worauf es ankommt,Avoiding weight regain, that's the name of the game when dieting.,Nicht wieder zuzunehmen, das ist der springende Punkt bei einer Diät.,In this computer game, not getting hit is the name of the game.,Bei diesem Computerspiel kommt es darauf an, nicht getroffen zu werden.,When versatility is the name of the game, the bigger model is the first choice.,Wenn Vielseitigkeit gefragt ist, dann ist das größere Modell die erste Wahl.,In July, sunshine and swimming are the name of the game.,Im Juli ist Baden und Sonnenschein angesagt.,'Give and take'is the name of the game.,„Geben und Nehmen“ lautet die Devise.,We chose him, because he knows the name of the game.,Wir haben ihn ausgewählt, weil er weiß, wie der Hase läuft.
+the name of the game>der springende Punkt,das Entscheidende,das, worauf es ankommt,Avoiding weight regain, that's the name of the game when dieting.,Nicht wieder zuzunehmen, das ist der springende Punkt bei einer Diät.,In this computer game, not getting hit is the name of the game.,Bei diesem Computerspiel kommt es darauf an, nicht getroffen zu werden.,When versatility is the name of the game, the bigger model is the first choice.,Wenn Vielseitigkeit gefragt ist, dann ist das größere Modell die erste Wahl.,In July, sunshine and swimming are the name of the game.,Im Juli ist Baden und Sonnenschein angesagt.,'Give and take'is the name of the game.,�?Geben und Nehmen“ lautet die Devise.,We chose him, because he knows the name of the game.,Wir haben ihn ausgewählt, weil er weiß, wie der Hase läuft.
 point-to-point>Punkt-zu-Punkt…
 point analysis>Punktanalyse
 point loading>Punktbelastung
@@ -36135,7 +36135,7 @@ legal text>Rechtstext,in a legal text,in einem Rechtstext
 legal texts>Rechtstexte
 warrantable title>Rechtstitel, für den eine Garantie abgegeben werden kann
 legal entity>Rechtsträger,Rechtskörper,Rechtssubjekt,Rechtspersönlichkeit,separate legal entity doctrine,Doktrin der eigenen Rechtspersönlichkeit von Tochtergesellschaften
-entity>Rechtsträger,Rechtskörper,Rechtssubjekt,Rechtspersönlichkeit,separate legal entity doctrine,Doktrin der eigenen Rechtspersönlichkeit von Tochtergesellschaften,For the purposes of this Contract, the term'entity'includes any enterprise or individual. (contractual phrase),Im Sinne dieses Vertrags umfasst die Bezeichnung „Rechtsträger“ Unternehmen oder Einzelpersonen. (Vertragsformel)
+entity>Rechtsträger,Rechtskörper,Rechtssubjekt,Rechtspersönlichkeit,separate legal entity doctrine,Doktrin der eigenen Rechtspersönlichkeit von Tochtergesellschaften,For the purposes of this Contract, the term'entity'includes any enterprise or individual. (contractual phrase),Im Sinne dieses Vertrags umfasst die Bezeichnung �?Rechtsträger“ Unternehmen oder Einzelpersonen. (Vertragsformel)
 legal body>Rechtsträger,Rechtskörper,Rechtssubjekt,Rechtspersönlichkeit
 legal entities>Rechtsträger,Rechtskörper,Rechtssubjekte,Rechtspersönlichkeiten
 entities>Rechtsträger,Rechtskörper,Rechtssubjekte,Rechtspersönlichkeiten
@@ -40989,9 +40989,9 @@ containable risk>überschaubares Risiko
 commercial risk>privatwirtschaftliches Risiko
 convertibility risk>Risiko der Nichtkonvertierung
 transfer risk>Risiko der Nichttransferierung
-chance>Risiko,I'm not willing to take that chance.,Ich bin nicht bereit, dieses Risiko auf mich zu nehmen.,It might not work, but it's a chance we'll have to take.,Es wird vielleicht nicht funktionieren, aber dieses Risiko müssen wir eingehen.,'You might not succeed.''I know, but I'll take my chances anyway.',„Es könnte auch schiefgehen.“ „Ich weiß, aber ich riskiere es trotzdem.“,She cannot afford to take any chances.,Sie kann es sich nicht leisten, irgendein Risiko einzugehen.,After losing 300 escudos last time, I'm not taking any chances this time.,Nachdem ich das letzte Mal 300 Escudos verloren habe, gehe ich diesmal kein Risiko mehr ein.,It was probably safe, but I was taking no chances / I wasn't taking any chances.,Es war wahrscheinlich eine sichere Sache, aber ich wollte kein Risiko eingehen.,He's not afraid to take chances.,Er scheut das Risiko nicht.,Er scheut sich nicht, auch etwas zu riskieren.
-chances>Risiko,'You might not succeed.''I know, but I'll take my chances anyway.',„Es könnte auch schiefgehen.“ „Ich weiß, aber ich riskiere es trotzdem.“,She cannot afford to take any chances.,Sie kann es sich nicht leisten, irgendein Risiko einzugehen.,After losing 300 escudos last time, I'm not taking any chances this time.,Nachdem ich das letzte Mal 300 Escudos verloren habe, gehe ich diesmal kein Risiko mehr ein.,It was probably safe, but I was taking no chances / I wasn't taking any chances.,Es war wahrscheinlich eine sichere Sache, aber ich wollte kein Risiko eingehen.,He's not afraid to take chances.,Er scheut das Risiko nicht.,Er scheut sich nicht, auch etwas zu riskieren.
-chances>Risiken,'You might not succeed.''I know, but I'll take my chances anyway.',„Es könnte auch schiefgehen.“ „Ich weiß, aber ich riskiere es trotzdem.“,She cannot afford to take any chances.,Sie kann es sich nicht leisten, irgendein Risiko einzugehen.,After losing 300 escudos last time, I'm not taking any chances this time.,Nachdem ich das letzte Mal 300 Escudos verloren habe, gehe ich diesmal kein Risiko mehr ein.,It was probably safe, but I was taking no chances / I wasn't taking any chances.,Es war wahrscheinlich eine sichere Sache, aber ich wollte kein Risiko eingehen.,He's not afraid to take chances.,Er scheut das Risiko nicht.,Er scheut sich nicht, auch etwas zu riskieren.
+chance>Risiko,I'm not willing to take that chance.,Ich bin nicht bereit, dieses Risiko auf mich zu nehmen.,It might not work, but it's a chance we'll have to take.,Es wird vielleicht nicht funktionieren, aber dieses Risiko müssen wir eingehen.,'You might not succeed.''I know, but I'll take my chances anyway.',�?Es könnte auch schiefgehen.“ �?Ich weiß, aber ich riskiere es trotzdem.“,She cannot afford to take any chances.,Sie kann es sich nicht leisten, irgendein Risiko einzugehen.,After losing 300 escudos last time, I'm not taking any chances this time.,Nachdem ich das letzte Mal 300 Escudos verloren habe, gehe ich diesmal kein Risiko mehr ein.,It was probably safe, but I was taking no chances / I wasn't taking any chances.,Es war wahrscheinlich eine sichere Sache, aber ich wollte kein Risiko eingehen.,He's not afraid to take chances.,Er scheut das Risiko nicht.,Er scheut sich nicht, auch etwas zu riskieren.
+chances>Risiko,'You might not succeed.''I know, but I'll take my chances anyway.',�?Es könnte auch schiefgehen.“ �?Ich weiß, aber ich riskiere es trotzdem.“,She cannot afford to take any chances.,Sie kann es sich nicht leisten, irgendein Risiko einzugehen.,After losing 300 escudos last time, I'm not taking any chances this time.,Nachdem ich das letzte Mal 300 Escudos verloren habe, gehe ich diesmal kein Risiko mehr ein.,It was probably safe, but I was taking no chances / I wasn't taking any chances.,Es war wahrscheinlich eine sichere Sache, aber ich wollte kein Risiko eingehen.,He's not afraid to take chances.,Er scheut das Risiko nicht.,Er scheut sich nicht, auch etwas zu riskieren.
+chances>Risiken,'You might not succeed.''I know, but I'll take my chances anyway.',�?Es könnte auch schiefgehen.“ �?Ich weiß, aber ich riskiere es trotzdem.“,She cannot afford to take any chances.,Sie kann es sich nicht leisten, irgendein Risiko einzugehen.,After losing 300 escudos last time, I'm not taking any chances this time.,Nachdem ich das letzte Mal 300 Escudos verloren habe, gehe ich diesmal kein Risiko mehr ein.,It was probably safe, but I was taking no chances / I wasn't taking any chances.,Es war wahrscheinlich eine sichere Sache, aber ich wollte kein Risiko eingehen.,He's not afraid to take chances.,Er scheut das Risiko nicht.,Er scheut sich nicht, auch etwas zu riskieren.
 play for safety>Risiken vermeiden
 accumulation of risk>Risikenhäufung
 counterparty risk>Risiko des Ausfalls der Gegenpartei
@@ -47919,7 +47919,7 @@ damage>Schaden,the damage to sb.'s reputation,der Schaden für jds. Reputation,t
 financial damage>materieller Schaden
 elemental damage>Elementarschaden
 mischief>Schaden,cause political mischief,politischen Schaden anrichten
-harm>Schaden,Unheil,do sb. harm,jdm. schaden,jdm. etw. antun,protect children from harm,Kinder vor Schaden bewahren,make sure that they won't come to any harm / that no harm will come to them,sichergehen, dass sie nicht zu Schaden kommen,The treatment does more harm than good.,Die Behandlung schadet mehr als sie nützt.,There is no harm in asking.,Fragen kostet nichts.,There is no harm in trying.,Ein Versuch kann nicht schaden.,I don't see any harm / There's no harm / What's the harm in having the data also stored on the Internet.,Es kann ja nicht schaden, / Es ist ja nichts dabei, wenn die Daten auch im Internet gespeichert sind.,It wouldn't do her any harm to get a bit more practice.,Es würde ihr nicht schaden, etwas mehr praktische Erfahrung zu sammeln.,Hard work never did anyone any harm.,Harte Arbeit hat noch niemandem geschadet.,She didn't mean any harm.,Sie hat es nicht böse gemeint.,No harm intended.,Es war nicht böse gemeint.,I didn't mean any harm by it.,Es war nicht böse gemeint.,No harm meant!,Nichts für ungut!,'I'm sorry''No harm done.',„Entschuldigung.“ „Nichts passiert.“
+harm>Schaden,Unheil,do sb. harm,jdm. schaden,jdm. etw. antun,protect children from harm,Kinder vor Schaden bewahren,make sure that they won't come to any harm / that no harm will come to them,sichergehen, dass sie nicht zu Schaden kommen,The treatment does more harm than good.,Die Behandlung schadet mehr als sie nützt.,There is no harm in asking.,Fragen kostet nichts.,There is no harm in trying.,Ein Versuch kann nicht schaden.,I don't see any harm / There's no harm / What's the harm in having the data also stored on the Internet.,Es kann ja nicht schaden, / Es ist ja nichts dabei, wenn die Daten auch im Internet gespeichert sind.,It wouldn't do her any harm to get a bit more practice.,Es würde ihr nicht schaden, etwas mehr praktische Erfahrung zu sammeln.,Hard work never did anyone any harm.,Harte Arbeit hat noch niemandem geschadet.,She didn't mean any harm.,Sie hat es nicht böse gemeint.,No harm intended.,Es war nicht böse gemeint.,I didn't mean any harm by it.,Es war nicht böse gemeint.,No harm meant!,Nichts für ungut!,'I'm sorry''No harm done.',�?Entschuldigung.“ �?Nichts passiert.“
 harms>Schäden,Unheile
 No offence meant.>Es war nicht böse gemeint.
 No offence!>Nichts für ungut!
@@ -48767,7 +48767,7 @@ switch fields>Schaltfelder
 control button>Schaltfläche
 command button>Schaltfläche
 pushbutton>Schaltfläche
-button>Schaltfläche,the OK button in a dialogue box,die Schaltfläche „OK“ in einem Dialogfenster,the cancel button,die Schaltfläche „Abbrechen“,the maximize button,die Schaltfläche „Maximieren“
+button>Schaltfläche,the OK button in a dialogue box,die Schaltfläche �?OK“ in einem Dialogfenster,the cancel button,die Schaltfläche �?Abbrechen“,the maximize button,die Schaltfläche �?Maximieren“
 control buttons>Schaltflächen
 command buttons>Schaltflächen
 pushbuttons>Schaltflächen
@@ -52223,9 +52223,9 @@ use truncheons>Schlagstöcke einsetzen
 picking stick>Schlagstock
 picking stick motion>Schlagstockführung
 picking sticks>Schlagstöcke
-emergency pushbutton>Schlagtaste „Not-Aus“
-panic pushbutton>Schlagtaste „Not-Aus“
-slam>Schlagtaste „Not-Aus“
+emergency pushbutton>Schlagtaste �?Not-Aus“
+panic pushbutton>Schlagtaste �?Not-Aus“
+slam>Schlagtaste �?Not-Aus“
 pushbutton>Schlagtaster
 baton technique>Schlagtechnik
 striking clock>Schlaguhr
@@ -53282,7 +53282,6 @@ cradle>Schlitten
 slides>Schlitten
 cradles>Schlitten
 motor>Schlitten
-car>Schlitten
 fantastic car>toller Schlitten,heißer Schlitten
 hot motor>toller Schlitten,heißer Schlitten
 ram>Schlitten
@@ -53849,7 +53848,7 @@ tail piece>Schlussvignette
 final curtain>Schlussvorhang,The final curtain has fallen/come down on/for this institution.,Für diese Einrichtung ist der Schlussvorhang gefallen.,The final curtain has dropped/fallen/come down on the life of the popular actor.,Für den beliebten Schauspieler ist der Schlussvorhang gefallen.
 closing words>Schlusswort
 clearing signal>Schlusszeichen
-knock off>Schluss machen,aufhören,The boss said we could knock off (work) early today.,Der Chef hat gesagt, dass wir heute früher Schluss machen können.,'What time do you knock off work?''I don't knock off until five.',„Wann hast du denn Arbeitsschluss?“ „Ich habe erst um fünf aus.“,Let's knock off for lunch.,Machen wir Mittagspause.
+knock off>Schluss machen,aufhören,The boss said we could knock off (work) early today.,Der Chef hat gesagt, dass wir heute früher Schluss machen können.,'What time do you knock off work?''I don't knock off until five.',�?Wann hast du denn Arbeitsschluss?“ �?Ich habe erst um fünf aus.“,Let's knock off for lunch.,Machen wir Mittagspause.
 knock it off>Schluss machen,aufhören,I told you two kids to knock it off!,Ich habe Euch beiden doch gesagt, ihr sollt damit aufhören.
 Knock off your fighting right now!>Hört sofort mit dem Gerangel auf!
 sign off>Schluss machen
@@ -56893,7 +56892,7 @@ planetary camera>Schrittgerät
 walking pace>Schrittgeschwindigkeit,Schritttempo,Schritt
 walking speed>Schrittgeschwindigkeit,Schritttempo,Schritt,drive at walking speed,in Schrittgeschwindigkeit fahren
 go at a crawl>in Schrittgeschwindigkeit fahren
-">„Schritttempo“,„Schritt fahren“
+">�?Schritttempo“,�?Schritt fahren“
 standover>Schritthöhe
 stride length>Schrittlänge
 step length>Schrittlänge
@@ -63468,7 +63467,7 @@ Ceram Sea>Seramsee
 seraph>Seraph
 seraphim>Seraphe,Seraphim
 seraglio>Serail
-'>„Die Entführung aus dem Serail“
+'>�?Die Entführung aus dem Serail“
 serows>Seraue
 serenade>Serenade,Ständchen
 serenades>Serenaden,Ständchen
@@ -66439,7 +66438,7 @@ debit side>Soll
 debit>Soll
 target>Soll,Plansoll
 nominal>Soll…
-Whatever!>Soll sein!,Von mir aus!,'Fungi are not plants.''Whatever!',„Pilze sind keine Pflanzen.“ „Soll sein!“
+Whatever!>Soll sein!,Von mir aus!,'Fungi are not plants.''Whatever!',�?Pilze sind keine Pflanzen.“ �?Soll sein!“
 debit and credit>Soll und Haben
 kettle hole>Söll,Soll,Toteisloch,Toteiskessel
 kettle>Söll,Soll,Toteisloch,Toteiskessel
@@ -70771,10 +70770,10 @@ outside the English-speaking area>außerhalb des englischen Sprachraums
 language use>Sprachgebrauch
 language usage>Sprachgebrauch
 linguistic usage>Sprachgebrauch
-usage>Sprachgebrauch,in common usage,im allgemeinen Sprachgebrauch,in current usage,im modernen Sprachgebrauch,in everyday usage,in der Alltagssprache,a usage example,ein Beispiel für den Sprachgebrauch,In proper usage, the verb"to collide"requires two active partners.,Wenn es richtig gebraucht wird, verlangt das Verb „kollidieren“ zwei aktive Beteiligte.,In usual usage it means break, but other uses are possible.,Im normalen Sprachgebrauch bedeutet es Pause, aber es kann auch anders gebraucht werden.
+usage>Sprachgebrauch,in common usage,im allgemeinen Sprachgebrauch,in current usage,im modernen Sprachgebrauch,in everyday usage,in der Alltagssprache,a usage example,ein Beispiel für den Sprachgebrauch,In proper usage, the verb"to collide"requires two active partners.,Wenn es richtig gebraucht wird, verlangt das Verb �?kollidieren“ zwei aktive Beteiligte.,In usual usage it means break, but other uses are possible.,Im normalen Sprachgebrauch bedeutet es Pause, aber es kann auch anders gebraucht werden.
 in common use>im allgemeinen Sprachgebrauch
 in current use>im modernen Sprachgebrauch
-parlance>Sprachgebrauch,Jargon,in modern/general/legal parlance,im modernen/allgemeinen/juristischen Sprachgebrauch,in climbing/advertising parlance,im Kletterjargon/im Werbejargon,rhinoplasty or'nose job'as it is known/expressed in common parlance,Rhinoplastik oder „Nasenkorrektur“ wie es im Volksmund heißt,a dated term which was once in common parlance/use,ein veralteter Ausdruck, der einmal allgemeiner Sprachgebrauch war,In restaurant parlance,'Mayfair Italian'often means overwrought, expensive food.,Im Sprachgebrauch/In der Sprache der Gastronomie bedeutet'Mayfair Italian'oft übertrieben raffiniertes, teures Essen.,A body search is what is known in common parlance as'frisk'.,Eine Leibesvisitation ist das, was man landläufig'Filzen'nennt.,The term has become common parlance.,Der Ausdruck ist mittlerweile in den allgemeinen Sprachgebrauch übergegangen.,The term is now in common parlance.,Der Ausdruck ist mittlerweile in den allgemeinen Sprachgebrauch übergegangen.,'Optical signalling system'meaning'traffic lights'is not used in everyday parlance.,„Lichtsignalanlage“ im Sinne von „Ampel“ ist in der Alltagssprache nicht gebräuchlich.
+parlance>Sprachgebrauch,Jargon,in modern/general/legal parlance,im modernen/allgemeinen/juristischen Sprachgebrauch,in climbing/advertising parlance,im Kletterjargon/im Werbejargon,rhinoplasty or'nose job'as it is known/expressed in common parlance,Rhinoplastik oder �?Nasenkorrektur“ wie es im Volksmund heißt,a dated term which was once in common parlance/use,ein veralteter Ausdruck, der einmal allgemeiner Sprachgebrauch war,In restaurant parlance,'Mayfair Italian'often means overwrought, expensive food.,Im Sprachgebrauch/In der Sprache der Gastronomie bedeutet'Mayfair Italian'oft übertrieben raffiniertes, teures Essen.,A body search is what is known in common parlance as'frisk'.,Eine Leibesvisitation ist das, was man landläufig'Filzen'nennt.,The term has become common parlance.,Der Ausdruck ist mittlerweile in den allgemeinen Sprachgebrauch übergegangen.,The term is now in common parlance.,Der Ausdruck ist mittlerweile in den allgemeinen Sprachgebrauch übergegangen.,'Optical signalling system'meaning'traffic lights'is not used in everyday parlance.,�?Lichtsignalanlage“ im Sinne von �?Ampel“ ist in der Alltagssprache nicht gebräuchlich.
 sprachgefühl>Sprachgefühl
 intuitive feeling for the idiom of the language>Sprachgefühl
 speech synthesizer>Sprachgenerator
@@ -73189,7 +73188,7 @@ tribalism>Stammessystem
 tribalisms>Stammessysteme
 principal form>Stammform
 principal forms>Stammformen
-the principal parts of the verb >die Stammformen des Zeitworts „leben“
+the principal parts of the verb >die Stammformen des Zeitworts �?leben“
 regular guest>Stammgast
 regular>Stammgast
 regulars>Stammgäste
@@ -73271,7 +73270,7 @@ aborigines>Stammvolk
 loyal voter>Stammwähler
 loyal voters>Stammwähler
 root word>Stammwort
-root>Stammwort,'Walk'is the root of'walks'and'walked'.,„Gehen“ ist das Stammwort zu „geht“ und „ging“.
+root>Stammwort,'Walk'is the root of'walks'and'walked'.,�?Gehen“ ist das Stammwort zu �?geht“ und �?ging“.
 radical>Stammwort
 original gravity>Stammwürzgehalt,Stammwürze
 original extract>Stammwürzgehalt,Stammwürze
@@ -76717,4 +76716,4 @@ enabling keys>Steuerstromtasten
 tax pattern>Steuerstruktur
 tax deferment>Steuerstundung
 tax deferral>Steuerstundung
-respite granted for tax payment>Steuerstundung
+respite granted for tax payment>Steuerstundung

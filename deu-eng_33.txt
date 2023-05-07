@@ -857,7 +857,7 @@ Firmenfest>firm's party,office party
 Kranhaken>crane hook,crane hooks
 Steuerbemessungsgrundlage>taxable base,tax base
 Verantwortungsgefühl>sense of responsibility
-„Und was ist dann passiert?“, hakte er nach.>'And then what happened?' he prompted.
+�?Und was ist dann passiert?“, hakte er nach.>'And then what happened?' he prompted.
 Teebüchsen>tea caddies,caddies
 Fischerhütten>fishing huts,fishing lodges
 Kabelbrüche>cable breaks
@@ -1615,7 +1615,7 @@ Mosaiken>mosaics
 Karosserielackierer>panel painter,panel painters
 Kehrt!>About-turn,About-face!
 Gingan>gingham
-Wenn es richtig gebraucht wird, verlangt das Verb „kollidieren“ zwei aktive Beteiligte.>In proper usage, the verb "to collide" requires two active partners.
+Wenn es richtig gebraucht wird, verlangt das Verb �?kollidieren“ zwei aktive Beteiligte.>In proper usage, the verb "to collide" requires two active partners.
 aufgesattelt>saddled,saddled up a riding animal
 er/sie schneidet>he/she cuts
 angeschimpft>ranted at,ranted and raved at
@@ -4893,7 +4893,7 @@ Teilung/Abstand der Zahnspitzen>tooth tip spacing,tooth tip space
 Wanderrucksack>backpack,knapsack
 Schnellkost-Restaurant>fast-food restaurant,Schnellkost-Restaurants
 zur selben Zeit>at the same time,Treffen wir uns Mittwoch zur selben Zeit / um die gleiche Zeit.
-zusehen>watch,„Ich kann nicht zusehen
+zusehen>watch,�?Ich kann nicht zusehen
 Verfemung>ostracism,outlawry
 auflüpfisch>awkward,defiant
 Musikakademie>college of music,academy of music
@@ -8547,7 +8547,7 @@ Fotostudio>photographic studio
 Kontaktstückträger>contact support,contact supports
 Monolog>monologue,monolog
 Zahlenmenschen>numbers men,numbers persons
-„Sie sind festgenommen. Sie haben das Recht, zu schweigen.“>'You are under arrest. You have the right to remain silent.'
+�?Sie sind festgenommen. Sie haben das Recht, zu schweigen.“>'You are under arrest. You have the right to remain silent.'
 Schwarzsegler>black swift
 Stahlbalken>steel beam
 Braunbaucheremit>tawny-bellied hermit
@@ -8590,7 +8590,7 @@ Verwundete>wounded person
 Kesselschmied>boiler maker
 Geschäftsausstattung>office equipment,business equipment
 Magnesiumlegierung>magnesium alloy
-„Bist du enttäuscht?“ „Durchaus nicht!“>'Are you disappointed?' 'By no means!' / 'Not at all!'
+�?Bist du enttäuscht?“ �?Durchaus nicht!“>'Are you disappointed?' 'By no means!' / 'Not at all!'
 sich um Ordnung und Pünktlichkeit bemühen>strive to be tidy and punctual
 sich nach etw. sehnen>feel a wistfulness for sth.,crave sth.
 Kapitalrücklage>share premium reserve,premium reserve
@@ -9358,7 +9358,7 @@ Ergebnispotenzierung>synergy
 Ethnopsychiaterin>ethnopsychiatrist
 Privatversicherung>private insurance
 Steueroptimierungsmodell>tax shelter,tax saving scheme
-„Ich weiß nicht, ob das zum jetzigen Zeitpunkt ratsam ist“, blockte er ab.>'I'm not sure if that's advisable at this point.' he demurred.
+�?Ich weiß nicht, ob das zum jetzigen Zeitpunkt ratsam ist“, blockte er ab.>'I'm not sure if that's advisable at this point.' he demurred.
 zugießend>adding
 Obfrau>chairman,chairwomen
 etw. mit etw. bestücken>stock sth. with sth.
@@ -12603,7 +12603,7 @@ Haftie>sticky note,post-it note
 putzt sich>preens himself/herself
 Arbeit vor Ort>fieldwork,field-based work
 großes Pensum>a great deal of work
-„Weißt du was ich meine?“ „So ungefähr.“>'Do you know what I mean?' 'Sort of.'
+�?Weißt du was ich meine?“ �?So ungefähr.“>'Do you know what I mean?' 'Sort of.'
 setzt zu>admixes
 Dickschnabel-Bronzekuckuck>pied bronze cuckoo
 verzahnter Balken>joggle beam
@@ -20327,7 +20327,7 @@ Kommunikationspartner>communication partner,communication partners
 sich gerauft>scuffled
 Nachtbilder>night exposures,night photographs
 computerunabhängig>computer independent
-„Ich mag keinen Spinat.“ „Geht mir genauso.“>'I don't like spinach.' 'Ditto.'
+�?Ich mag keinen Spinat.“ �?Geht mir genauso.“>'I don't like spinach.' 'Ditto.'
 Zwillingsarten>sibling species,cryptic species
 Dosierwaagen>proportioning weighers
 Belastungen>debits,charges
@@ -22824,7 +22824,7 @@ Zeitschinderei>time-wasting
 Morotailederkopf>dusky friarbird
 Wau-Wau-Dämpfer>wow-wow mute,Wau-Wau-Dämpfer
 Sie ist aus unserer Mannschaft nicht mehr wegzudenken.>I can't imagine our team without her.
-„Morgen ist Vatertag.“ „Ah ja, stimmt!“>'It's Father's Day tomorrow.' 'It is indeed, you're right!'
+�?Morgen ist Vatertag.“ �?Ah ja, stimmt!“>'It's Father's Day tomorrow.' 'It is indeed, you're right!'
 Gipsspreizer>plaster spreading forceps,plaster spreader
 modifizierte>modified
 Hundebesitzer>dog owner,dog owners
@@ -23506,7 +23506,7 @@ mit steinerner Miene>stonily,stony-faced
 Geröll…>detrital
 Bootsservice>boat service
 Wohnungseigentümergemeinschaft>commonhold association,condominium association
-„Gassen besetzt“-Ton>engaged tone,busy tone
+�?Gassen besetzt“-Ton>engaged tone,busy tone
 noch>have yet to …,be yet to …
 Anschlitzzunge>tongue-and-groove joint
 Klapse>dabs
@@ -23806,7 +23806,7 @@ bürgermeisterlich>mayoral
 rennen>rush,run
 Ablagerung feiner Teilchen>clogging
 Seidenteppich>silk carpet
-Initiative „Gesunde Städte“>'Healthy towns' initiative
+Initiative �?Gesunde Städte“>'Healthy towns' initiative
 Eröffnungen von Kunstausstellung>vernissages,previews
 entschuldigend>excusing,pardoning
 Seitenzug-Felgenbremse>side-pull caliper brake
@@ -26691,7 +26691,7 @@ Entwässerungsleitung>drain pipe
 Gerinnungszeit>clotting time,coagulation time
 Moskauerin>Muscovite
 Allerwertester>buttock,bottom
-Er steht derzeit als Petruchio in „Der Widerspenstigen Zähmung“ auf der Bühne/vor der Kamera.>He is currently appearing as Petruchio in 'The Taming of the Shrew'.
+Er steht derzeit als Petruchio in �?Der Widerspenstigen Zähmung“ auf der Bühne/vor der Kamera.>He is currently appearing as Petruchio in 'The Taming of the Shrew'.
 Sonnenflecken>sunspots
 Spassjunkies>pleasure lovers,pleasure seekeirs
 Der islamische Staat>The Islamic State
@@ -27269,7 +27269,7 @@ nach Steuern>after tax,on an after-tax basis
 Eigenfunktion>eigenfunction
 Stilmöbel>period furniture
 jdn. betreffen>be of relevance to sb.
-„Sharp“ ist die englische Bezeichnung für jemanden, der sehr intelligent ist.>In English, "sharp" is the term used to describe someone who is very intelligent.
+�?Sharp“ ist die englische Bezeichnung für jemanden, der sehr intelligent ist.>In English, "sharp" is the term used to describe someone who is very intelligent.
 Tücke>perniciousness,pitfall
 versetzte>transposed
 mit baumartiger Zeichnung>dendritic,dendritical
@@ -30866,7 +30866,7 @@ Seilgarten>ropes course
 melkitische Kirche>Melkite Church,Melchite Church
 Pfastergrün>paving joint vegetation,pavement planting
 Zelot>zealot,fanatic
-Wenn ich das Wort „Börse“ höre, schalte ich ab.>When I hear the word "stock exchange" I switch off.
+Wenn ich das Wort �?Börse“ höre, schalte ich ab.>When I hear the word "stock exchange" I switch off.
 rechtswidriges/gesetzwidriges Verhalten>malfeasance
 Stuckateure>workers in stucco,stuccoers
 Institution>establishment,institution
@@ -33338,7 +33338,7 @@ Tauchkurs>diving course
 aus etw. hinausfallen>fall outside
 Palettenlager>pallet warehouse
 Saughöhe>suction head,suction lift
-„Kann ich heute abend ausgehen?“ „Na gut.“>'Can I go out tonight?' 'I suppose so.'
+�?Kann ich heute abend ausgehen?“ �?Na gut.“>'Can I go out tonight?' 'I suppose so.'
 Priele>tidal inlets,tidal creeks
 Kühlplatte>cooling pad
 Mauerkappen>crests of walls
@@ -33347,7 +33347,7 @@ Sparbriefe>savings certificates,bank savings bonds
 rotierte>turned,rotated
 Segelflug>gliding,soaring
 Wirbelwinde>twisters
-nach dem Grundsatz „Zahlung Zug um Zug gegen Lieferung“>on a delivery-versus-payment basis
+nach dem Grundsatz �?Zahlung Zug um Zug gegen Lieferung“>on a delivery-versus-payment basis
 angeglotzt>stared at,stared
 i. d. R.>generally,usually
 Topfenstrudel>cream cheese strudel,curd cheese strudel
@@ -33689,7 +33689,7 @@ Schadensereignisse>harmful events,damaging events
 Wirtschaftssystem mit breiter Bürgerbeteiligung>stakeholder economy
 immunisierend>immunising,immunizing
 am mobilsten>most mobile
-Er rief „Baum fällt“, als sich die Fichte zu Boden neigte.>He shouted 'Timber!' as the spruce began to fall.
+Er rief �?Baum fällt“, als sich die Fichte zu Boden neigte.>He shouted 'Timber!' as the spruce began to fall.
 Militärluftfahrzeugführer>military aircraft pilot, military pilot
 Bauchlage>prone position
 Himmelsleitergewächse>polemoniaceous plants,phlox family
@@ -33787,7 +33787,7 @@ Ersatzteilversorgung>spare parts supply,supply of spare parts
 ausgestreckt gehalten>outstretched,stretched out
 follikuläres Keimzentrumslymphom>follicular lymphoma
 Serpentinen>serpentines,winding roads
-„Ich habe mich aus meinem Online-Konto ausgesperrt.“ „Schon wieder!“>'I've locked myself out of my online account.' 'Again!'
+�?Ich habe mich aus meinem Online-Konto ausgesperrt.“ �?Schon wieder!“>'I've locked myself out of my online account.' 'Again!'
 um das Fünffache steigen>quintuple,multiply fivefold
 Schwanzhammer>trip hammer,tilt hammer
 scharfe Worte>harsh words
@@ -39945,7 +39945,7 @@ Ausweichende>avoider
 Bollerwagen>handcart,cart
 Hornhai>horn shark
 kulturelle Anpassung>acculturation,cultural assimilation
-Obwohl er ihnen seinen Vornamen nannte, redeten sie ihn weiterhin mit „Herr Doktor“ an.>Although he told them his first name, they continued to address him as "Doctor".
+Obwohl er ihnen seinen Vornamen nannte, redeten sie ihn weiterhin mit �?Herr Doktor“ an.>Although he told them his first name, they continued to address him as "Doctor".
 Teilekennzeichnung>parts marking
 Fruchtbarkeitsklinik>fertility clinic
 in Schutz genommen>sheltered,screened
@@ -40365,7 +40365,7 @@ Diapensien>diapensias
 bukolisch>bucolic
 Bühnenbau>stage architecture
 Betriebsprüfungsunternehmen>auditing company,audit company
-„Bleib, wo du bist!“ krächzte er.>'Stay where you are', he rasped.
+�?Bleib, wo du bist!“ krächzte er.>'Stay where you are', he rasped.
 Tagesschwankungen>intra-day fluctuations
 Ich konnte meine Wunde selbst versorgen.>I had time to dress / doctor my wound.
 Steppstich>backstitch,lockstitch
@@ -43411,7 +43411,7 @@ eingefettet>greased,lubricated with grease
 etw. austarieren>balance sth.,balance out sth.
 Chemietechnologie>chemical technology
 lud neu ein>reinvited
-„Tom kann nicht kommen, weil er müde ist.“ – „Von wegen müde! Faul ist er!“>'Tom can't come because he's tired.' – 'Tired my foot/eye! More like lazy!'
+�?Tom kann nicht kommen, weil er müde ist.“ – �?Von wegen müde! Faul ist er!“>'Tom can't come because he's tired.' – 'Tired my foot/eye! More like lazy!'
 Abstrich>microbiological swab,swab
 Rescinnamin>rescinnamine
 Kappengewinde>cap thread
@@ -45299,7 +45299,7 @@ Lied>song,ein Lied anstimmen
 Die Erde besteht zu 70 Prozent aus Wasser und zu 30 Prozent aus Landmasse.>The earth consists of 70 percent water and 30 percent land mass.
 Bürokleidung>office clothing
 Addier…>adding
-„Kriegt man noch Karten fürs Halbfinale?“, fragte er zuversichtlich.>'Any chance of semi-final tickets?' he asked/queried hopefully.
+�?Kriegt man noch Karten fürs Halbfinale?“, fragte er zuversichtlich.>'Any chance of semi-final tickets?' he asked/queried hopefully.
 Währungsordnung>monetary system
 Kommunikationspartnerinnen>communication partners
 Nusstorte>nut tart,nut cake
@@ -45831,7 +45831,7 @@ Misanthrop>misanthrope
 revidierter Text>recension
 fehlerhaft/defekt sein>be malfunctioning,not to work properly
 schadhaftes Brennelement>failed element,burst slug
-entlaufen>run away,„Hund entlaufen“
+entlaufen>run away,�?Hund entlaufen“
 Die Öffentlichkeit wurde zur Mithilfe aufgerufen.>The public are being enlisted to help.
 etw. vererben>dispose of sth. by will/after one's death
 nicht interpretierbar>uninterpretable
@@ -47630,7 +47630,7 @@ Schweißnippel>weld ferrule
 getupft>dabbed,blotted
 Flachanpassung>flat fit
 Ökosystemwissenschaft>ecosystem science
-„Der Mann ist genial“, stellte sie fest.>'The man is a genius', she opined.
+�?Der Mann ist genial“, stellte sie fest.>'The man is a genius', she opined.
 gut/schlecht schlafen>have a good/bad night's rest
 Ein Gipfeltreffen liegt zwei Jahre zurück, ein weiteres steht unmittelbar bevor.>We are now two years beyond one summit and on the eve of another.
 Rußdrossel>sooty robin
@@ -48691,7 +48691,7 @@ Telearbeiter>teleworker,telecommuter
 aneinander geraten>lock horns
 Briefwähler>postal voter,mail ballot voter
 perforierender Knochenbruch>perforating fracture
-„Hast du den Film spannend gefunden?“ „(Ganz) im Gegenteil, ich bin zwischendurch fast eingeschlafen.“>'Didn't you find the film exciting?' 'On the contrary, I nearly fell asleep half way through it!'
+�?Hast du den Film spannend gefunden?“ �?(Ganz) im Gegenteil, ich bin zwischendurch fast eingeschlafen.“>'Didn't you find the film exciting?' 'On the contrary, I nearly fell asleep half way through it!'
 Spraydosenkappe>aerosol cap
 Fahrkomfort>comfort,passenger comfort
 vorstellbarer Unfall>credible accident,conceivable accident
@@ -51276,7 +51276,7 @@ Gleichgewichtsapparat>vestibular apparatus,vestibular system
 Bildtelegramm>facsimile,wirephoto
 Geräte für die automatische Messdatenerfassung>data acquisition units
 Geheimberichte>secret reports
-Entchen>duckling,„Alle meine Entchen“ (Kinderlied)
+Entchen>duckling,�?Alle meine Entchen“ (Kinderlied)
 ewige Rente>perpetual annuity
 gestarrt>stared,gazed
 Finanzrisiko>financial risk
@@ -52568,7 +52568,7 @@ Abwehrspieler>defender,back
 Herrenschuhe>men's shoes
 frottierend>rubbing down,rubbing
 Ergotamin>ergotamine
-In diesem Beispielsatz steht „noch“, weil „weder“ impliziert ist.>In this example there is "nor" because there is unspoken "neither".
+In diesem Beispielsatz steht �?noch“, weil �?weder“ impliziert ist.>In this example there is "nor" because there is unspoken "neither".
 Immunkörperübertragung>immunotransfusion
 Kurzzeitversuch>accelerated test
 Zahnkeilriemen>toothed V-belt,toothed V-belts
@@ -52950,7 +52950,7 @@ fortbringend>taking away
 Normallast>normal load
 Wahrheiten>truths,truthes
 Fraktionsvorsitzende>parliamentary group leader,parliamentary party leader
-Das Programm hängt beim Klicken auf „Abbrechen“.>The program hangs when 'Cancel' is clicked.
+Das Programm hängt beim Klicken auf �?Abbrechen“.>The program hangs when 'Cancel' is clicked.
 Zirka 45 Prozent des Energieverbrauchs entfallen auf das Heizen und Kühlen.>Around 45 percent of energy consumption is attributable to heating and cooling.
 Sprechfähigkeit>power of speech,speech
 Arbeitsschicht>tour,shift
@@ -53725,7 +53725,7 @@ Zwischenblutung>non-cyclic uterine bleeding,irregular intermenstrual bleeding
 Berechtigungsnachweise>qualifying certificates
 Opfertiere>sacrificial animals
 geplanter Verschleiß>planned obsolescence
-„Gib Seil“>"Slack"
+�?Gib Seil“>"Slack"
 Rechtschreibregel>spelling rule
 unpädagogisch>unpedagogical
 Felgenreinigung>rim cleaning
@@ -56054,7 +56054,7 @@ an vorderster Stelle marschieren>march at the forefront / at the fore / at the f
 Bauerwartungsland>development area,building land/ground
 sich gegenseitig abgesprochen>co-ordinated,coordinated
 Kronwicken>crown-vetches
-Die Antwortskala reicht von „äußerst wahrscheinlich“ bis „äußerst unwahrscheinlich“ auf einer 4-teiligen Likert-Skala.>The choice of answer ranges from 'extremely likely' to 'extremely unlikely' on a 4-point Likert scale.
+Die Antwortskala reicht von �?äußerst wahrscheinlich“ bis �?äußerst unwahrscheinlich“ auf einer 4-teiligen Likert-Skala.>The choice of answer ranges from 'extremely likely' to 'extremely unlikely' on a 4-point Likert scale.
 plauschend>having a chat,chatting
 wässrig verschwommen>watery,aqueous
 Strahlenspülmaschine>injection rinsing machine
@@ -56460,7 +56460,7 @@ Angsthase>coward,faint heart
 Puppentrickfilm>puppet-animated film,puppetoon
 sich übernommen>overspent,overstretched yourself
 Ich bin pleite.>I'm broke.
-„Dem südeuropäischen Land droht der Bankrott“, lautete die Schlagzeile.>'Bankruptcy looms over the Southern European country' ran the headline.
+�?Dem südeuropäischen Land droht der Bankrott“, lautete die Schlagzeile.>'Bankruptcy looms over the Southern European country' ran the headline.
 Portiersloge>porter's lodge,porter's office
 hinweggetäuscht>misled,deceived
 Erregerfrequenz>excitation frequency,exciting frequency
@@ -57417,7 +57417,7 @@ stur an seiner Meinung festhalten>subbornly persist/insist in your opinion
 amakrine Zelle>association cell,amacrine cell
 Im Innenhof des Hotels hätte man ein Kunstjuwel aus dem Barock nicht vermutet.>The courtyard of the hotel was an unlikely place to find an artistic gem of the Baroque period.
 Presseberichterstatterin>press reporter
-„Wer da“-Ruf>challenge
+�?Wer da“-Ruf>challenge
 Ungleichmäßigkeiten>inequalities,asymmetries
 Bezirksliga>county league
 Butandiol>butanediol,butene ether glycol
@@ -57481,7 +57481,7 @@ Ausleihe>loan,issue
 großer Nutzen>convenience
 Windabweiser>air deflector,air deflectors
 plastische Verformung>plastic deformation
-mysteriöses behaartes „Monster“ Nordamerikas>bigfoot,sasquatch
+mysteriöses behaartes �?Monster“ Nordamerikas>bigfoot,sasquatch
 Rauschgold>tinsel,gold foil
 nicht geheilt>unhealed
 entsprießt>sprout from
@@ -58897,7 +58897,7 @@ Kälteanlagenbauer>refrigeration mechanic,refrigeration engineer
 markige Sprüche>sententious sayings
 Hundert>hundred,hundred
 Er lässt es darauf ankommen.>He'll take the chance.
-„Hier spricht Ihr Kapitän“, ertönte eine Stimme über Lautsprecher.>'This is your captain speaking', said a voice over the tannoy.
+�?Hier spricht Ihr Kapitän“, ertönte eine Stimme über Lautsprecher.>'This is your captain speaking', said a voice over the tannoy.
 Eintrittsstufe>entrance step
 Ersatzteilpakete>spare parts packages
 Gesangspartituren>vocal scores
@@ -62641,7 +62641,7 @@ nicht durchgebraten>undercooked
 Wehrverschluss>sluice gate,gate
 gepudert>fucked,banged
 Rotstirnsibia>rusty-fronted barwing
-„Kennst du ihn persönlich?“ „Allerdings.“>'Do you know him personally?' 'As a matter of fact, I do.'
+�?Kennst du ihn persönlich?“ �?Allerdings.“>'Do you know him personally?' 'As a matter of fact, I do.'
 Er nahm die Zeitung und blätterte gleich zu den Sportseiten.>He picked up the newspaper and flipped straight to the sports pages.
 Grundqualifikation>initial qualification,basic qualification
 Leitkanten>guiding edges
@@ -70441,7 +70441,7 @@ Die Touristen zwängten sich in den winzigen Raum.>The tourists squeezed / shoeh
 Umstände>bother,Mach Dir keine Umstände
 Mutterschaft>maternity,motherhood
 anätzend>etching slighly
-„Können wir das so machen?“ „Von mir aus spricht nichts dagegen.“>'Can we do it?' 'I don't see why not.'
+�?Können wir das so machen?“ �?Von mir aus spricht nichts dagegen.“>'Can we do it?' 'I don't see why not.'
 eisgekühlte, halbkugelförmige Süßspeise>bombe
 unter Strom setzen>energize,energise sth.
 Fischer-Eisvögel>water kingfishers
@@ -75677,7 +75677,7 @@ Himalayataube>ashy wood pigeon
 Elektronenverteilung>electron distribution
 Intifada>intifada
 sich eingeölt>oiled oneself
-„Sind Sie sich sicher?“, fragte der Quizmoderator den Kandidaten.>'Are you confident?', the quizmaster asked the contestant.
+�?Sind Sie sich sicher?“, fragte der Quizmoderator den Kandidaten.>'Are you confident?', the quizmaster asked the contestant.
 Herdformerei>hearth moulding
 etw. einspannen>chuck sth.
 Herdglas>hearth glass
@@ -75718,7 +75718,7 @@ Steirische Alpen>Styrian Alps
 Prior>prior
 temporär>temporary
 heraufsetzend>increasing,raising
-Ah ja?>Oh yes?,„Das müsste leicht zu eruieren sein.“ „Ah ja? Wie denn?“
+Ah ja?>Oh yes?,�?Das müsste leicht zu eruieren sein.“ �?Ah ja? Wie denn?“
 Muse>muse,wenn man von der Muse geküsst wird
 Zieleinrichtung>aiming mechanism,aiming contrivance
 umgeben>cloak sth.,mantle sth.
@@ -76657,7 +76657,7 @@ Unverzichtbarkeit>indispensability
 Bewehrungselement>reinforcing element
 boreonemoral>boreal-nemoral,boreonemoral
 einen Laubteppich bilden>form a carpet of leaves
-„Das ist mir ziemlich wurscht!“ keifte sie.>'I really don't much care', she snapped.
+�?Das ist mir ziemlich wurscht!“ keifte sie.>'I really don't much care', she snapped.
 ausgesendet>sent out,er/sie hat/hatte ausgesendet
 Kinematik>kinematics,cinematics
 begehrlich>graspingly,greedily

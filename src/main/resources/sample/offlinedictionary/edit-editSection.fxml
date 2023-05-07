@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Bloom?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane fx:id="root6" prefHeight="480.0" prefWidth="800.0" stylesheets="@Style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sample.offlinedictionary.Controller">
+   <children>
+      <VBox prefHeight="480.0" prefWidth="800.0">
+         <children>
+            <HBox alignment="CENTER_LEFT" opacity="0.4" prefHeight="100.0" prefWidth="200.0" style="-fx-background-color: black;">
+               <children>
+                  <Label prefHeight="100.0" prefWidth="200.0" text="Offline&#10;Dictionary" textFill="WHITE">
+                     <font>
+                        <Font name="SansSerif Regular" size="32.0" />
+                     </font>
+                     <HBox.margin>
+                        <Insets />
+                     </HBox.margin>
+                     <padding>
+                        <Insets left="5.0" />
+                     </padding>
+                     <effect>
+                        <Bloom />
+                     </effect>
+                  </Label>
+                  <Pane prefHeight="200.0" prefWidth="200.0" />
+                  <Button mnemonicParsing="false" onAction="#editInfo" prefHeight="100.0" prefWidth="200.0" text="INFO" textFill="WHITE">
+                     <font>
+                        <Font name="Microsoft JhengHei" size="18.0" />
+                     </font>
+                     <effect>
+                        <Bloom />
+                     </effect>
+                  </Button>
+                  <Button layoutX="410.0" layoutY="10.0" mnemonicParsing="false" onAction="#editClose" prefHeight="100.0" prefWidth="200.0" text="BACK" textFill="WHITE">
+                     <font>
+                        <Font name="Microsoft JhengHei" size="18.0" />
+                     </font>
+                     <effect>
+                        <Bloom />
+                     </effect>
+                  </Button>
+               </children>
+            </HBox>
+            <ChoiceBox fx:id="editSecChoiceBox" blendMode="MULTIPLY" prefWidth="150.0">
+               <VBox.margin>
+                  <Insets left="20.0" top="20.0" />
+               </VBox.margin>
+            </ChoiceBox>
+            <HBox prefHeight="58.0" prefWidth="800.0">
+               <children>
+                  <TextField fx:id="editSecTextField" prefWidth="300.0" promptText="Enter Word">
+                     <HBox.margin>
+                        <Insets left="20.0" top="10.0" />
+                     </HBox.margin>
+                  </TextField>
+                  <Button fx:id="editSecSearchButton" mnemonicParsing="false" onAction="#editTranslate" stylesheets="@Style.css" text="Search" textFill="WHITE">
+                     <HBox.margin>
+                        <Insets top="10.0" />
+                     </HBox.margin>
+                  </Button>
+                  <TextField fx:id="editSecTextField2" layoutX="50.0" layoutY="20.0" prefWidth="300.0" promptText="Word&gt;meaning1,meaning2,meaning3...">
+                     <HBox.margin>
+                        <Insets left="100.0" top="10.0" />
+                     </HBox.margin>
+                  </TextField>
+               </children>
+            </HBox>
+            <HBox prefHeight="222.0" prefWidth="800.0">
+               <children>
+                  <TextArea fx:id="editSecTextArea" editable="false" prefHeight="222.0" prefWidth="380.0">
+                     <HBox.margin>
+                        <Insets left="20.0" />
+                     </HBox.margin>
+                  </TextArea>
+                  <Pane opacity="0.4" prefHeight="30.0" prefWidth="150.0" style="-fx-background-color: black;">
+                     <HBox.margin>
+                        <Insets bottom="170.0" left="70.0" />
+                     </HBox.margin>
+                     <children>
+                        <Button fx:id="editSecEditButton" mnemonicParsing="false" onAction="#editWord" prefHeight="52.0" prefWidth="150.0" text="EDIT" textFill="WHITE">
+                           <font>
+                              <Font name="Microsoft JhengHei" size="16.0" />
+                           </font>
+                           <effect>
+                              <Bloom />
+                           </effect>
+                        </Button>
+                     </children>
+                  </Pane>
+               </children>
+            </HBox>
+         </children>
+      </VBox>
+   </children>
+</AnchorPane>
